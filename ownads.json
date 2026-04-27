@@ -5,10 +5,10 @@
   "is_watermark_enabled": true,
   
   "marquee_ad": {
-    "scheduled_time": "28-04-2026 02:10", 
+    "scheduled_time": "28-04-2026 02:27am", 
     "text": "আমাদের স্পন্সর 'X-Brand' থেকে পণ্য কিনলে ৫০% ছাড়! ভিজিট করুন...",
-    "show_after_minutes": 2,       
-    "duration_minutes": 1,         
+    "show_after_minutes": 0,       
+    "duration_minutes": 5,         
     "scroll_speed": "normal",      
     "bottom_margin_dp": 60,        
     "text_color": "#FFFFFF",
@@ -17,13 +17,13 @@
   },
 
   "image_ad": {
-    "scheduled_time": "28-04-2026 02:10",
+    "scheduled_time": "28-04-2026 02:27am",
     "image_url": "https://i.postimg.cc/nc3yhfTM/20260426-201608.png",
     "position": "bottom_right",       
     "width_dp": 120,               
     "height_dp": 40,
-    "show_after_minutes": 5,       
-    "duration_seconds": 30,        
+    "show_after_minutes": 0,       
+    "duration_seconds": 60,        
     "max_shows_per_day": 3,
     "opacity": 0.9
   },
@@ -33,6 +33,6 @@
     "position": "top_right",
     "width_dp": 60,
     "height_dp": 60,
-    "opacity": 0.4
+    "opacity": 0.8
   }
 }
