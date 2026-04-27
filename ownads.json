@@ -5,7 +5,7 @@
   "is_watermark_enabled": true,
   
   "marquee_ad": {
-    "scheduled_time": "28-04-2026 02:05", 
+    "scheduled_time": "28-04-2026 02:10", 
     "text": "আমাদের স্পন্সর 'X-Brand' থেকে পণ্য কিনলে ৫০% ছাড়! ভিজিট করুন...",
     "show_after_minutes": 2,       
     "duration_minutes": 1,         
@@ -17,7 +17,7 @@
   },
 
   "image_ad": {
-    "scheduled_time": "28-04-2026 02:05",
+    "scheduled_time": "28-04-2026 02:10",
     "image_url": "https://i.postimg.cc/nc3yhfTM/20260426-201608.png",
     "position": "bottom_right",       
     "width_dp": 120,               
