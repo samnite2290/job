@@ -1,0 +1,12 @@
+[
+  { 
+    "button_name": "Popular Radio",
+    "button_image_url": "https://i.postimg.cc/pV9Vbtfv/image.jpg",
+    "button_playlist_url": "https://raw.githubusercontent.com/sirometv/playlist/main/FM-Radio.m3u"
+  },
+ {  
+    "button_name": "Afghanistan",
+    "button_image_url": "https://i.postimg.cc/sDr2pNWr/image.jpg",
+    "button_playlist_url": "https://raw.githubusercontent.com/sirometv/playlist/main/Afghanistan.m3u"
+  }
+]
