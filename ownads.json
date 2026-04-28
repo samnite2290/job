@@ -5,7 +5,7 @@
   "is_watermark_enabled": true,
   
   "marquee_ad": {
-    "scheduled_time": "28-04-2026 02:27am", 
+    "scheduled_time": "28-04-2026 02:27pm", 
     "text": "আমাদের Sawarid এপ্সটি পরিক্ষা মূলক সম্প্রচার করা হচ্ছে। আপনি চাইলে আপনার প্রোডাক্ট এর বিজ্ঞান দিতে পারেন আমাদের এপ্সের ভেতর, সরাসরি খেলা চলাকালীন সবাই দেখতে পারবে। দ্রুত আমাদের সাথে যোগাযোগ করুন, ধন্যবাদ।  আমাদের স্পন্সর 'X-Brand' থেকে পণ্য কিনলে ৫০% ছাড়! ভিজিট করুন...",
     "show_after_minutes": 0,       
     "duration_minutes": 5,         
@@ -17,13 +17,19 @@
   },
 
   "image_ad": {
-    "scheduled_time": "28-04-2026 02:27am",
-    "image_url": "https://i.postimg.cc/Hxx8cPhF/20260426-201608.png",
+    "scheduled_time": "28-04-2026 02:27pm",
+    "image_urls": [
+      "https://i.postimg.cc/Hxx8cPhF/20260426-201608.png",
+      "https://example.com/ad_image_2.png",
+      "https://example.com/ad_image_3.png"
+    ],
     "position": "bottom_right",       
     "width_dp": 120,               
     "height_dp": 40,
+    "margin_x_dp": 16,
+    "margin_y_dp": 20,
     "show_after_minutes": 0,       
-    "duration_seconds": 60,        
+    "duration_seconds": 20,        
     "max_shows_per_day": 300,
     "opacity": 0.9
   },
@@ -33,6 +39,8 @@
     "position": "top_right",
     "width_dp": 60,
     "height_dp": 60,
+    "margin_x_dp": 20,
+    "margin_y_dp": 20,
     "opacity": 0.8
   }
 }
