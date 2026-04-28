@@ -29,7 +29,7 @@
     "margin_x_dp": 16,
     "margin_y_dp": 16,
     "show_after_minutes": 0,       
-    "duration_seconds": 60,        
+    "duration_seconds": 10,        
     "max_shows_per_day": 1400,
     "opacity": 0.9
   },
