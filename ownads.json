@@ -19,14 +19,14 @@
   "image_ad": {
     "scheduled_time": "28-04-2026 02:27pm",
     "image_urls": [
-      "https://i.postimg.cc/Hxx8cPhF/20260426-201608.png",
-      "https://example.com/ad_image_2.png",
-      "https://example.com/ad_image_3.png"
+      "https://i.postimg.cc/PrpMXSZ2/20260428-145320.png",
+      "https://i.postimg.cc/wM3QsVrd/20260428-145105.png",
+      "https://i.postimg.cc/PrPSLXGY/20260428-144904.png"
     ],
     "position": "bottom_right",       
     "width_dp": 120,               
     "height_dp": 40,
-    "margin_x_dp": 16,
+    "margin_x_dp": 30,
     "margin_y_dp": 20,
     "show_after_minutes": 0,       
     "duration_seconds": 20,        
