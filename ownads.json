@@ -30,7 +30,7 @@
     "margin_y_dp": 20,
     "show_after_minutes": 0,       
     "duration_seconds": 20,        
-    "max_shows_per_day": 300,
+    "max_shows_per_day": 1400,
     "opacity": 0.9
   },
 
