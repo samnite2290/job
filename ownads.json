@@ -2,7 +2,7 @@
   "is_ads_enabled": true,
   "is_marquee_enabled": true,
   "is_image_enabled": true,
-  "is_watermark_enabled": true,
+  "is_watermark_enabled": false,
   
   "marquee_ad": {
     "scheduled_time": "28-04-2026 02:27am", 
@@ -27,7 +27,7 @@
     "width_dp": 180,               
     "height_dp": 60,
     "margin_x_dp": 16,
-    "margin_y_dp": 80,
+    "margin_y_dp": 100,
     "show_after_minutes": 0,       
     "duration_seconds": 10,        
     "max_shows_per_day": 1400,
@@ -39,8 +39,8 @@
     "position": "top_right",
     "width_dp": 60,
     "height_dp": 60,
-    "margin_x_dp": 16,
-    "margin_y_dp": 16,
+    "margin_x_dp": 20,
+    "margin_y_dp": 20,
     "opacity": 0.8
   }
 }
