@@ -39,8 +39,8 @@
     "position": "top_right",
     "width_dp": 30,
     "height_dp": 30,
-    "margin_x_dp": 40,
-    "margin_y_dp": 40,
+    "margin_x_dp": 60,
+    "margin_y_dp": 60,
     "opacity": 0.8
   }
 }
