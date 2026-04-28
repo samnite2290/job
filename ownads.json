@@ -19,15 +19,15 @@
   "image_ad": {
     "scheduled_time": "28-04-2026 02:27am",
     "image_urls": [
-      "https://i.postimg.cc/PrpMXSZ2/20260428-145320.png",
-      "https://i.postimg.cc/wM3QsVrd/20260428-145105.png",
-      "https://i.postimg.cc/PrPSLXGY/20260428-144904.png"
+      "https://raw.githubusercontent.com/samnite2290/job/gh-pages/IMG/ads1.png",
+      "https://raw.githubusercontent.com/samnite2290/job/gh-pages/IMG/ads2.png",
+      "https://raw.githubusercontent.com/samnite2290/job/gh-pages/IMG/ads3.png"
     ],
     "position": "bottom_right",       
     "width_dp": 180,               
     "height_dp": 60,
     "margin_x_dp": 16,
-    "margin_y_dp": 16,
+    "margin_y_dp": 80,
     "show_after_minutes": 0,       
     "duration_seconds": 10,        
     "max_shows_per_day": 1400,
@@ -35,7 +35,7 @@
   },
 
   "watermark": {
-    "image_url": "https://i.postimg.cc/Hxx8cPhF/20260426-201608.png",
+    "image_url": "https://raw.githubusercontent.com/samnite2290/job/gh-pages/IMG/watarmark.png",
     "position": "top_right",
     "width_dp": 60,
     "height_dp": 60,
