@@ -5,10 +5,10 @@
   "is_watermark_enabled": true,
   
   "marquee_ad": {
-    "scheduled_time": "28-04-2026 02:27pm", 
-    "text": "আমাদের Sawarid এপ্সটি পরিক্ষা মূলক সম্প্রচার করা হচ্ছে। আপনি চাইলে আপনার প্রোডাক্ট এর বিজ্ঞান দিতে পারেন আমাদের এপ্সের ভেতর, সরাসরি খেলা চলাকালীন সবাই দেখতে পারবে। দ্রুত আমাদের সাথে যোগাযোগ করুন, ধন্যবাদ।  আমাদের স্পন্সর 'X-Brand' থেকে পণ্য কিনলে ৫০% ছাড়! ভিজিট করুন...",
+    "scheduled_time": "28-04-2026 02:27am", 
+    "text": "আমাদের Sawarid এপ্সটি পরিক্ষা মূলক সম্প্রচার করা হচ্ছে। আপনি চাইলে আপনার প্রোডাক্ট এর বিজ্ঞাপন দিতে পারেন আমাদের এপ্সের ভেতর, সরাসরি খেলা চলাকালীন সবাই দেখতে পারবে। দ্রুত আমাদের সাথে যোগাযোগ করুন, ধন্যবাদ।",
     "show_after_minutes": 0,       
-    "duration_minutes": 120,         
+    "duration_minutes": 5,         
     "scroll_speed": "normal",      
     "bottom_margin_dp": 60,        
     "text_color": "#FFFFFF",
@@ -17,7 +17,7 @@
   },
 
   "image_ad": {
-    "scheduled_time": "28-04-2026 02:27pm",
+    "scheduled_time": "28-04-2026 02:27am",
     "image_urls": [
       "https://i.postimg.cc/PrpMXSZ2/20260428-145320.png",
       "https://i.postimg.cc/wM3QsVrd/20260428-145105.png",
@@ -26,21 +26,21 @@
     "position": "bottom_right",       
     "width_dp": 120,               
     "height_dp": 40,
-    "margin_x_dp": 30,
-    "margin_y_dp": 20,
+    "margin_x_dp": 16,
+    "margin_y_dp": 16,
     "show_after_minutes": 0,       
-    "duration_seconds": 20,        
+    "duration_seconds": 60,        
     "max_shows_per_day": 1400,
     "opacity": 0.9
   },
 
   "watermark": {
-    "image_url": "https://i.postimg.cc/Hxx8cPhF/20260426-201608.png",
+    "image_url": "https://i.postimg.cc/jqMcyK9q/Chat-GPT-Image-Apr-26-2026-01-03-57-PM.png",
     "position": "top_right",
-    "width_dp": 30,
-    "height_dp": 30,
-    "margin_x_dp": 60,
-    "margin_y_dp": 60,
+    "width_dp": 60,
+    "height_dp": 60,
+    "margin_x_dp": 16,
+    "margin_y_dp": 16,
     "opacity": 0.8
   }
 }
