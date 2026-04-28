@@ -1,0 +1,22 @@
+{
+  "click_intervals": [7, 9, 13],
+  "ad_networks": [
+    {
+      "network_name": "Adsterra",
+      "status": "On",
+      "links": [
+        "https://example.com/adsterra-link-1",
+        "https://example.com/adsterra-link-2"
+      ]
+    },
+    {
+      "network_name": "Monetag",
+      "status": "On",
+      "links": [
+        "https://example.com/monetag-link-1",
+        "https://example.com/monetag-link-2",
+        "https://example.com/monetag-link-3"
+      ]
+    }
+  ]
+}
