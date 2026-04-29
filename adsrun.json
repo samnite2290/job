@@ -1,5 +1,5 @@
 {
-  "click_intervals": [2, 7, 10],
+  "click_intervals": [2, 6, 9, 12, 15],
   "ad_networks": [
     {
       "network_name": "Adsterra",
