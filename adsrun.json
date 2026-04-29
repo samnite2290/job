@@ -1,13 +1,13 @@
 {
-  "click_intervals": [3, 9, 13],
+  "click_intervals": [3, 6, 9, 12, 15],
   "ad_networks": [
     {
       "network_name": "Adsterra",
       "status": "On",
       "links": [
-        "https://clenchinfer.com/fdrnenimd?key=d2bcc08643a94a794af40f3738c31c4b",
         "https://clenchinfer.com/d5yhbq8kg?key=a6e7f0b5411e29ddfc4ad4b07f0bd55e",
-        "https://clenchinfer.com/bv8w90r2?key=d74e1d59949afbcb5588a975eb262202"
+        "https://clenchinfer.com/fdrnenimd?key=d2bcc08643a94a794af40f3738c31c4b",
+        "https://clenchinfer.com/fdrnenimd?key=d2bcc08643a94a794af40f3738c31c4b"
       ]
     },
     {
