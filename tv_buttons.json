@@ -5,6 +5,18 @@
     "button_image_url": "https://i.postimg.cc/pV9Vbtfv/image.jpg",
     "button_playlist_url": "https://raw.githubusercontent.com/sirometv/playlist/main/sirometv.m3u"
   },
+  {  
+   "Auto_Update": "Off",
+    "button_name": "Fancode BD",
+    "button_image_url": "https://i.postimg.cc/SRTFYZPV/image.jpg",
+    "button_playlist_url": "https://raw.githubusercontent.com/sirometv/playlist/main/fancodeBD.m3u"
+  },
+  {  
+   "Auto_Update": "Off",
+    "button_name": "Fancode IND",
+    "button_image_url": "https://i.postimg.cc/bY2BxwtN/image.jpg",
+    "button_playlist_url": "https://raw.githubusercontent.com/sirometv/playlist/main/fancodeIND.m3u"
+  },
  {  
    "Auto_Update": "Off",
     "button_name": "Afghanistan",
