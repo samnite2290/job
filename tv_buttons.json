@@ -6,7 +6,7 @@
     "button_playlist_url": "https://raw.githubusercontent.com/sirometv/playlist/main/sirometv.m3u"
   },
   {  
-   "Auto_Update": "Off",
+   "Auto_Update": "On",
     "button_name": "Fancode BD",
     "button_image_url": "https://i.postimg.cc/SRTFYZPV/image.jpg",
     "button_playlist_url": "https://raw.githubusercontent.com/sirometv/playlist/main/fancodeBD.m3u"
