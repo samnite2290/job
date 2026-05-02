@@ -1,0 +1,226 @@
+name: Update notifications from Fancode
+
+on:
+  schedule:
+    # প্রতি ১৫ মিনিট পরপর রান হবে
+    - cron: '*/15 * * * *'
+  # ম্যানুয়ালি রান করার জন্য
+  workflow_dispatch:
+
+# GitHub token-কে ফাইল পুশ করার অনুমতি দেওয়া
+permissions:
+  contents: write
+
+jobs:
+  update-notifications:
+    runs-on: ubuntu-latest
+    
+    steps:
+      # 1. gh-pages ব্রাঞ্চ ক্লোন করা (যেখানে notifications.json আছে)
+      - name: Checkout gh-pages branch
+        uses: actions/checkout@v4
+        with:
+          ref: gh-pages
+          token: ${{ secrets.GITHUB_TOKEN }}
+      
+      # 2. Python সেটআপ করা
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.10'
+      
+      # 3. Fancode থেকে ডাটা ফেচ করে notifications.json আপডেট করা
+      - name: Fetch and update notifications
+        env:
+          FANCODE_API_URL: ${{ secrets.FANCODE }}
+        run: |
+          python3 - << 'PYTHON_SCRIPT'
+          import json
+          import urllib.request
+          import urllib.error
+          import os
+          import sys
+          from datetime import datetime
+          
+          # API URL চেক করা
+          api_url = os.environ.get('FANCODE_API_URL')
+          if not api_url:
+              print("❌ Error: FANCODE secret is not set in GitHub Actions secrets")
+              print("   Please add your Fancode API URL as 'FANCODE' secret")
+              sys.exit(1)
+          
+          print(f"📡 Fetching data from Fancode API...")
+          print(f"   URL: {api_url[:100]}...")  # URL এর প্রথম 100 অক্ষর দেখানো হচ্ছে
+          
+          try:
+              # API রিকোয়েস্ট করা
+              req = urllib.request.Request(api_url)
+              req.add_header('User-Agent', 'GitHub-Actions/1.0')
+              req.add_header('Accept', 'application/json')
+              
+              with urllib.request.urlopen(req, timeout=30) as response:
+                  raw_data = response.read().decode('utf-8')
+                  data = json.loads(raw_data)
+              
+              print(f"✅ Successfully fetched data")
+              
+          except urllib.error.HTTPError as e:
+              print(f"❌ HTTP Error {e.code}: {e.reason}")
+              sys.exit(1)
+          except urllib.error.URLError as e:
+              print(f"❌ URL Error: {e.reason}")
+              sys.exit(1)
+          except json.JSONDecodeError as e:
+              print(f"❌ Invalid JSON response: {e}")
+              sys.exit(1)
+          except Exception as e:
+              print(f"❌ Unexpected error: {e}")
+              sys.exit(1)
+          
+          # matches array খোঁজা
+          matches = []
+          if isinstance(data, dict):
+              if 'matches' in data:
+                  matches = data['matches']
+                  print(f"📊 Found 'matches' array in response")
+              elif 'data' in data and isinstance(data['data'], dict) and 'matches' in data['data']:
+                  matches = data['data']['matches']
+                  print(f"📊 Found 'data.matches' array in response")
+              else:
+                  print(f"⚠️ No 'matches' found. Available keys: {list(data.keys())}")
+          elif isinstance(data, list):
+              matches = data
+              print(f"📊 Response is directly an array of matches")
+          else:
+              print(f"❌ Unexpected data structure type: {type(data)}")
+              sys.exit(1)
+          
+          if not matches:
+              print("⚠️ No matches found in API response")
+              # খালি notifications.json তৈরি করা
+              with open('notifications.json', 'w', encoding='utf-8') as f:
+                  json.dump([], f, indent=2, ensure_ascii=False)
+              print("✅ Created empty notifications.json")
+              sys.exit(0)
+          
+          print(f"📊 Found {len(matches)} total matches")
+          
+          # notifications অ্যারে তৈরি করা
+          notifications = []
+          converted_count = 0
+          skipped_count = 0
+          
+          for idx, match in enumerate(matches):
+              try:
+                  # startTime ফিল্ড চেক করা
+                  start_time = match.get('startTime', '')
+                  if not start_time:
+                      print(f"⚠️ Match {idx + 1}: No startTime, skipping")
+                      skipped_count += 1
+                      continue
+                  
+                  # টাইম কনভার্ট: "04:30:00 PM 28-04-2026" -> "28-04-2026-04:30pm"
+                  try:
+                      parts = start_time.rsplit(' ', 1)
+                      if len(parts) == 2:
+                          time_part = parts[0]  # "04:30:00 PM"
+                          date_part = parts[1]  # "28-04-2026"
+                          
+                          # সেকেন্ড বাদ দেওয়া
+                          if ':' in time_part:
+                              time_parts = time_part.split(':')
+                              if len(time_parts) >= 2:
+                                  time_part = f"{time_parts[0]}:{time_parts[1]} {time_parts[2] if len(time_parts) > 2 else ''}".strip()
+                          
+                          # lowercase am/pm
+                          time_part = time_part.lower()
+                          date_time = f"{date_part}-{time_part}"
+                      else:
+                          date_time = start_time
+                  except Exception as e:
+                      print(f"⚠️ Match {idx + 1}: Error parsing date '{start_time}': {e}")
+                      date_time = start_time
+                  
+                  # টাইটেল: event_name
+                  title = match.get('event_name', 'Unknown Event')
+                  
+                  # সাবটাইটেল: match_name  
+                  subtitle = match.get('match_name', 'Unknown Match')
+                  
+                  # ইমেজ: src
+                  image = match.get('src', '')
+                  
+                  # ম্যাচের স্ট্যাটাস (অপশনাল, দেখার জন্য)
+                  status = match.get('status', '')
+                  
+                  notification = {
+                      "Date & Time": date_time,
+                      "Title": title,
+                      "Subtitle": subtitle,
+                      "Image": image
+                  }
+                  notifications.append(notification)
+                  converted_count += 1
+                  
+                  # প্রথম ৫টি ম্যাচের ডিটেইল দেখানো হচ্ছে (লগের জন্য)
+                  if converted_count <= 5:
+                      print(f"  📝 Match {converted_count}: {title[:50]}... | {subtitle[:30]}... | {date_time}")
+                  
+              except Exception as e:
+                  print(f"❌ Error processing match {idx + 1}: {e}")
+                  skipped_count += 1
+                  continue
+          
+          # notifications.json ফাইল ওভাররাইট করা
+          try:
+              with open('notifications.json', 'w', encoding='utf-8') as f:
+                  json.dump(notifications, f, indent=2, ensure_ascii=False)
+              print(f"\n✅ Successfully updated notifications.json")
+              print(f"   📊 Converted: {converted_count} notifications")
+              print(f"   ⏭️  Skipped: {skipped_count} matches")
+              print(f"   📁 File size: {len(json.dumps(notifications))} bytes")
+          except Exception as e:
+              print(f"❌ Error writing notifications.json: {e}")
+              sys.exit(1)
+          
+          PYTHON_SCRIPT
+      
+      # 4. ফাইল পরিবর্তন হয়েছে কিনা চেক করা
+      - name: Check for changes
+        id: git-check
+        run: |
+          if git diff --quiet notifications.json; then
+            echo "changed=false" >> $GITHUB_OUTPUT
+            echo "📭 No changes detected in notifications.json"
+          else
+            echo "changed=true" >> $GITHUB_OUTPUT
+            echo "📝 Changes detected in notifications.json"
+            echo "📊 Changes:"
+            git diff --stat notifications.json
+          fi
+      
+      # 5. পরিবর্তন থাকলে কমিট এবং পুশ করা
+      - name: Commit and push changes
+        if: steps.git-check.outputs.changed == 'true'
+        run: |
+          # Git কনফিগার করা
+          git config --local user.name "github-actions[bot]"
+          git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          
+          # ফাইল যোগ করা
+          git add notifications.json
+          
+          # কমিট করা
+          git commit -m "🔄 Auto-update notifications from Fancode ($(date +'%Y-%m-%d %H:%M:%S')) [skip ci]"
+          
+          # পুশ করা
+          git push origin gh-pages
+          
+          echo "✅ Successfully pushed updates to gh-pages branch"
+      
+      # 6. কোনো পরিবর্তন না থাকলে মেসেজ দেখানো
+      - name: No changes message
+        if: steps.git-check.outputs.changed == 'false'
+        run: |
+          echo "✅ No new updates needed. notifications.json is already up to date."
+          echo "🕐 Next run will be in 15 minutes (or as per schedule)"
