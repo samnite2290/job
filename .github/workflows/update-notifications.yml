@@ -1,0 +1,109 @@
+name: Update notifications from Fancode
+
+on:
+  schedule:
+    # Runs every 15 minutes (adjust if you prefer 10 minutes: '*/10 * * * *')
+    - cron: '*/15 * * * *'
+  workflow_dispatch:   # Allows manual trigger from GitHub UI
+
+permissions:
+  contents: write     # Needed to push changes to gh-pages branch
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout gh-pages branch
+        uses: actions/checkout@v4
+        with:
+          ref: gh-pages
+          # Personal Access Token is not required because GITHUB_TOKEN has write access
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.10'
+
+      - name: Fetch and transform data from Fancode API
+        env:
+          FANCODE_URL: ${{ secrets.FANCODE }}
+        run: |
+          python - << 'EOF'
+          import json
+          import re
+          import sys
+          import os
+          import urllib.request
+          from datetime import datetime
+
+          def convert_start_time(start_time_str):
+              """Convert '04:30:00 PM 28-04-2026' -> '28-04-2026-04:30pm'"""
+              try:
+                  # Split time and date
+                  time_part, date_part = start_time_str.rsplit(' ', 1)
+                  # Remove seconds
+                  time_part_no_sec = re.sub(r':\d{2}\s', ' ', time_part).strip()
+                  # Convert to lowercase AM/PM
+                  time_part_no_sec = time_part_no_sec.lower()
+                  # Combine as required
+                  return f"{date_part}-{time_part_no_sec}"
+              except Exception as e:
+                  print(f"Error parsing start_time '{start_time_str}': {e}", file=sys.stderr)
+                  return start_time_str  # fallback
+
+          # Fetch data from FANCODE_URL
+          url = os.environ.get('FANCODE_URL')
+          if not url:
+              print("Error: FANCODE secret is not set or empty", file=sys.stderr)
+              sys.exit(1)
+
+          try:
+              with urllib.request.urlopen(url) as response:
+                  data = json.loads(response.read().decode('utf-8'))
+          except Exception as e:
+              print(f"Failed to fetch or parse JSON from {url}: {e}", file=sys.stderr)
+              sys.exit(1)
+
+          # Extract matches array (adjust if data is nested under a key e.g. data['matches'])
+          if 'matches' in data:
+              matches = data['matches']
+          else:
+              print("JSON does not contain 'matches' array. Received keys:", list(data.keys()), file=sys.stderr)
+              sys.exit(1)
+
+          # Transform each match to the required notification format
+          notifications = []
+          for match in matches:
+              try:
+                  # Required fields
+                  start_time_raw = match.get('startTime', '')
+                  if not start_time_raw:
+                      continue  # skip matches without start time
+                  date_time = convert_start_time(start_time_raw)
+                  title = match.get('event_name', 'Unknown Event')
+                  subtitle = match.get('match_name', 'Unknown Match')
+                  image = match.get('src', '')
+
+                  notifications.append({
+                      "Date & Time": date_time,
+                      "Title": title,
+                      "Subtitle": subtitle,
+                      "Image": image
+                  })
+              except Exception as e:
+                  print(f"Skipping malformed match: {match} - {e}", file=sys.stderr)
+
+          # Write to notifications.json (overwrite)
+          with open('notifications.json', 'w', encoding='utf-8') as f:
+              json.dump(notifications, f, indent=2, ensure_ascii=False)
+
+          print(f"Successfully updated notifications.json with {len(notifications)} items.")
+          EOF
+
+      - name: Commit and push changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add notifications.json
+          git diff --staged --quiet || git commit -m "Auto-update notifications.json from Fancode [skip ci]"
+          git push
