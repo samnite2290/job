@@ -2,12 +2,12 @@ name: Update notifications from Fancode
 
 on:
   schedule:
-    # Runs every 15 minutes (adjust if you prefer 10 minutes: '*/10 * * * *')
+    # প্রতি ১৫ মিনিট পরপর রান হবে
     - cron: '*/15 * * * *'
-  workflow_dispatch:   # Allows manual trigger from GitHub UI
+  workflow_dispatch:   # ম্যানুয়ালি রান করার জন্য
 
 permissions:
-  contents: write     # Needed to push changes to gh-pages branch
+  contents: write
 
 jobs:
   update:
@@ -17,93 +17,139 @@ jobs:
         uses: actions/checkout@v4
         with:
           ref: gh-pages
-          # Personal Access Token is not required because GITHUB_TOKEN has write access
 
-      - name: Setup Python
-        uses: actions/setup-python@v5
-        with:
-          python-version: '3.10'
-
-      - name: Fetch and transform data from Fancode API
-        env:
-          FANCODE_URL: ${{ secrets.FANCODE }}
+      - name: Create Python script
         run: |
-          python - << 'EOF'
+          cat > update_script.py << 'SCRIPT_END'
           import json
-          import re
+          import urllib.request
+          import urllib.error
           import sys
           import os
-          import urllib.request
           from datetime import datetime
 
-          def convert_start_time(start_time_str):
-              """Convert '04:30:00 PM 28-04-2026' -> '28-04-2026-04:30pm'"""
-              try:
-                  # Split time and date
-                  time_part, date_part = start_time_str.rsplit(' ', 1)
-                  # Remove seconds
-                  time_part_no_sec = re.sub(r':\d{2}\s', ' ', time_part).strip()
-                  # Convert to lowercase AM/PM
-                  time_part_no_sec = time_part_no_sec.lower()
-                  # Combine as required
-                  return f"{date_part}-{time_part_no_sec}"
-              except Exception as e:
-                  print(f"Error parsing start_time '{start_time_str}': {e}", file=sys.stderr)
-                  return start_time_str  # fallback
-
-          # Fetch data from FANCODE_URL
-          url = os.environ.get('FANCODE_URL')
-          if not url:
-              print("Error: FANCODE secret is not set or empty", file=sys.stderr)
+          # FANCODE সিক্রেট থেকে URL নেওয়া
+          fancode_url = os.environ.get('FANCODE_URL')
+          if not fancode_url:
+              print("ERROR: FANCODE_URL environment variable not set")
               sys.exit(1)
+
+          print(f"Fetching data from: {fancode_url}")
 
           try:
-              with urllib.request.urlopen(url) as response:
-                  data = json.loads(response.read().decode('utf-8'))
+              # API থেকে ডাটা fetch করা
+              req = urllib.request.Request(fancode_url)
+              req.add_header('User-Agent', 'Mozilla/5.0')
+              
+              with urllib.request.urlopen(req, timeout=30) as response:
+                  raw_data = response.read().decode('utf-8')
+                  data = json.loads(raw_data)
+              
+              print(f"Successfully fetched data, type: {type(data)}")
+              
+              # 'matches' array খোঁজা
+              matches = None
+              if isinstance(data, dict) and 'matches' in data:
+                  matches = data['matches']
+              elif isinstance(data, list):
+                  matches = data
+              else:
+                  print(f"Unknown data structure. Keys: {data.keys() if isinstance(data, dict) else 'not a dict'}")
+                  sys.exit(1)
+              
+              if not matches:
+                  print("No matches found")
+                  # খালি array সংরক্ষণ
+                  with open('notifications.json', 'w') as f:
+                      json.dump([], f, indent=2)
+                  sys.exit(0)
+              
+              print(f"Found {len(matches)} matches")
+              
+              # notifications array তৈরি
+              notifications = []
+              
+              for match in matches:
+                  try:
+                      # startTime থেকে Date & Time বানানো
+                      start_time = match.get('startTime', '')
+                      if not start_time:
+                          continue
+                      
+                      # ফরম্যাট: "04:30:00 PM 28-04-2026" -> "28-04-2026-04:30pm"
+                      parts = start_time.rsplit(' ', 1)
+                      if len(parts) == 2:
+                          time_part = parts[0]
+                          date_part = parts[1]
+                          # সেকেন্ড বাদ দেওয়া
+                          time_part = time_part.rsplit(':', 1)[0]
+                          # lowercase am/pm
+                          time_part = time_part.lower()
+                          date_time = f"{date_part}-{time_part}"
+                      else:
+                          date_time = start_time
+                      
+                      # টাইটেল: event_name
+                      title = match.get('event_name', 'Unknown Event')
+                      
+                      # সাবটাইটেল: match_name
+                      subtitle = match.get('match_name', 'Unknown Match')
+                      
+                      # ইমেজ: src
+                      image = match.get('src', '')
+                      
+                      notification = {
+                          "Date & Time": date_time,
+                          "Title": title,
+                          "Subtitle": subtitle,
+                          "Image": image
+                      }
+                      notifications.append(notification)
+                      print(f"Added: {title} - {subtitle}")
+                      
+                  except Exception as e:
+                      print(f"Error processing match: {e}")
+                      continue
+              
+              # ফাইল overwrite করা
+              with open('notifications.json', 'w', encoding='utf-8') as f:
+                  json.dump(notifications, f, indent=2, ensure_ascii=False)
+              
+              print(f"SUCCESS: Updated notifications.json with {len(notifications)} items")
+              
+          except urllib.error.URLError as e:
+              print(f"URL Error: {e}")
+              sys.exit(1)
+          except json.JSONDecodeError as e:
+              print(f"JSON Parse Error: {e}")
+              sys.exit(1)
           except Exception as e:
-              print(f"Failed to fetch or parse JSON from {url}: {e}", file=sys.stderr)
+              print(f"Unexpected error: {e}")
               sys.exit(1)
+          SCRIPT_END
 
-          # Extract matches array (adjust if data is nested under a key e.g. data['matches'])
-          if 'matches' in data:
-              matches = data['matches']
-          else:
-              print("JSON does not contain 'matches' array. Received keys:", list(data.keys()), file=sys.stderr)
-              sys.exit(1)
+      - name: Run Python script
+        env:
+          FANCODE_URL: ${{ secrets.FANCODE }}
+        run: python3 update_script.py
 
-          # Transform each match to the required notification format
-          notifications = []
-          for match in matches:
-              try:
-                  # Required fields
-                  start_time_raw = match.get('startTime', '')
-                  if not start_time_raw:
-                      continue  # skip matches without start time
-                  date_time = convert_start_time(start_time_raw)
-                  title = match.get('event_name', 'Unknown Event')
-                  subtitle = match.get('match_name', 'Unknown Match')
-                  image = match.get('src', '')
+      - name: Check if file changed
+        id: check_changes
+        run: |
+          if git diff --quiet notifications.json; then
+            echo "changed=false" >> $GITHUB_OUTPUT
+            echo "No changes to notifications.json"
+          else
+            echo "changed=true" >> $GITHUB_OUTPUT
+            echo "Changes detected"
+          fi
 
-                  notifications.append({
-                      "Date & Time": date_time,
-                      "Title": title,
-                      "Subtitle": subtitle,
-                      "Image": image
-                  })
-              except Exception as e:
-                  print(f"Skipping malformed match: {match} - {e}", file=sys.stderr)
-
-          # Write to notifications.json (overwrite)
-          with open('notifications.json', 'w', encoding='utf-8') as f:
-              json.dump(notifications, f, indent=2, ensure_ascii=False)
-
-          print(f"Successfully updated notifications.json with {len(notifications)} items.")
-          EOF
-
-      - name: Commit and push changes
+      - name: Commit and push
+        if: steps.check_changes.outputs.changed == 'true'
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add notifications.json
-          git diff --staged --quiet || git commit -m "Auto-update notifications.json from Fancode [skip ci]"
+          git commit -m "Auto-update notifications.json from Fancode [skip ci]"
           git push
+          echo "Successfully pushed updates"
