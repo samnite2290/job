@@ -1,4 +1,4 @@
-name: Update notifications from Fancode
+name: Notify Fancode
 
 on:
   schedule:
