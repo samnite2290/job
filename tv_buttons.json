@@ -130,6 +130,27 @@
 
 
 
+
+  {
+    "Auto_Update": "Off",
+    "button_name": "Albania",
+    "button_image_url": "https://i.postimg.cc/QMMng212/image.jpg",
+    "button_playlist_url": "https://iptv-org.github.io/iptv/countries/al.m3u"
+  },
+
+  {
+    "Auto_Update": "Off",
+    "button_name": "Algeria",
+    "button_image_url": "https://i.postimg.cc/W3Tzf7pZ/image.jpg",
+    "button_playlist_url": "https://iptv-org.github.io/iptv/countries/dz.m3u"
+  },
+
+
+
+
+
+
+
   {
     "Auto_Update": "Off",
     "button_name": "China",
