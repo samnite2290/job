@@ -144,6 +144,36 @@
     "button_image_url": "https://i.postimg.cc/W3Tzf7pZ/image.jpg",
     "button_playlist_url": "https://iptv-org.github.io/iptv/countries/dz.m3u"
   },
+  {
+    "Auto_Update": "Off",
+    "button_name": "American Samoa",
+    "button_image_url": "",
+    "button_playlist_url": "https://iptv-org.github.io/iptv/countries/as.m3u"
+  },
+  {
+    "Auto_Update": "Off",
+    "button_name": "Argentina",
+    "button_image_url": "",
+    "button_playlist_url": "https://iptv-org.github.io/iptv/countries/ar.m3u"
+  },
+  {
+    "Auto_Update": "Off",
+    "button_name": "Anguilla",
+    "button_image_url": "",
+    "button_playlist_url": "https://iptv-org.github.io/iptv/countries/ai.m3u"
+  },
+  {
+    "Auto_Update": "Off",
+    "button_name": "Angola",
+    "button_image_url": "",
+    "button_playlist_url": "https://iptv-org.github.io/iptv/countries/ao.m3u"
+  },
+  {
+    "Auto_Update": "Off",
+    "button_name": "Andorra",
+    "button_image_url": "",
+    "button_playlist_url": "https://iptv-org.github.io/iptv/countries/ad.m3u"
+  },
 
 
 
