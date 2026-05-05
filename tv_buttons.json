@@ -147,7 +147,7 @@
   {
     "Auto_Update": "Off",
     "button_name": "American Samoa",
-    "button_image_url": "",
+    "button_image_url": "https://i.postimg.cc/XNxLLHN1/image.jpg",
     "button_playlist_url": "https://iptv-org.github.io/iptv/countries/as.m3u"
   },
   {
@@ -171,7 +171,7 @@
   {
     "Auto_Update": "Off",
     "button_name": "Andorra",
-    "button_image_url": "",
+    "button_image_url": "https://i.postimg.cc/DZT6jRbR/image.jpg",
     "button_playlist_url": "https://iptv-org.github.io/iptv/countries/ad.m3u"
   },
 
