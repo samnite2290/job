@@ -83,9 +83,9 @@
 
   {
     "Auto_Update": "Off",
-    "button_name": "Sports 1",
+    "button_name": "Sports (All)",
     "button_image_url": "https://i.postimg.cc/rmQwMSjj/image.jpg",
-    "button_playlist_url": "https://raw.githubusercontent.com/buzzinguaecn/Pizza/main/Pizza-Sports.m3u"
+    "button_playlist_url": "https://raw.githubusercontent.com/buzzinguaecn/Pizza/main/Sports-All.m3u"
   },
   {
     "Auto_Update": "Off",
