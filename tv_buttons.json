@@ -107,9 +107,21 @@
   },
   {
     "Auto_Update": "Off",
-    "button_name": "Movie Ban",
+    "button_name": "Movie Bangla 1",
     "button_image_url": "https://i.postimg.cc/QMcq4Mb4/image.jpg",
     "button_playlist_url": "https://raw.githubusercontent.com/srhady/join_telegram_chennal-livesportsplay/main/bangla.m3u"
+  },
+    {
+    "Auto_Update": "Off",
+    "button_name": "Movie Bangla 2",
+    "button_image_url": "https://i.postimg.cc/QMcq4Mb4/image.jpg",
+    "button_playlist_url": "https://raw.githubusercontent.com/buzzinguaecn/Pizza/gh-pages/Movie/Bangla-Movie.m3u"
+  },
+    {
+    "Auto_Update": "Off",
+    "button_name": "Movie Bangla 1",
+    "button_image_url": "https://i.postimg.cc/QMcq4Mb4/image.jpg",
+    "button_playlist_url": "https://raw.githubusercontent.com/buzzinguaecn/Pizza/gh-pages/Movie/Bangla-Movie1.m3u"
   },
   {
     "Auto_Update": "Off",
