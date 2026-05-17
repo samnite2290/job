@@ -251,6 +251,26 @@
     "button_image_url": "https://i.postimg.cc/761VgvzT/image.jpg",
     "button_playlist_url": "https://iptv-org.github.io/iptv/countries/bo.m3u"
   },
+  {
+    "Auto_Update": "Off",
+    "button_name": "Brazil",
+    "button_image_url": "https://i.postimg.cc/VNvBH7hL/image.jpg",
+    "button_playlist_url": "https://iptv-org.github.io/iptv/countries/br.m3u"
+  },
+
+
+
+
+
+
+
+  
+  {
+    "Auto_Update": "Off",
+    "button_name": "Caribbean Netherlands",
+    "button_image_url": "https://i.postimg.cc/T1DtNkpC/image.jpg",
+    "button_playlist_url": "https://iptv-org.github.io/iptv/countries/bq.m3u"
+  },
   
 
 
