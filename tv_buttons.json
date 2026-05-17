@@ -238,13 +238,44 @@
   },
   {
     "Auto_Update": "Off",
-    "button_name": "Brazil",
+    "button_name": "Brazil 1",
     "button_image_url": "https://i.postimg.cc/VNvBH7hL/image.jpg",
     "button_playlist_url": "https://iptv-org.github.io/iptv/countries/br.m3u"
+  },
+  {
+    "Auto_Update": "Off",
+    "button_name": "Brazil 2",
+    "button_image_url": "https://i.postimg.cc/VNvBH7hL/image.jpg",
+    "button_playlist_url": "https://raw.githubusercontent.com/iptv-org/iptv/refs/heads/master/streams/br_pluto.m3u"
+  },
+  {
+    "Auto_Update": "Off",
+    "button_name": "Bahamas",
+    "button_image_url": "https://i.postimg.cc/x1MSNR5k/image.jpg",
+    "button_playlist_url": "https://iptv-org.github.io/iptv/countries/bs.m3u"
+  },
+  {
+    "Auto_Update": "Off",
+    "button_name": "Bahamas",
+    "button_image_url": "https://i.postimg.cc/x1MSNR5k/image.jpg",
+    "button_playlist_url": "https://iptv-org.github.io/iptv/countries/bs.m3u"
+  },
+  {
+    "Auto_Update": "Off",
+    "button_name": "Belarus",
+    "button_image_url": "https://i.postimg.cc/L8DFVXdP/image.jpg",
+    "button_playlist_url": "https://iptv-org.github.io/iptv/countries/by.m3u"
   },
 
 
 
+
+
+
+
+
+
+  
 
 
 
