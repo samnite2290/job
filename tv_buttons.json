@@ -266,6 +266,12 @@
     "button_image_url": "https://i.postimg.cc/L8DFVXdP/image.jpg",
     "button_playlist_url": "https://iptv-org.github.io/iptv/countries/by.m3u"
   },
+  {
+    "Auto_Update": "Off",
+    "button_name": "Belize",
+    "button_image_url": "https://i.postimg.cc/wjG0H8Lf/image.jpg",
+    "button_playlist_url": ":https://iptv-org.github.io/iptv/countries/bz.m3u"
+  },
 
 
 
