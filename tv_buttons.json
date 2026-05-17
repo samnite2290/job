@@ -109,7 +109,7 @@
     "Auto_Update": "Off",
     "button_name": "New Released Movie",
     "button_image_url": "https://i.postimg.cc/HxJV0TXk/image.jpg",
-    "button_playlist_url": "https://raw.githubusercontent.com/buzzinguaecn/Pizza/main/New_Movies.m3u"
+    "button_playlist_url": "https://raw.githubusercontent.com/buzzinguaecn/Pizza/main/New_Released_Movie.m3u"
   },
   {
     "Auto_Update": "Off",
