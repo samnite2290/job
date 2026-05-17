@@ -1,0 +1,18 @@
+{
+    "Auto_Update": "Off",
+    "button_name": "American Samoa",
+    "button_image_url": "https://i.postimg.cc/XNxLLHN1/image.jpg",
+    "button_playlist_url": "https://iptv-org.github.io/iptv/countries/as.m3u"
+  },
+{
+    "Auto_Update": "Off",
+    "button_name": "Anguilla",
+    "button_image_url": "https://i.postimg.cc/Y900HCgz/image.jpg",
+    "button_playlist_url": "https://iptv-org.github.io/iptv/countries/ai.m3u"
+  },
+{
+    "Auto_Update": "Off",
+    "button_name": "Burundi",
+    "button_image_url": "https://i.postimg.cc/XJ6GcpKR/image.jpg",
+    "button_playlist_url": "https://raw.githubusercontent.com/iptv-org/iptv/refs/heads/master/streams/bi.m3u"
+  },
