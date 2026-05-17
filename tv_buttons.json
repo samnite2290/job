@@ -254,12 +254,7 @@
     "button_image_url": "https://i.postimg.cc/x1MSNR5k/image.jpg",
     "button_playlist_url": "https://iptv-org.github.io/iptv/countries/bs.m3u"
   },
-  {
-    "Auto_Update": "Off",
-    "button_name": "Bahamas",
-    "button_image_url": "https://i.postimg.cc/x1MSNR5k/image.jpg",
-    "button_playlist_url": "https://iptv-org.github.io/iptv/countries/bs.m3u"
-  },
+  
   {
     "Auto_Update": "Off",
     "button_name": "Belarus",
