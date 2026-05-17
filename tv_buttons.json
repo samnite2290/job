@@ -227,6 +227,38 @@
     "button_image_url": "https://i.postimg.cc/pr8sc93y/image.jpg",
     "button_playlist_url": "https://iptv-org.github.io/iptv/countries/bh.m3u"
   },
+  {
+    "Auto_Update": "Off",
+    "button_name": "Burundi",
+    "button_image_url": "https://i.postimg.cc/XJ6GcpKR/image.jpg",
+    "button_playlist_url": "https://raw.githubusercontent.com/iptv-org/iptv/refs/heads/master/streams/bi.m3u"
+  },
+  {
+    "Auto_Update": "Off",
+    "button_name": "Benin",
+    "button_image_url": "https://i.postimg.cc/rpkMfWbN/image.jpg",
+    "button_playlist_url": "https://iptv-org.github.io/iptv/countries/bj.m3u"
+  },
+  {
+    "Auto_Update": "Off",
+    "button_name": "Brunei",
+    "button_image_url": "https://i.postimg.cc/T3kBDbxn/image.jpg",
+    "button_playlist_url": "https://iptv-org.github.io/iptv/countries/bn.m3u"
+  },
+  {
+    "Auto_Update": "Off",
+    "button_name": "Bolivia",
+    "button_image_url": "https://i.postimg.cc/761VgvzT/image.jpg",
+    "button_playlist_url": "https://iptv-org.github.io/iptv/countries/bo.m3u"
+  },
+  
+
+
+
+
+
+
+  
 
 
 
