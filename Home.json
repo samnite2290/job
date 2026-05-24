@@ -17,6 +17,12 @@
     "button_image_url": "https://i.postimg.cc/5yLqJgW0/image.jpg",
     "button_playlist_url": "https://raw.githubusercontent.com/buzzinguaecn/Pizza/main/FancodeIND.m3u"
   },
+    {
+    "Auto_Update": "On",
+    "button_name": "Live Sports",
+    "button_image_url": "https://i.postimg.cc/rmQwMSjj/image.jpg",
+    "button_playlist_url": "https://raw.githubusercontent.com/srhady/axsports/main/playlist.m3u"
+  },
  {  
    "Auto_Update": "Off",
     "button_name": "Afghanistan",
@@ -99,12 +105,7 @@
     "button_image_url": "https://i.postimg.cc/rmQwMSjj/image.jpg",
     "button_playlist_url": "https://raw.githubusercontent.com/buzzinguaecn/Pizza/main/Sports1.m3u"
   },
-  {
-    "Auto_Update": "Off",
-    "button_name": "Sports 3",
-    "button_image_url": "https://i.postimg.cc/rmQwMSjj/image.jpg",
-    "button_playlist_url": "https://raw.githubusercontent.com/srhady/axsports/main/playlist.m3u"
-  },
+
   {
     "Auto_Update": "Off",
     "button_name": "New Released Movie",
