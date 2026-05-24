@@ -5,50 +5,50 @@
     "button_playlist_url": "https://raw.githubusercontent.com/buzzinguaecn/Pizza/main/FM-Radio.m3u"
   },
  {  
-    "button_name": "Afghanistan",
+    "button_name": "Arabic",
     "button_image_url": "https://i.postimg.cc/sDr2pNWr/image.jpg",
-    "button_playlist_url": "FM-Radio"
+    "button_playlist_url": "https://raw.githubusercontent.com/junguler/m3u-radio-music-playlists/refs/heads/main/arabic.m3u"
   },
   
  {  
-    "button_name": "Afghanistan",
+    "button_name": "Africa",
     "button_image_url": "https://i.postimg.cc/sDr2pNWr/image.jpg",
-    "button_playlist_url": "https://raw.githubusercontent.com/buzzinguaecn/Pizza/main/All-TV.m3u"
+    "button_playlist_url": "https://raw.githubusercontent.com/junguler/m3u-radio-music-playlists/refs/heads/main/african.m3u"
   },
   
  {  
-    "button_name": "Afghanistan",
+    "button_name": "Asian",
     "button_image_url": "https://i.postimg.cc/sDr2pNWr/image.jpg",
-    "button_playlist_url": "https://raw.githubusercontent.com/buzzinguaecn/Pizza/main/All-TV.m3u"
+    "button_playlist_url": "https://raw.githubusercontent.com/junguler/m3u-radio-music-playlists/refs/heads/main/asian.m3u"
   },
   
  {  
-    "button_name": "Afghanistan",
+    "button_name": "Country",
     "button_image_url": "https://i.postimg.cc/sDr2pNWr/image.jpg",
-    "button_playlist_url": "https://raw.githubusercontent.com/buzzinguaecn/Pizza/main/All-TV.m3u"
+    "button_playlist_url": "https://raw.githubusercontent.com/junguler/m3u-radio-music-playlists/refs/heads/main/country.m3u"
   },
   
  {  
-    "button_name": "Afghanistan",
+    "button_name": "France",
     "button_image_url": "https://i.postimg.cc/sDr2pNWr/image.jpg",
-    "button_playlist_url": "https://raw.githubusercontent.com/buzzinguaecn/Pizza/main/All-TV.m3u"
+    "button_playlist_url": "https://raw.githubusercontent.com/junguler/m3u-radio-music-playlists/refs/heads/main/france.m3u"
   },
   
  {  
-    "button_name": "Afghanistan",
+    "button_name": "Indian 1",
     "button_image_url": "https://i.postimg.cc/sDr2pNWr/image.jpg",
-    "button_playlist_url": "https://raw.githubusercontent.com/buzzinguaecn/Pizza/main/All-TV.m3u"
+    "button_playlist_url": "https://raw.githubusercontent.com/junguler/m3u-radio-music-playlists/refs/heads/main/india.m3u"
   },
   
  {  
-    "button_name": "Afghanistan",
+    "button_name": "Quran",
     "button_image_url": "https://i.postimg.cc/sDr2pNWr/image.jpg",
-    "button_playlist_url": "https://raw.githubusercontent.com/buzzinguaecn/Pizza/main/All-TV.m3u"
+    "button_playlist_url": "https://raw.githubusercontent.com/junguler/m3u-radio-music-playlists/refs/heads/main/quran.m3u"
   },
   
  {  
-    "button_name": "Afghanistan",
+    "button_name": "Romanian",
     "button_image_url": "https://i.postimg.cc/sDr2pNWr/image.jpg",
-    "button_playlist_url": "https://raw.githubusercontent.com/buzzinguaecn/Pizza/main/All-TV.m3u"
+    "button_playlist_url": "https://raw.githubusercontent.com/junguler/m3u-radio-music-playlists/refs/heads/main/romanian.m3u"
   }
 ]
