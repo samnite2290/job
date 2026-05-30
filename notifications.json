@@ -12,18 +12,6 @@
     "Image": "https://www.fancode.com/skillup-uploads/cms-media/Roland-Garros-2026_FC-WEB.jpg"
   },
   {
-    "Date & Time": "30-05-2026-06:00 00 pm",
-    "Title": "Charles Schwab Challenge 2026",
-    "Subtitle": "Day 3 - Main Feed",
-    "Image": "https://www.fancode.com/skillup-uploads/cms-media/Charles-Schwab-Challenge-web.jpg"
-  },
-  {
-    "Date & Time": "30-05-2026-07:00 00 pm",
-    "Title": "Charles Schwab Challenge 2026",
-    "Subtitle": "Day 3 - Featured Groups",
-    "Image": "https://www.fancode.com/skillup-uploads/cms-media/Charles-Schwab-Challenge-web.jpg"
-  },
-  {
     "Date & Time": "30-05-2026-11:00 00 pm",
     "Title": "Charles Schwab Challenge 2026",
     "Subtitle": "Day 3 - World Feed",
@@ -132,16 +120,16 @@
     "Image": "https://www.fancode.com/skillup-uploads/cms-media/Charles-Schwab-Challenge-web.jpg"
   },
   {
-    "Date & Time": "31-05-2026-06:30 00 pm",
-    "Title": "Charles Schwab Challenge 2026",
-    "Subtitle": "Day 4 - Marquee Group",
-    "Image": "https://www.fancode.com/skillup-uploads/cms-media/Charles-Schwab-Challenge-web.jpg"
-  },
-  {
     "Date & Time": "01-06-2026-10:00 00 am",
     "Title": "Supercola Regional List A Tournament, 2026",
     "Subtitle": "Band-e-Amir Region vs Amo Region",
     "Image": "https://www.fancode.com/skillup-uploads/cms-media/Supercola-Regional-List-A-Tournament,-2026_FC-WEB_1779005924089.jpg"
+  },
+  {
+    "Date & Time": "31-05-2026-06:30 00 pm",
+    "Title": "Charles Schwab Challenge 2026",
+    "Subtitle": "Day 4 - Marquee Group",
+    "Image": "https://www.fancode.com/skillup-uploads/cms-media/Charles-Schwab-Challenge-web.jpg"
   },
   {
     "Date & Time": "31-05-2026-10:30 00 pm",
@@ -232,5 +220,17 @@
     "Title": "SAFF Women's Championship 2026",
     "Subtitle": "TBC vs TBC",
     "Image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Football-old-copy.jpg"
+  },
+  {
+    "Date & Time": "03-06-2026-05:30 00 pm",
+    "Title": "Scotland Women's T20I Tri-Series 2026",
+    "Subtitle": "Scotland Women vs Netherlands Women",
+    "Image": "https://www.fancode.com/skillup-uploads/cms-media/SC-W_ND-W-old.jpg"
+  },
+  {
+    "Date & Time": "03-06-2026-08:00 00 pm",
+    "Title": "Sri Lanka tour of West Indies 2026",
+    "Subtitle": "West Indies vs Sri Lanka",
+    "Image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg"
   }
 ]
