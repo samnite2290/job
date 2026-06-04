@@ -39,7 +39,7 @@
     "position": "top_right",
     "width_dp": 60,
     "height_dp": 60,
-    "margin_x_dp": 30,
+    "margin_x_dp": 100,
     "margin_y_dp": 30,
     "opacity": 0.7
   }
