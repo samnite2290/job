@@ -37,10 +37,10 @@
   "watermark": {
     "image_url": "https://raw.githubusercontent.com/samnite2290/img/gh-pages/20260430_001357.png",
     "position": "top_right",
-    "width_dp": 60,
-    "height_dp": 60,
+    "width_dp": 50,
+    "height_dp": 50,
     "margin_x_dp": 30,
-    "margin_y_dp": 250,
-    "opacity": 0.5
+    "margin_y_dp": 350,
+    "opacity": 0.3
   }
 }
