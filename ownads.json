@@ -1,5 +1,5 @@
 {
-  "is_ads_enabled": false,
+  "is_ads_enabled": true,
   "is_marquee_enabled": false,
   "is_image_enabled": false,
   "is_watermark_enabled": true,
