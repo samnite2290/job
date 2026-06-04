@@ -29,6 +29,13 @@
     "button_image_url": "https://i.postimg.cc/rmQwMSjj/image.jpg",
     "button_playlist_url": "https://raw.githubusercontent.com/srhady/axsports/main/playlist.m3u"
   },
+
+    {
+    "Auto_Update": "On",
+    "button_name": "Tampad BD",
+    "button_image_url": "https://raw.githubusercontent.com/samnite2290/img/refs/heads/gh-pages/1000319530.jpg",
+    "button_playlist_url": "https://raw.githubusercontent.com/srhady/tapmad-bd/refs/heads/main/tapmad_bd.m3u"
+  },  
  {  
    "Auto_Update": "Off",
     "button_name": "Afghanistan",
