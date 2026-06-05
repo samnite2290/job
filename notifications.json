@@ -1,29 +1,5 @@
 [
   {
-    "Date & Time": "05-06-2026-05:15 00 pm",
-    "Title": "the Memorial Tournament presented by Workday 2026",
-    "Subtitle": "Main Feed - Day 2",
-    "Image": "https://www.fancode.com/skillup-uploads/cms-media/The-Memorial-Tournament_fc-web-v2.jpg"
-  },
-  {
-    "Date & Time": "05-06-2026-07:30 00 pm",
-    "Title": "the Memorial Tournament presented by Workday 2026",
-    "Subtitle": "Featured Groups - Day 2",
-    "Image": "https://www.fancode.com/skillup-uploads/cms-media/The-Memorial-Tournament_fc-web-v2.jpg"
-  },
-  {
-    "Date & Time": "05-06-2026-07:45 00 pm",
-    "Title": "the Memorial Tournament presented by Workday 2026",
-    "Subtitle": "Marquee Feed - Day 2",
-    "Image": "https://www.fancode.com/skillup-uploads/cms-media/The-Memorial-Tournament_fc-web-v2.jpg"
-  },
-  {
-    "Date & Time": "05-06-2026-11:30 00 pm",
-    "Title": "the Memorial Tournament presented by Workday 2026",
-    "Subtitle": "World Feed - Day 2",
-    "Image": "https://www.fancode.com/skillup-uploads/cms-media/The-Memorial-Tournament_fc-web-v2.jpg"
-  },
-  {
     "Date & Time": "05-06-2026-11:30 00 pm",
     "Title": "US Women's Open 2026",
     "Subtitle": "Day 2",
@@ -48,12 +24,6 @@
     "Image": "https://www.fancode.com/skillup-uploads/cms-media/142990_6094_MM_NC_FC-WEB_1780318028403.jpg"
   },
   {
-    "Date & Time": "06-06-2026-09:30 00 am",
-    "Title": "Afghanistan tour of India, 2026",
-    "Subtitle": "India vs Afghanistan",
-    "Image": "https://www.fancode.com/skillup-uploads/cms-media/IND-vs-AFG_Web-match-card.png"
-  },
-  {
     "Date & Time": "06-06-2026-08:00 00 pm",
     "Title": "EUT20 Belgium, 2026",
     "Subtitle": "Liege Red Lions vs Ghent Gladiators",
@@ -64,6 +34,18 @@
     "Title": "ICC CWC League 2 Canada, 2026",
     "Subtitle": "Canada vs USA",
     "Image": "https://www.fancode.com/skillup-uploads/cms-media/143195_6110_CAN_USA_fc-web.jpg"
+  },
+  {
+    "Date & Time": "06-06-2026-09:30 00 am",
+    "Title": "Afghanistan tour of India, 2026",
+    "Subtitle": "India vs Afghanistan",
+    "Image": "https://www.fancode.com/skillup-uploads/cms-media/IND-vs-AFG_Web-match-card.png"
+  },
+  {
+    "Date & Time": "07-06-2026-01:00 00 am",
+    "Title": "Sri Lanka tour of West Indies 2026",
+    "Subtitle": "West Indies vs Sri Lanka",
+    "Image": "https://www.fancode.com/skillup-uploads/cms-media/WI-vs-SL_Web-match-card.png"
   },
   {
     "Date & Time": "06-06-2026-09:30 00 am",
@@ -82,12 +64,6 @@
     "Title": "Madhya Pradesh League T20, 2026",
     "Subtitle": "Bundelkhand Bulls vs Rewa Jaguars",
     "Image": "https://images.fancode.com/aig/match/v1780469022398/143063_CASACARDS_APP.png"
-  },
-  {
-    "Date & Time": "07-06-2026-01:00 00 am",
-    "Title": "Sri Lanka tour of West Indies 2026",
-    "Subtitle": "West Indies vs Sri Lanka",
-    "Image": "https://www.fancode.com/skillup-uploads/cms-media/WI-vs-SL_Web-match-card.png"
   },
   {
     "Date & Time": "06-06-2026-07:30 00 pm",
@@ -138,6 +114,12 @@
     "Image": "https://www.fancode.com/skillup-uploads/cms-media/Old-Match-Card_1780690493142.png"
   },
   {
+    "Date & Time": "07-06-2026-05:30 00 am",
+    "Title": "International Friendlies 2026",
+    "Subtitle": "Argentina vs Honduras",
+    "Image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Football-old-copy.jpg"
+  },
+  {
     "Date & Time": "06-06-2026-05:45 00 pm",
     "Title": "F2 MONACO 2026",
     "Subtitle": "Sprint Race",
@@ -174,22 +156,16 @@
     "Image": "https://www.fancode.com/skillup-uploads/cms-media/The-Memorial-Tournament_fc-web-v2.jpg"
   },
   {
-    "Date & Time": "07-06-2026-05:30 00 am",
-    "Title": "International Friendlies 2026",
-    "Subtitle": "Argentina vs Honduras",
-    "Image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Football-old-copy.jpg"
+    "Date & Time": "07-06-2026-09:30 00 am",
+    "Title": "Madhya Pradesh League T20 Women's 2026",
+    "Subtitle": "Gwalior Shernis vs Bundelkhand Bulls Women",
+    "Image": "https://www.fancode.com/skillup-uploads/cms-media/Madhya-Pradesh-League-T20-Women's_fc-web.jpg"
   },
   {
     "Date & Time": "07-06-2026-02:30 00 am",
     "Title": "US Women's Open 2026",
     "Subtitle": "Day 3",
     "Image": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(2)_1780397699490.png"
-  },
-  {
-    "Date & Time": "07-06-2026-09:30 00 am",
-    "Title": "Madhya Pradesh League T20 Women's 2026",
-    "Subtitle": "Gwalior Shernis vs Bundelkhand Bulls Women",
-    "Image": "https://www.fancode.com/skillup-uploads/cms-media/Madhya-Pradesh-League-T20-Women's_fc-web.jpg"
   },
   {
     "Date & Time": "07-06-2026-02:00 00 pm",
@@ -214,5 +190,29 @@
     "Title": "Madhya Pradesh League T20, 2026",
     "Subtitle": "Royal Nimar Eagles vs Chambal Ghariyals",
     "Image": "https://images.fancode.com/aig/match/v1780469022363/143066_CASACARDS_APP.png"
+  },
+  {
+    "Date & Time": "07-06-2026-11:15 00 am",
+    "Title": "F3 MONACO 2026",
+    "Subtitle": "Feature Race",
+    "Image": "https://www.fancode.com/skillup-uploads/cms-media/F3_Australia_web.jpg"
+  },
+  {
+    "Date & Time": "07-06-2026-07:00 00 pm",
+    "Title": "Big Cricket League Season 2",
+    "Subtitle": "MP Tigers vs UP Brij Stars",
+    "Image": "https://www.fancode.com/skillup-uploads/cms-media/142992_6094_MPT_UPBS_FC-WEB_1780318028366.jpg"
+  },
+  {
+    "Date & Time": "07-06-2026-08:00 00 pm",
+    "Title": "EUT20 Belgium, 2026",
+    "Subtitle": "Antwerp Anchors vs Akcel United Brussels",
+    "Image": "https://www.fancode.com/skillup-uploads/cms-media/143152_6108_AA_AUB_FC-Web.png"
+  },
+  {
+    "Date & Time": "07-06-2026-12:55 00 pm",
+    "Title": "F2 MONACO 2026",
+    "Subtitle": "Feature Race",
+    "Image": "https://www.fancode.com/skillup-uploads/cms-media/F2_Australia_web.jpg"
   }
 ]
