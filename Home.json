@@ -245,26 +245,26 @@
   {
     "Auto_Update": "Off",
     "button_name": "Bahrain",
-    "button_image_url": "https://i.postimg.cc/pr8sc93y/image.jpg",
+    "button_image_url": "https://raw.githubusercontent.com/samnite2290/img/gh-pages/Country/Bahrain.png",
     "button_playlist_url": "https://iptv-org.github.io/iptv/countries/bh.m3u"
   },
   
   {
     "Auto_Update": "Off",
     "button_name": "Benin",
-    "button_image_url": "https://i.postimg.cc/rpkMfWbN/image.jpg",
+    "button_image_url": "https://raw.githubusercontent.com/samnite2290/img/gh-pages/Country/Benin.jpg",
     "button_playlist_url": "https://iptv-org.github.io/iptv/countries/bj.m3u"
   },
   {
     "Auto_Update": "Off",
     "button_name": "Brunei",
-    "button_image_url": "https://i.postimg.cc/T3kBDbxn/image.jpg",
+    "button_image_url": "https://raw.githubusercontent.com/samnite2290/img/gh-pages/Country/Brunei.jpg",
     "button_playlist_url": "https://iptv-org.github.io/iptv/countries/bn.m3u"
   },
   {
     "Auto_Update": "Off",
     "button_name": "Bolivia",
-    "button_image_url": "https://i.postimg.cc/761VgvzT/image.jpg",
+    "button_image_url": "https://raw.githubusercontent.com/samnite2290/img/gh-pages/Country/Bolivia.jpg",
     "button_playlist_url": "https://iptv-org.github.io/iptv/countries/bo.m3u"
   },
   {
@@ -273,12 +273,7 @@
     "button_image_url": "https://i.postimg.cc/VNvBH7hL/image.jpg",
     "button_playlist_url": "https://iptv-org.github.io/iptv/countries/br.m3u"
   },
-  {
-    "Auto_Update": "Off",
-    "button_name": "Brazil 2",
-    "button_image_url": "https://i.postimg.cc/VNvBH7hL/image.jpg",
-    "button_playlist_url": "https://raw.githubusercontent.com/iptv-org/iptv/refs/heads/master/streams/br_pluto.m3u"
-  },
+  
   {
     "Auto_Update": "Off",
     "button_name": "Bahamas",
