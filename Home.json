@@ -227,19 +227,19 @@
   {
     "Auto_Update": "Off",
     "button_name": "Belgium",
-    "button_image_url": "https://i.postimg.cc/3wMPKTFx/image.jpg",
+    "button_image_url": "https://raw.githubusercontent.com/samnite2290/img/gh-pages/Country/Belgium.jpg",
     "button_playlist_url": "https://iptv-org.github.io/iptv/countries/be.m3u"
   },
   {
     "Auto_Update": "Off",
     "button_name": "Burkina Faso",
-    "button_image_url": "https://i.postimg.cc/Cxbcsfbd/image.jpg",
+    "button_image_url": "https://raw.githubusercontent.com/samnite2290/img/gh-pages/Country/Burkina%20Faso.jpg",
     "button_playlist_url": "https://iptv-org.github.io/iptv/countries/bf.m3u"
   },
   {
     "Auto_Update": "Off",
     "button_name": "Bulgaria",
-    "button_image_url": "https://i.postimg.cc/wvr5p6DR/image.jpg",
+    "button_image_url": "https://raw.githubusercontent.com/samnite2290/img/gh-pages/Country/Bulgaria.png",
     "button_playlist_url": "https://iptv-org.github.io/iptv/countries/bg.m3u"
   },
   {
