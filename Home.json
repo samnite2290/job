@@ -13,8 +13,8 @@
   },
   {  
    "Auto_Update": "On",
-    "button_name": "All Sports",
-    "button_image_url": "https://raw.githubusercontent.com/samnite2290/img/gh-pages/Country/SawaridSports450300.png",
+    "button_name": "FIFA Sports",
+    "button_image_url": "https://raw.githubusercontent.com/buzzinguaecn/Logo/main/Sports/Fifa2026.jpg",
     "button_playlist_url": "https://raw.githubusercontent.com/buzzinguaecn/Pizza/main/LiveEventSports.m3u"
   },
   {  
@@ -103,7 +103,7 @@
   {
     "Auto_Update": "Off",
     "button_name": "Sports 2",
-    "button_image_url": "https://i.postimg.cc/rmQwMSjj/image.jpg",
+    "button_image_url": "https://raw.githubusercontent.com/samnite2290/img/gh-pages/Country/SawaridSports450300.png",
     "button_playlist_url": "https://raw.githubusercontent.com/buzzinguaecn/Pizza/main/Sports1.m3u"
   },
   {
