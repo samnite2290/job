@@ -155,6 +155,26 @@
     "button_image_url": "https://i.postimg.cc/QMcq4Mb4/image.jpg",
     "button_playlist_url": "https://raw.githubusercontent.com/eishakilei-bd08/eitv/main/movie.m3u"
   },
+  {
+    "Auto_Update": "Off",
+    "button_name": "English Network",
+    "button_image_url": "",
+    "button_playlist_url": "https://iptv-scraper-zilla.pages.dev/xumo_playlist.m3u"
+  },
+  {
+    "Auto_Update": "Off",
+    "button_name": "Hollywood Network",
+    "button_image_url": "",
+    "button_playlist_url": "https://iptv-scraper-zilla.pages.dev/tubi_playlist.m3u"
+  },
+
+
+  {
+    "Auto_Update": "Off",
+    "button_name": "Sun Network",
+    "button_image_url": "",
+    "button_playlist_url": "https://playlist-share-abux.pages.dev/sun-network.m3u"
+  },
 
 
 
