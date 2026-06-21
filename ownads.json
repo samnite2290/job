@@ -1,8 +1,8 @@
 {
-  "is_ads_enabled": true,
-  "is_marquee_enabled": true,
-  "is_image_enabled": true,
-  "is_watermark_enabled": true,
+  "is_ads_enabled": false,
+  "is_marquee_enabled": false,
+  "is_image_enabled": false,
+  "is_watermark_enabled": false,
   
   "marquee_ad": {
     "scheduled_time": "21-06-2026 06:34am", 
@@ -40,7 +40,7 @@
     "width_dp": 50,
     "height_dp": 50,
     "margin_x_dp": 30,
-    "margin_y_dp": 150,
+    "margin_y_dp": 350,
     "opacity": 0.3
   }
 }
