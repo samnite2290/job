@@ -1,8 +1,8 @@
 {
-  "is_ads_enabled": false,
-  "is_marquee_enabled": false,
-  "is_image_enabled": false,
-  "is_watermark_enabled": false,
+  "is_ads_enabled": true,
+  "is_marquee_enabled": true,
+  "is_image_enabled": true,
+  "is_watermark_enabled": true,
   
   "marquee_ad": {
     "scheduled_time": "21-06-2026 06:34am", 
