@@ -1,7 +1,7 @@
 {
-  "is_ads_enabled": true,
+  "is_ads_enabled": false,
   "is_marquee_enabled": true,
-  "is_image_enabled": true,
+  "is_image_enabled": false,
   "is_watermark_enabled": true,
   
   "marquee_ad": {
