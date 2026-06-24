@@ -171,7 +171,7 @@
   {
     "Auto_Update": "Off",
     "button_name": "Sun Network",
-    "button_image_url": "",
+    "button_image_url": "https://raw.githubusercontent.com/samnite2290/img/gh-pages/Country/Sun_TV.png",
     "button_playlist_url": "https://raw.githubusercontent.com/buzzinguaecn/Pizza/main/Sun-Network.m3u"
   },
 
