@@ -17,6 +17,15 @@
     "button_image_url": "https://raw.githubusercontent.com/buzzinguaecn/Logo/main/Sports/Fifa2026.jpg",
     "button_playlist_url": "https://raw.githubusercontent.com/buzzinguaecn/Pizza/main/FIFA2026.m3u"
   },
+  
+  
+ { 
+   "Auto_Update": "Off",
+    "button_name": "CricHD",
+    "button_image_url": "https://raw.githubusercontent.com/samnite2290/img/gh-pages/Country/CricHD.jpeg",
+    "button_playlist_url": "https://raw.githubusercontent.com/buzzinguaecn/Pizza/main/CRICHD.m3u"
+  },
+
   {  
    "Auto_Update": "On",
     "button_name": "Fancode BD",
@@ -61,16 +70,6 @@
     "button_image_url": "https://i.postimg.cc/MHnhCxNm/image.jpg",
     "button_playlist_url": "https://raw.githubusercontent.com/buzzinguaecn/Pizza/main/Bangla-BD-IND.m3u"
   },
-    
-  
-  
- { 
-   "Auto_Update": "Off",
-    "button_name": "CricHD",
-    "button_image_url": "https://raw.githubusercontent.com/samnite2290/img/gh-pages/Country/CricHD.jpeg",
-    "button_playlist_url": "https://raw.githubusercontent.com/abusaeeidx/CricHd-playlists-Auto-Update-permanent/refs/heads/main/ALL.m3u"
-  },
-
   { 
     "Auto_Update": "On",
     "button_name": "Arabic",
