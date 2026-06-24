@@ -20,7 +20,7 @@
   
   
  { 
-   "Auto_Update": "Off",
+   "Auto_Update": "On",
     "button_name": "CricHD",
     "button_image_url": "https://raw.githubusercontent.com/samnite2290/img/gh-pages/Country/CricHD.jpeg",
     "button_playlist_url": "https://raw.githubusercontent.com/buzzinguaecn/Pizza/main/CRICHD.m3u"
