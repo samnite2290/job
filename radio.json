@@ -217,6 +217,36 @@
     "button_playlist_url": "https://raw.githubusercontent.com/buzzinguaecn/Pizza/main/Radio/Bulgaria"
   },
   {  
+    "button_name": "Burkina Faso",
+    "button_image_url": "",
+    "button_playlist_url": "https://raw.githubusercontent.com/buzzinguaecn/Pizza/main/Radio/Burkina_Faso"
+  },
+  {  
+    "button_name": "Burundi",
+    "button_image_url": "",
+    "button_playlist_url": "https://raw.githubusercontent.com/buzzinguaecn/Pizza/main/Radio/Burundi"
+  },
+  {  
+    "button_name": "Cambodia",
+    "button_image_url": "",
+    "button_playlist_url": "https://raw.githubusercontent.com/buzzinguaecn/Pizza/main/Radio/Cambodia"
+  },
+  {  
+    "button_name": "Cameroon",
+    "button_image_url": "",
+    "button_playlist_url": "https://raw.githubusercontent.com/buzzinguaecn/Pizza/main/Radio/Cameroon"
+  },
+  {  
+    "button_name": "Canada 1",
+    "button_image_url": "",
+    "button_playlist_url": "https://raw.githubusercontent.com/buzzinguaecn/Pizza/main/Radio/Canada1"
+  },
+  {  
+    "button_name": "Canada 2",
+    "button_image_url": "",
+    "button_playlist_url": "https://raw.githubusercontent.com/buzzinguaecn/Pizza/main/Radio/Canada2"
+  },
+  {  
     "button_name": "Saudi Arabia",
     "button_image_url": "https://raw.githubusercontent.com/samnite2290/img/gh-pages/Country/Saudi_Arabia.jpg",
     "button_playlist_url": "https://raw.githubusercontent.com/buzzinguaecn/Pizza/main/Radio/Saudi_Arabia"
