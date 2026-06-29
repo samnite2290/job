@@ -19,22 +19,56 @@
 
 
 
+
   {
-    "Date & Time": "29-06-2026-10:20 00 pm",
-    "multipleTimeRun": "Off",
-    "multipleTime": "",
+    "Date & Time": "29-06-2026-08:13 00 pm",
+    "multipleTimeRun": "On",
+    "multipleTime": "(29-06-2026-09:00 00 pm).(29-06-2026-10:55 00 pm)",
     "Title": "🆂🅰🆆🅰🆁🅸🅳 سواريد | Brazil 🆚 Japan",
-    "Subtitle": "🅵🅸🅵🅰 🆆🅾🆁🅻🅳 🅲🆄🅿 - KSA: 08:00, QTR: 08:00, UAE: 09:00, PAK: 10:00, IND: 10:30, INDO: 12:00, BD: 11:00",
+    "Subtitle": "🅵🅸🅵🅰 🆆🅾🆁🅻🅳 🅲🆄🅿 - KSA: 08:00, QTR: 08:00, UAE: 09:00, PAK: 10:00, IND: 10:30, INDO: 12:00, BD: 11:00 , Tonight. Dont Miss.",
     "Image": "https://i.postimg.cc/Wzrcwgpj/Whats-App-Image-2026-06-28-at-2-42-13-PM.jpg"
   },
   {
-    "Date & Time": "29-06-2026-10:25 00 pm",
+    "Date & Time": "30-06-2026-12:05 00 am",
     "multipleTimeRun": "Off",
     "multipleTime": "",
     "Title": "🆂🅰🆆🅰🆁🅸🅳 سواريد | Brazil 🆚 Japan",
-    "Subtitle": "🅵🅸🅵🅰 🆆🅾🆁🅻🅳 🅲🆄🅿 - KSA: 08:00, QTR: 08:00, UAE: 09:00, PAK: 10:00, IND: 10:30, INDO: 12:00, BD: 11:00",
+    "Subtitle": "🅵🅸🅵🅰 🆆🅾🆁🅻🅳 🅲🆄🅿 - After halftime, the game has resumed. To watch the matches, please wait at least 5 seconds for the video to play.",
     "Image": "https://i.postimg.cc/Wzrcwgpj/Whats-App-Image-2026-06-28-at-2-42-13-PM.jpg"
   },
+  {
+    "Date & Time": "30-06-2026-12:30 00 am",
+    "multipleTimeRun": "On",
+    "multipleTime": "(30-06-2026-02:25 00 am)",
+    "Title": "🆂🅰🆆🅰🆁🅸🅳 سواريد | Germany 🆚 Paraguay",
+    "Subtitle": "🅵🅸🅵🅰 🆆🅾🆁🅻🅳 🅲🆄🅿 - KSA: 11:30, QTR: 11:30, UAE: 12:30, PAK: 01:30, IND: 02:00, INDO: 03:30, BD: 02:30 , Tonight. Dont Miss.",
+    "Image": "https://i.postimg.cc/502tgPDf/Whats-App-Image-2026-06-28-at-2-42-14-PM.jpg"
+  },
+  {
+    "Date & Time": "30-06-2026-03:45 00 am",
+    "multipleTimeRun": "Off",
+    "multipleTime": "",
+    "Title": "🆂🅰🆆🅰🆁🅸🅳 سواريد | Germany 🆚 Paraguay",
+    "Subtitle": "🅵🅸🅵🅰 🆆🅾🆁🅻🅳 🅲🆄🅿 - After halftime, the game has resumed. To watch the matches, please wait at least 5 seconds for the video to play.",
+    "Image": "https://i.postimg.cc/502tgPDf/Whats-App-Image-2026-06-28-at-2-42-14-PM.jpg"
+  },
+  {
+    "Date & Time": "30-06-2026-06:55 00 am",
+    "multipleTimeRun": "Off",
+    "multipleTime": "",
+    "Title": "🆂🅰🆆🅰🆁🅸🅳 سواريد | Netherlands 🆚 Morocco",
+    "Subtitle": "🅵🅸🅵🅰 🆆🅾🆁🅻🅳 🅲🆄🅿 - KSA: 04:00, QTR: 04:00, UAE: 05:00, PAK: 06:00, IND: 06:30, INDO: 08:00, BD: 07:00 , Tonight. Dont Miss.",
+    "Image": "https://i.postimg.cc/C5VStm69/Whats-App-Image-2026-06-28-at-2-42-15-PM.jpg"
+  },
+  {
+    "Date & Time": "30-06-2026-08:05 00 am",
+    "multipleTimeRun": "Off",
+    "multipleTime": "",
+    "Title": "🆂🅰🆆🅰🆁🅸🅳 سواريد | Netherlands 🆚 Morocco",
+    "Subtitle": "🅵🅸🅵🅰 🆆🅾🆁🅻🅳 🅲🆄🅿 - After halftime, the game has resumed. To watch the matches, please wait at least 5 seconds for the video to play.",
+    "Image": "https://i.postimg.cc/C5VStm69/Whats-App-Image-2026-06-28-at-2-42-15-PM.jpg"
+  }
+
 
 
 
