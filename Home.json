@@ -93,6 +93,12 @@
     "button_playlist_url": "https://raw.githubusercontent.com/buzzinguaecn/Pizza/main/Yupp.m3u"
   },
   {
+    "Auto_Update": "Off",
+    "button_name": "India 2",
+    "button_image_url": "https://i.postimg.cc/ZYXh37WW/image.jpg",
+    "button_playlist_url": "https://raw.githubusercontent.com/amazeyourself/m3u/main/jtv.m3u"
+  },
+  {
     "Auto_Update": "On",
     "button_name": "India Tamil 1",
     "button_image_url": "https://i.postimg.cc/ZYXh37WW/image.jpg",
