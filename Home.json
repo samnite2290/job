@@ -92,6 +92,12 @@
     "button_image_url": "https://i.postimg.cc/ZYXh37WW/image.jpg",
     "button_playlist_url": "https://raw.githubusercontent.com/buzzinguaecn/Pizza/main/Yupp.m3u"
   },
+  {
+    "Auto_Update": "On",
+    "button_name": "India Tamil",
+    "button_image_url": "https://i.postimg.cc/ZYXh37WW/image.jpg",
+    "button_playlist_url": "https://raw.githubusercontent.com/amazeyourself/tamil-local-iptv/main/channels.m3u"
+  },
 
   {
     "Auto_Update": "Off",
