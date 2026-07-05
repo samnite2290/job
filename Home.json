@@ -136,6 +136,16 @@
     "button_playlist_url": "https://raw.githubusercontent.com/buzzinguaecn/Pizza/main/BD_Orbit_Wifi.m3u"
   },  
 
+
+
+  {
+    "Auto_Update": "Off",
+    "button_name": "OTT Movie 1",
+    "button_image_url": "https://raw.githubusercontent.com/samnite2290/job/gh-pages/IMG/New_Released_Movie.jpeg",
+    "button_playlist_url": "https://raw.githubusercontent.com/sm-monirulislam/SM-Movie-Hup-Auto-Update/refs/heads/main/Ott_Bnagla.m3u"
+  },
+  
+
   {
     "Auto_Update": "Off",
     "button_name": "New Released Movie",
@@ -150,15 +160,15 @@
   },
     {
     "Auto_Update": "Off",
-    "button_name": "Movie Bangla 2",
+    "button_name": "Mix Movie",
     "button_image_url": "https://i.postimg.cc/QMcq4Mb4/image.jpg",
-    "button_playlist_url": "https://raw.githubusercontent.com/buzzinguaecn/Pizza/gh-pages/Movie/Bangla-Movie.m3u"
+    "button_playlist_url": "https://raw.githubusercontent.com/sm-monirulislam/SM-Movie-Hup-Auto-Update/refs/heads/main/All%20Movie.m3u"
   },
     {
     "Auto_Update": "Off",
     "button_name": "Movie Bangla 3",
     "button_image_url": "https://i.postimg.cc/QMcq4Mb4/image.jpg",
-    "button_playlist_url": "https://raw.githubusercontent.com/buzzinguaecn/Pizza/gh-pages/Movie/Bangla-Movie1.m3u"
+    "button_playlist_url": "https://raw.githubusercontent.com/sm-monirulislam/SM-Movie-Hup-Auto-Update/refs/heads/main/sm_movie2.m3u"
   },
   {
     "Auto_Update": "Off",
