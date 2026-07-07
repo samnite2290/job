@@ -430,6 +430,12 @@
   },
   {
     "Auto_Update": "Off",
+    "button_name": "Portugal",
+    "button_image_url": "https://raw.githubusercontent.com/samnite2290/img/gh-pages/Country/Portugal.jpg",
+    "button_playlist_url": "https://raw.githubusercontent.com/bugsfreeweb/LiveTVCollector/main/LiveTV/Portugal/LiveTV.m3u"
+  },
+  {
+    "Auto_Update": "Off",
     "button_name": "Turkey",
     "button_image_url": "https://i.postimg.cc/5NTmZ8d1/image.jpg",
     "button_playlist_url": "https://raw.githubusercontent.com/bugsfreeweb/LiveTVCollector/main/LiveTV/Turkey/LiveTV.m3u"
