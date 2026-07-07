@@ -344,9 +344,13 @@
 
 
 
-  
 
-
+  {
+    "Auto_Update": "Off",
+    "button_name": "Canada",
+    "button_image_url": "https://raw.githubusercontent.com/samnite2290/img/gh-pages/Country/Canada.jpg",
+    "button_playlist_url": "https://raw.githubusercontent.com/bugsfreeweb/LiveTVCollector/main/LiveTV/Egypt/LiveTV.m3u"
+  },
 
 
   
