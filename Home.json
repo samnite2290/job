@@ -437,6 +437,12 @@
   },
   {
     "Auto_Update": "Off",
+    "button_name": "Peru",
+    "button_image_url": "https://raw.githubusercontent.com/samnite2290/img/gh-pages/Country/Peru.jpg",
+    "button_playlist_url": "https://raw.githubusercontent.com/bugsfreeweb/LiveTVCollector/main/LiveTV/Peru/LiveTV.m3u"
+  },
+  {
+    "Auto_Update": "Off",
     "button_name": "Portugal",
     "button_image_url": "https://raw.githubusercontent.com/samnite2290/img/gh-pages/Country/Portugal.jpg",
     "button_playlist_url": "https://raw.githubusercontent.com/bugsfreeweb/LiveTVCollector/main/LiveTV/Portugal/LiveTV.m3u"
