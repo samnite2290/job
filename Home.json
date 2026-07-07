@@ -83,6 +83,12 @@
     "button_image_url": "https://i.postimg.cc/RZpbz2Q5/image.jpg",
     "button_playlist_url": "https://raw.githubusercontent.com/buzzinguaecn/Pizza/main/Pakistan-All-Urdu-All-Farsi.m3u"
   },
+  { 
+    "Auto_Update": "On",
+    "button_name": "Pakistan 2",
+    "button_image_url": "https://i.postimg.cc/RZpbz2Q5/image.jpg",
+    "button_playlist_url": "https://raw.githubusercontent.com/bugsfreeweb/LiveTVCollector/main/LiveTV/Pakistan/LiveTV.m3u"
+  },
   
  
   
@@ -303,6 +309,12 @@
     "button_image_url": "https://raw.githubusercontent.com/samnite2290/img/gh-pages/Country/Brazil.jpg",
     "button_playlist_url": "https://iptv-org.github.io/iptv/countries/br.m3u"
   },
+  {
+    "Auto_Update": "Off",
+    "button_name": "Brazil 2",
+    "button_image_url": "https://raw.githubusercontent.com/samnite2290/img/gh-pages/Country/Brazil.jpg",
+    "button_playlist_url": "https://raw.githubusercontent.com/bugsfreeweb/LiveTVCollector/main/LiveTV/Brazil/LiveTV.m3u"
+  },
   
   {
     "Auto_Update": "Off",
@@ -373,9 +385,15 @@
   },
   {
     "Auto_Update": "Off",
-    "button_name": "Indonesia",
+    "button_name": "Indonesia 1",
     "button_image_url": "https://i.postimg.cc/N0K4149f/image.jpg",
     "button_playlist_url": "https://raw.githubusercontent.com/buzzinguaecn/Pizza/main/Indonesia.m3u"
+  },
+  {
+    "Auto_Update": "Off",
+    "button_name": "Indonesia 2",
+    "button_image_url": "https://i.postimg.cc/N0K4149f/image.jpg",
+    "button_playlist_url": "https://raw.githubusercontent.com/bugsfreeweb/LiveTVCollector/main/LiveTV/Indonesia/LiveTV.m3u"
   },
   {
     "Auto_Update": "Off",
