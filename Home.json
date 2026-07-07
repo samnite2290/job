@@ -443,6 +443,18 @@
   },
   {
     "Auto_Update": "Off",
+    "button_name": "Russia",
+    "button_image_url": "https://raw.githubusercontent.com/samnite2290/img/gh-pages/Country/Russia.jpg",
+    "button_playlist_url": "https://raw.githubusercontent.com/bugsfreeweb/LiveTVCollector/main/LiveTV/Russia/LiveTV.m3u"
+  },
+  {
+    "Auto_Update": "Off",
+    "button_name": "Spain",
+    "button_image_url": "https://raw.githubusercontent.com/samnite2290/img/refs/heads/gh-pages/Country/Spain.jpg",
+    "button_playlist_url": "https://raw.githubusercontent.com/bugsfreeweb/LiveTVCollector/main/LiveTV/Spain/LiveTV.m3u"
+  },
+  {
+    "Auto_Update": "Off",
     "button_name": "Turkey",
     "button_image_url": "https://i.postimg.cc/5NTmZ8d1/image.jpg",
     "button_playlist_url": "https://raw.githubusercontent.com/bugsfreeweb/LiveTVCollector/main/LiveTV/Turkey/LiveTV.m3u"
