@@ -483,6 +483,18 @@
     "button_image_url": "https://i.postimg.cc/Rhn9S2dV/image.jpg",
     "button_playlist_url": "https://raw.githubusercontent.com/bugsfreeweb/LiveTVCollector/main/LiveTV/UK/LiveTV.m3u"
   },
+  {
+    "Auto_Update": "Off",
+    "button_name": "Venezuela",
+    "button_image_url": "https://raw.githubusercontent.com/samnite2290/img/gh-pages/Country/Venezuela.jpg",
+    "button_playlist_url": "https://raw.githubusercontent.com/bugsfreeweb/LiveTVCollector/main/LiveTV/Venezuela/LiveTV.m3u"
+  },
+  {
+    "Auto_Update": "Off",
+    "button_name": "Vietnam",
+    "button_image_url": "https://raw.githubusercontent.com/samnite2290/img/gh-pages/Country/Vietnam.jpg",
+    "button_playlist_url": "https://raw.githubusercontent.com/bugsfreeweb/LiveTVCollector/main/LiveTV/Vietnam/LiveTV.m3u"
+  },
 
 
 
