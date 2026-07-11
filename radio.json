@@ -247,6 +247,16 @@
     "button_playlist_url": "https://raw.githubusercontent.com/buzzinguaecn/Pizza/main/Radio/Canada2"
   },
   {  
+    "button_name": "Qatar",
+    "button_image_url": "",
+    "button_playlist_url": "https://raw.githubusercontent.com/buzzinguaecn/Pizza/main/Radio/Qatar"
+  },
+  {  
+    "button_name": "Romania",
+    "button_image_url": "",
+    "button_playlist_url": "https://raw.githubusercontent.com/buzzinguaecn/Pizza/main/Radio/Romania"
+  },
+  {  
     "button_name": "Saudi Arabia",
     "button_image_url": "https://raw.githubusercontent.com/samnite2290/img/gh-pages/Country/Saudi_Arabia.jpg",
     "button_playlist_url": "https://raw.githubusercontent.com/buzzinguaecn/Pizza/main/Radio/Saudi_Arabia"
