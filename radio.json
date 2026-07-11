@@ -287,6 +287,11 @@
     "button_playlist_url": "https://raw.githubusercontent.com/buzzinguaecn/Pizza/main/Radio/France"
   },
   {  
+    "button_name": "Georgia",
+    "button_image_url": "",
+    "button_playlist_url": "https://raw.githubusercontent.com/buzzinguaecn/Pizza/main/Radio/Georgia"
+  },
+  {  
     "button_name": "Qatar",
     "button_image_url": "",
     "button_playlist_url": "https://raw.githubusercontent.com/buzzinguaecn/Pizza/main/Radio/Qatar"
