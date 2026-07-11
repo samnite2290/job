@@ -420,11 +420,17 @@
     "Auto_Update": "Off",
     "button_name": "Indonesia 2",
     "button_image_url": "https://i.postimg.cc/N0K4149f/image.jpg",
-    "button_playlist_url": "https://raw.githubusercontent.com/bugsfreeweb/LiveTVCollector/main/LiveTV/Indonesia/LiveTV.m3u"
+    "button_playlist_url": "https://raw.githubusercontent.com/TvJapan/iptv-jp/refs/heads/main/jp_relay.m3u"
   },
   {
     "Auto_Update": "Off",
     "button_name": "Japan",
+    "button_image_url": "https://raw.githubusercontent.com/samnite2290/img/refs/heads/gh-pages/Country/1000409539.jpg",
+    "button_playlist_url": "https://raw.githubusercontent.com/TvJapan/terebi/refs/heads/main/JP.m3u"
+  },
+  {
+    "Auto_Update": "Off",
+    "button_name": "Japan 2",
     "button_image_url": "https://raw.githubusercontent.com/samnite2290/img/refs/heads/gh-pages/Country/1000409539.jpg",
     "button_playlist_url": "https://raw.githubusercontent.com/TvJapan/terebi/refs/heads/main/JP.m3u"
   },
