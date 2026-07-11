@@ -257,9 +257,34 @@
     "button_playlist_url": "https://raw.githubusercontent.com/buzzinguaecn/Pizza/main/Radio/Romania"
   },
   {  
+    "button_name": "Russian",
+    "button_image_url": "",
+    "button_playlist_url": "https://raw.githubusercontent.com/buzzinguaecn/Pizza/main/Radio/Russian"
+  },
+  {  
+    "button_name": "Rwanda",
+    "button_image_url": "",
+    "button_playlist_url": "https://raw.githubusercontent.com/buzzinguaecn/Pizza/main/Radio/Rwanda"
+  },
+  {  
+    "button_name": "Saint ALL",
+    "button_image_url": "",
+    "button_playlist_url": "https://raw.githubusercontent.com/buzzinguaecn/Pizza/main/Radio/Saint-ALL"
+  },
+  {  
+    "button_name": "San Marino",
+    "button_image_url": "",
+    "button_playlist_url": "https://raw.githubusercontent.com/buzzinguaecn/Pizza/main/Radio/San-Marino"
+  },
+  {  
     "button_name": "Saudi Arabia",
     "button_image_url": "https://raw.githubusercontent.com/samnite2290/img/gh-pages/Country/Saudi_Arabia.jpg",
     "button_playlist_url": "https://raw.githubusercontent.com/buzzinguaecn/Pizza/main/Radio/Saudi_Arabia"
+  },
+  {  
+    "button_name": "Senegal",
+    "button_image_url": "",
+    "button_playlist_url": "https://raw.githubusercontent.com/buzzinguaecn/Pizza/main/Radio/Senegal"
   }
 
 
