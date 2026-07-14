@@ -150,6 +150,12 @@
   },  
   {
     "Auto_Update": "Off",
+    "button_name": "Cartoon TV",
+    "button_image_url": "https://raw.githubusercontent.com/samnite2290/img/gh-pages/Country/CartoonTVsml.png",
+    "button_playlist_url": "https://raw.githubusercontent.com/buzzinguaecn/Pizza/main/Cartoon.m3u"
+  },  
+  {
+    "Auto_Update": "Off",
     "button_name": "BD Orbit WIFI USERS",
     "button_image_url": "https://raw.githubusercontent.com/samnite2290/img/gh-pages/Country/OrbitWifi.jpeg",
     "button_playlist_url": "https://raw.githubusercontent.com/buzzinguaecn/Pizza/main/BD_Orbit_Wifi.m3u"
