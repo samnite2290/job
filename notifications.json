@@ -87,6 +87,17 @@
 
 
 
+
+
+
+
+
+  
+
+
+
+
+
   {
     "Date & Time": "15-07-2026-05:29 00 pm",
     "multipleTimeRun": "Off",
@@ -109,6 +120,44 @@
     "multipleTime": "",
     "Title": "🆂🅰🆆🅰🆁🅸🅳 سواريد |   بعض الكلمات عن تطبيقاتنا",
     "Subtitle": "عزيزي مستخدم Sawarid، سنواصل تشغيل تطبيقاتنا بشكل سليم في المستقبل، ويمكنك مشاهدة جميع أنواع المباريات المباشرة عبر تطبيقنا. كما يمكنك مشاهدة قنوات من جميع الدول، ولكن بعض القنوات تعتمد على بلدك، وفي حال قيام مزود خدمة SIM أو مالك كابل Wi-Fi بإغلاق الخادم، فلن تتمكن من مشاهدة البث المباشر. إذا لم تعمل أي قناة وفقًا لموقعك الجغرافي، يُرجى استخدام VPN. ",
+    "Image": ""
+  },
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  {
+    "Date & Time": "15-07-2026-07:20 00 pm",
+    "multipleTimeRun": "Off",
+    "multipleTime": "",
+    "Title": "🆂🅰🆆🅰🆁🅸🅳 سواريد |   هل تواجه مشكلة في تشغيل قنوات البث التلفزيوني المباشر؟",
+    "Subtitle": " يرجى الانتظار خمس ثوانٍ على الأقل لتحميل القناة أثناء اللعب. ونقوم بتحديث الخادم باستمرار، ولن يتم إعلامك بذلك عبر الإشعارات. لذا، يُرجى تحديث واجهة القناة من حين لآخر لإضافة الخادم المُحدّث.",
+    "Image": ""
+  },
+  {
+    "Date & Time": "15-07-2026-07:22 00 pm",
+    "multipleTimeRun": "Off",
+    "multipleTime": "",
+    "Title": "🆂🅰🆆🅰🆁🅸🅳 سواريد | লাইভ টিভি চ্যানলে প্লে করতে সমস্যা?",
+    "Subtitle": " কোন চ্যানেল প্লে করার সময় দয়াকরে নূন্যতম ৫ সেকেন্ড লোড হবার সময় দিন। এবং আমরা সব সময় সার্ভার আপডেটের কাজ করি যা নোটিফিকেশনের সাহায্যে আপনাদের বলা হয়না। তাই আপনারা একটু পর পর চ্যানেলের ইন্টারফেইসটি রিফ্রেশ করবেন যাতে নতুন আপডেট করা সার্ভার যুক্ত হয়ে যায়। ",
+    "Image": ""
+  },
+  {
+    "Date & Time": "15-07-2026-07:21 00 pm",
+    "multipleTimeRun": "Off",
+    "multipleTime": "",
+    "Title": "🆂🅰🆆🅰🆁🅸🅳 سواريد | Having trouble playing live TV channels?",
+    "Subtitle": " Please allow at least 5 seconds for the channel to load when playing. And we are always updating the server which is not notified to you through notifications. So you should refresh the channel interface from time to time so that the newly updated server is added.",
     "Image": ""
   },
 
