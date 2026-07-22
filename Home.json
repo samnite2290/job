@@ -100,6 +100,12 @@
     "button_image_url": "https://i.postimg.cc/rmQwMSjj/image.jpg",
     "button_playlist_url": "https://raw.githubusercontent.com/buzzinguaecn/Pizza/main/Sports1.m3u"
   },
+  {
+    "Auto_Update": "On",
+    "button_name": "OSN Arabic",
+    "button_image_url": "https://raw.githubusercontent.com/samnite2290/img/refs/heads/gh-pages/Country/OSN.jpg",
+    "button_playlist_url": "https://raw.githubusercontent.com/siksa40/xPola-Player/main/OSN.m3u"
+  },
 
 
 
