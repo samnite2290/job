@@ -393,7 +393,7 @@
     "Auto_Update": "On",
     "button_name": "Canada",
     "button_image_url": "https://raw.githubusercontent.com/samnite2290/img/gh-pages/Country/Canada.jpg",
-    "button_playlist_url": "https://raw.githubusercontent.com/bugsfreeweb/LiveTVCollector/main/LiveTV/Egypt/LiveTV.m3u"
+    "button_playlist_url": "https://raw.githubusercontent.com/bugsfreeweb/LiveTVCollector/main/LiveTV/Canada/LiveTV.m3u"
   },
 
 
@@ -433,9 +433,15 @@
   },
   {
     "Auto_Update": "On",
-    "button_name": "Egypt",
+    "button_name": "Egypt 1",
     "button_image_url": "https://raw.githubusercontent.com/samnite2290/img/refs/heads/gh-pages/Country/Egypt.jpg",
     "button_playlist_url": "https://raw.githubusercontent.com/bugsfreeweb/LiveTVCollector/main/LiveTV/Egypt/LiveTV.m3u"
+  },
+  {
+    "Auto_Update": "On",
+    "button_name": "Egypt 2",
+    "button_image_url": "https://raw.githubusercontent.com/samnite2290/img/refs/heads/gh-pages/Country/Egypt.jpg",
+    "button_playlist_url": "https://raw.githubusercontent.com/Free-TV/IPTV/refs/heads/master/playlists/playlist_egypt.m3u8"
   },
 
 
