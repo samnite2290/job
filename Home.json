@@ -89,6 +89,13 @@
   },
   {
     "Auto_Update": "On",
+    "button_name": "Rakuten",
+    "button_image_url": "https://raw.githubusercontent.com/samnite2290/img/refs/heads/gh-pages/Country/Rakuten.jpg",
+    "button_playlist_url": "https://raw.githubusercontent.com/raid35/channel-links/main/Rakuten.m3u"
+  },
+  
+  {
+    "Auto_Update": "On",
     "button_name": "Sports (All) Channels",
     "button_image_url": "https://i.postimg.cc/rmQwMSjj/image.jpg",
     "button_playlist_url": "https://raw.githubusercontent.com/buzzinguaecn/Pizza/main/Sports1.m3u"
