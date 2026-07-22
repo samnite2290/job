@@ -433,6 +433,12 @@
   },
   {
     "Auto_Update": "On",
+    "button_name": "Croatia",
+    "button_image_url": "https://raw.githubusercontent.com/samnite2290/img/refs/heads/gh-pages/Country/Croatia.jpg",
+    "button_playlist_url": "https://raw.githubusercontent.com/Free-TV/IPTV/refs/heads/master/playlists/playlist_croatia.m3u8"
+  },
+  {
+    "Auto_Update": "On",
     "button_name": "France",
     "button_image_url": "https://i.postimg.cc/4ySv7R8k/image.jpg",
     "button_playlist_url": "https://raw.githubusercontent.com/buzzinguaecn/Pizza//main/France.m3u"
@@ -448,6 +454,12 @@
     "button_name": "Egypt 2",
     "button_image_url": "https://raw.githubusercontent.com/samnite2290/img/refs/heads/gh-pages/Country/Egypt.jpg",
     "button_playlist_url": "https://raw.githubusercontent.com/Free-TV/IPTV/refs/heads/master/playlists/playlist_egypt.m3u8"
+  },
+  {
+    "Auto_Update": "On",
+    "button_name": "Estonia",
+    "button_image_url": "https://raw.githubusercontent.com/samnite2290/img/refs/heads/gh-pages/Country/Estonia.jpg",
+    "button_playlist_url": "https://raw.githubusercontent.com/Free-TV/IPTV/refs/heads/master/playlists/playlist_estonia.m3u8"
   },
 
 
