@@ -439,6 +439,18 @@
   },
   {
     "Auto_Update": "On",
+    "button_name": "Cyprus",
+    "button_image_url": "https://raw.githubusercontent.com/samnite2290/img/refs/heads/gh-pages/Country/Cyprus.jpg",
+    "button_playlist_url": "https://raw.githubusercontent.com/Free-TV/IPTV/refs/heads/master/playlists/playlist_cyprus.m3u8"
+  },
+  {
+    "Auto_Update": "On",
+    "button_name": "Czech",
+    "button_image_url": "https://raw.githubusercontent.com/samnite2290/img/refs/heads/gh-pages/Country/Czech.jpg",
+    "button_playlist_url": "https://raw.githubusercontent.com/Free-TV/IPTV/refs/heads/master/playlists/playlist_czech_republic.m3u8"
+  },
+  {
+    "Auto_Update": "On",
     "button_name": "France",
     "button_image_url": "https://i.postimg.cc/4ySv7R8k/image.jpg",
     "button_playlist_url": "https://raw.githubusercontent.com/buzzinguaecn/Pizza//main/France.m3u"
