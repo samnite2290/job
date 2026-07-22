@@ -45,12 +45,7 @@
     "button_image_url": "https://raw.githubusercontent.com/samnite2290/img/refs/heads/gh-pages/1000319579.jpg",
     "button_playlist_url": "https://raw.githubusercontent.com/srhady/SonyLiv/refs/heads/main/sonyliv_playlist.m3u"
   },
-  {
-    "Auto_Update": "On",
-    "button_name": "Zee5",
-    "button_image_url": "https://raw.githubusercontent.com/samnite2290/img/gh-pages/Country/Zee5.jpg",
-    "button_playlist_url": "https://raw.githubusercontent.com/buzzinguaecn/Pizza/main/Zee5.m3u"
-  },
+  
 
     {
     "Auto_Update": "On",
@@ -58,6 +53,60 @@
     "button_image_url": "https://raw.githubusercontent.com/samnite2290/img/refs/heads/gh-pages/1000319578.jpg",
     "button_playlist_url": "https://raw.githubusercontent.com/srhady/tapmad-bd/refs/heads/main/tapmad_bd.m3u"
   },  
+
+
+
+
+
+
+
+
+
+
+  {
+    "Auto_Update": "On",
+    "button_name": "Zee5",
+    "button_image_url": "https://raw.githubusercontent.com/samnite2290/img/gh-pages/Country/Zee5.jpg",
+    "button_playlist_url": "https://raw.githubusercontent.com/buzzinguaecn/Pizza/main/Zee5.m3u"
+  },
+  {
+    "Auto_Update": "On",
+    "button_name": "Sun Network",
+    "button_image_url": "https://raw.githubusercontent.com/samnite2290/img/gh-pages/Country/Sun_TV.png",
+    "button_playlist_url": "https://raw.githubusercontent.com/buzzinguaecn/Pizza/main/Sun-Network.m3u"
+  },
+  {
+    "Auto_Update": "On",
+    "button_name": "Xumo Network",
+    "button_image_url": "https://raw.githubusercontent.com/samnite2290/img/refs/heads/gh-pages/Country/Xumo.jpg",
+    "button_playlist_url": "https://iptv-scraper-zilla.pages.dev/xumo_playlist.m3u"
+  },
+  {
+    "Auto_Update": "On",
+    "button_name": "Tubi Network",
+    "button_image_url": "https://raw.githubusercontent.com/samnite2290/img/refs/heads/gh-pages/Country/Tubi.png",
+    "button_playlist_url": "https://iptv-scraper-zilla.pages.dev/tubi_playlist.m3u"
+  },
+  {
+    "Auto_Update": "On",
+    "button_name": "Sports (All) Channels",
+    "button_image_url": "https://i.postimg.cc/rmQwMSjj/image.jpg",
+    "button_playlist_url": "https://raw.githubusercontent.com/buzzinguaecn/Pizza/main/Sports1.m3u"
+  },
+
+
+
+
+
+
+
+
+
+
+
+  
+
+  
  {  
    "Auto_Update": "On",
     "button_name": "Afghanistan",
@@ -125,18 +174,8 @@
     "button_playlist_url": "https://raw.githubusercontent.com/amazeyourself/tamil-local-iptv/main/channels-nortmp.m3u"
   },
 
-  {
-    "Auto_Update": "On",
-    "button_name": "Sports (All)",
-    "button_image_url": "https://i.postimg.cc/rmQwMSjj/image.jpg",
-    "button_playlist_url": "https://raw.githubusercontent.com/buzzinguaecn/Pizza/main/Sports-All.m3u"
-  },
-  {
-    "Auto_Update": "On",
-    "button_name": "Sports 2",
-    "button_image_url": "https://raw.githubusercontent.com/samnite2290/img/gh-pages/Country/SawaridSports450300.png",
-    "button_playlist_url": "https://raw.githubusercontent.com/buzzinguaecn/Pizza/main/Sports1.m3u"
-  },
+  
+  
   {
     "Auto_Update": "On",
     "button_name": "Documentary",
@@ -202,26 +241,10 @@
     "button_image_url": "https://i.postimg.cc/QMcq4Mb4/image.jpg",
     "button_playlist_url": "https://raw.githubusercontent.com/eishakilei-bd08/eitv/main/movie.m3u"
   },
-  {
-    "Auto_Update": "On",
-    "button_name": "English Network",
-    "button_image_url": "",
-    "button_playlist_url": "https://iptv-scraper-zilla.pages.dev/xumo_playlist.m3u"
-  },
-  {
-    "Auto_Update": "On",
-    "button_name": "Hollywood Network",
-    "button_image_url": "",
-    "button_playlist_url": "https://iptv-scraper-zilla.pages.dev/tubi_playlist.m3u"
-  },
+  
 
 
-  {
-    "Auto_Update": "On",
-    "button_name": "Sun Network",
-    "button_image_url": "https://raw.githubusercontent.com/samnite2290/img/gh-pages/Country/Sun_TV.png",
-    "button_playlist_url": "https://raw.githubusercontent.com/buzzinguaecn/Pizza/main/Sun-Network.m3u"
-  },
+  
 
 
 
