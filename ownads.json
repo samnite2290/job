@@ -37,9 +37,9 @@
   "watermark": {
     "image_url": "https://raw.githubusercontent.com/samnite2290/img/gh-pages/SAWARID-LOGO-SMALL.png",
     "position": "top_right",
-    "width_dp": 45,
-    "height_dp": 45,
-    "margin_x_dp": 40,
+    "width_dp": 35,
+    "height_dp": 35,
+    "margin_x_dp": 50,
     "margin_y_dp": 300,
     "opacity": 0.7
   }
