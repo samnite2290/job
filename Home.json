@@ -16,18 +16,7 @@
   
  
 
-  {  
-   "Auto_Update": "On",
-    "button_name": "Fancode BD",
-    "button_image_url": "https://i.postimg.cc/q711D14y/image.jpg",
-    "button_playlist_url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/main_playlist.m3u"
-  },
-  {  
-   "Auto_Update": "On",
-    "button_name": "Fancode IND",
-    "button_image_url": "https://i.postimg.cc/5yLqJgW0/image.jpg",
-    "button_playlist_url": "https://raw.githubusercontent.com/drmlive/fancode-live-events/main/fancode.m3u"
-  },
+  
     
 {
     "Auto_Update": "On",
@@ -43,6 +32,18 @@
     "button_image_url": "https://raw.githubusercontent.com/samnite2290/img/refs/heads/gh-pages/1000319578.jpg",
     "button_playlist_url": "https://raw.githubusercontent.com/srhady/tapmad-bd/refs/heads/main/tapmad_bd.m3u"
   },  
+  {  
+   "Auto_Update": "On",
+    "button_name": "Fancode BD",
+    "button_image_url": "https://i.postimg.cc/q711D14y/image.jpg",
+    "button_playlist_url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/main_playlist.m3u"
+  },
+  {  
+   "Auto_Update": "On",
+    "button_name": "Fancode IND",
+    "button_image_url": "https://i.postimg.cc/5yLqJgW0/image.jpg",
+    "button_playlist_url": "https://raw.githubusercontent.com/drmlive/fancode-live-events/main/fancode.m3u"
+  },
   { 
    "Auto_Update": "On",
     "button_name": "CricHD",
@@ -94,6 +95,12 @@
     "button_name": "Rakuten",
     "button_image_url": "https://raw.githubusercontent.com/samnite2290/img/refs/heads/gh-pages/Country/Rakuten.jpg",
     "button_playlist_url": "https://raw.githubusercontent.com/raid35/channel-links/main/Rakuten.m3u"
+  },
+  {
+    "Auto_Update": "On",
+    "button_name": "Roku Channel",
+    "button_image_url": "https://raw.githubusercontent.com/samnite2290/img/refs/heads/gh-pages/Country/IMG_20260914_005406.png",
+    "button_playlist_url": "https://github.com/BuddyChewChew/app-m3u-generator/raw/refs/heads/main/playlists/roku_all.m3u"
   },
   
   {
