@@ -12,6 +12,14 @@
     "button_image_url": "https://raw.githubusercontent.com/samnite2290/img/gh-pages/Country/SawaridSports450300.png",
     "button_playlist_url": "https://raw.githubusercontent.com/buzzinguaecn/Pizza/main/LiveEventSports.m3u"
   },
+  {  
+   "Auto_Update": "On",
+    "button_name": "Live Sports World",
+    "button_image_url": "https://raw.githubusercontent.com/samnite2290/img/gh-pages/Country/SawaridSports450300.png",
+    "button_playlist_url": "https://raw.githubusercontent.com/BuddyChewChew/sports/refs/heads/main/liveeventsfilter.m3u8"
+  },
+
+  
   
   
  
