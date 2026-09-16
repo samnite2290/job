@@ -110,6 +110,12 @@
     "button_image_url": "https://raw.githubusercontent.com/samnite2290/img/refs/heads/gh-pages/Country/IMG_20260914_005406.png",
     "button_playlist_url": "https://github.com/BuddyChewChew/app-m3u-generator/raw/refs/heads/main/playlists/roku_all.m3u"
   },
+  {
+    "Auto_Update": "On",
+    "button_name": "English Channel",
+    "button_image_url": "https://i.postimg.cc/1zG6KV3D/image.png",
+    "button_playlist_url": "https://raw.githubusercontent.com/buzzinguaecn/Pizza/refs/heads/main/English.m3u"
+  },
   
   {
     "Auto_Update": "On",
