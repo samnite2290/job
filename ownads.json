@@ -8,7 +8,7 @@
     "days": "Saturday, Sunday, Monday, Tuesday, Wednesday, Thursday, Friday",
     "text": "Our Sawarid app is being tested. If you want, you can advertise your product within our app, everyone can see it live during sports. Please contact us quickly, thank you.",
     "show_duration_minutes": 5,
-    "cooldown_hours": 6,
+    "cooldown_hours": 24,
     "text_color": "#FFFFFF",
     "bg_color": "#CC000000",
     "opacity": 0.85,
@@ -28,7 +28,7 @@
       "https://raw.githubusercontent.com/samnite2290/job/gh-pages/IMG/ads3.png"
     ],
     "show_duration_minutes": 5,
-    "cooldown_hours": 6,
+    "cooldown_hours": 24,
     "image_duration_seconds": 7,
     "opacity": 0.9,
     "mobile": {
