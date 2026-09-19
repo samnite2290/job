@@ -52,15 +52,15 @@
     "opacity": 0.65,
     "mobile": {
       "position": "top_right",
-      "width": "35dp",
-      "height": "35dp",
-      "margin_x": "20dp",
-      "margin_y": "20dp"
+      "width": "20dp",
+      "height": "20dp",
+      "margin_x": "10dp",
+      "margin_y": "10dp"
     },
     "tv": {
       "position": "top_right",
-      "width": "7%",
-      "height": "11%",
+      "width": "3%",
+      "height": "6%",
       "margin_x": "3%",
       "margin_y": "4%"
     }
