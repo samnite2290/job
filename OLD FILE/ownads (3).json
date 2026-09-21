@@ -1,0 +1,46 @@
+{
+  "is_ads_enabled": true,
+  "is_marquee_enabled": false,
+  "is_image_enabled": false,
+  "is_watermark_enabled": true,
+  
+  "marquee_ad": {
+    "scheduled_time": "21-06-2026 06:34am", 
+    "text": "Our Sawarid app is being tested. If you want, you can advertise your product within our app, everyone can see it live during sports. Please contact us quickly, thank you.",
+    "show_after_minutes": 0,       
+    "duration_minutes": 1400,         
+    "scroll_speed": "normal",      
+    "bottom_margin_dp": 60,        
+    "text_color": "#FFFFFF",
+    "bg_color": "#B3000000",
+    "opacity": 0.8
+  },
+
+  "image_ad": {
+    "scheduled_time": "28-04-2026 02:27am",
+    "image_urls": [
+      "https://raw.githubusercontent.com/samnite2290/job/gh-pages/IMG/ads1.png",
+      "https://raw.githubusercontent.com/samnite2290/job/gh-pages/IMG/ads2.png",
+      "https://raw.githubusercontent.com/samnite2290/job/gh-pages/IMG/ads3.png"
+    ],
+    "position": "bottom_right",       
+    "width_dp": 180,               
+    "height_dp": 60,
+    "margin_x_dp": 16,
+    "margin_y_dp": 100,
+    "show_after_minutes": 0,       
+    "duration_seconds": 10,        
+    "max_shows_per_day": 1400,
+    "opacity": 0.9
+  },
+
+  "watermark": {
+    "image_url": "https://raw.githubusercontent.com/samnite2290/img/gh-pages/SAWARID-LOGO-SMALL.png",
+    "position": "top_right",
+    "width_dp": 35,
+    "height_dp": 35,
+    "margin_x_dp": 40,
+    "margin_y_dp": 70,
+    "opacity": 0.6
+  }
+}
