@@ -1,46 +1,70 @@
 {
   "is_ads_enabled": true,
-  "is_marquee_enabled": false,
+  "is_marquee_enabled": true,
   "is_image_enabled": false,
   "is_watermark_enabled": true,
-  
-  "marquee_ad": {
-    "scheduled_time": "21-06-2026 06:34am", 
-    "text": "Our Sawarid app is being tested. If you want, you can advertise your product within our app, everyone can see it live during sports. Please contact us quickly, thank you.",
-    "show_after_minutes": 0,       
-    "duration_minutes": 1400,         
-    "scroll_speed": "normal",      
-    "bottom_margin_dp": 60,        
-    "text_color": "#FFFFFF",
-    "bg_color": "#B3000000",
-    "opacity": 0.8
+
+  "watermark": {
+    "image_url": "https://raw.githubusercontent.com/samnite2290/img/gh-pages/SAWARID-LOGO-SMALL.png",
+    "opacity": 0.70,
+
+    "mobile": {
+      "position": "top_right",
+      "width": "6%",
+      "margin_x": "2.5%",
+      "margin_y": "3.5%"
+    },
+
+    "tv": {
+      "position": "top_right",
+      "width": "4%",
+      "margin_x": "2%",
+      "margin_y": "3%"
+    }
   },
 
   "image_ad": {
-    "scheduled_time": "28-04-2026 02:27am",
+    "days": "Saturday, Sunday, Monday, Tuesday, Wednesday, Thursday, Friday",
     "image_urls": [
       "https://raw.githubusercontent.com/samnite2290/job/gh-pages/IMG/ads1.png",
       "https://raw.githubusercontent.com/samnite2290/job/gh-pages/IMG/ads2.png",
       "https://raw.githubusercontent.com/samnite2290/job/gh-pages/IMG/ads3.png"
     ],
-    "position": "bottom_right",       
-    "width_dp": 180,               
-    "height_dp": 60,
-    "margin_x_dp": 16,
-    "margin_y_dp": 100,
-    "show_after_minutes": 0,       
-    "duration_seconds": 10,        
-    "max_shows_per_day": 1400,
-    "opacity": 0.9
+    "show_duration_minutes": 5,
+    "cooldown_hours": 24,
+    "image_duration_seconds": 7,
+    "opacity": 0.90,
+
+    "mobile": {
+      "position": "bottom_right",
+      "width": "25%",
+      "margin_x": "2%",
+      "margin_y": "6%"
+    },
+
+    "tv": {
+      "position": "bottom_right",
+      "width": "18%",
+      "margin_x": "2.5%",
+      "margin_y": "5%"
+    }
   },
 
-  "watermark": {
-    "image_url": "https://raw.githubusercontent.com/samnite2290/img/gh-pages/SAWARID-LOGO-SMALL.png",
-    "position": "top_right",
-    "width_dp": 35,
-    "height_dp": 35,
-    "margin_x_dp": 40,
-    "margin_y_dp": 70,
-    "opacity": 0.6
+  "marquee_ad": {
+    "days": "Saturday, Sunday, Monday, Tuesday, Wednesday, Thursday, Friday",
+    "text": "Welcome to SAWARID سواريد - If you want, you can advertise your product within our app, everyone can see it live during sports. Please contact us quickly, thank you. Enjoy Live All Match... You can watch TV channels and sports from all countries on our app. Stay with us for uninterrupted live TV and sports. Contact us for any problem (https://www.facebook.com/sawaridtv).",
+    "show_duration_minutes": 5,
+    "cooldown_hours": 6,
+    "text_color": "#FFFFFF",
+    "bg_color": "#CC0D1117",
+    "opacity": 0.85,
+
+    "mobile": {
+      "bottom_margin": "4%"
+    },
+
+    "tv": {
+      "bottom_margin": "3.5%"
+    }
   }
 }
