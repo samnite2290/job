@@ -33,7 +33,7 @@
     "opacity": 0.9,
     "mobile": {
       "position": "bottom_right",
-      "width": "20%",
+      "width": "26%",
       "margin_x": "2%",
       "margin_y": "7%"
     },
@@ -50,7 +50,7 @@
     "opacity": 0.65,
     "mobile": {
       "position": "top_right",
-      "width": 3.5%",
+      "width": "3.5%",
       "margin_x": "2%",
       "margin_y": "3%"
     },
