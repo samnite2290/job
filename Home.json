@@ -31,12 +31,17 @@
  
 
   
-    
-{
+    {
     "Auto_Update": "On",
-    "button_name": "SonyLiv",
+    "button_name": "SonyLiv 1",
     "button_image_url": "https://raw.githubusercontent.com/samnite2290/img/refs/heads/gh-pages/1000319579.jpg",
     "button_playlist_url": "https://raw.githubusercontent.com/srhady/SonyLiv/refs/heads/main/sonyliv_playlist.m3u"
+  },
+  {
+    "Auto_Update": "On",
+    "button_name": "SonyLiv 2",
+    "button_image_url": "https://raw.githubusercontent.com/samnite2290/img/refs/heads/gh-pages/1000319579.jpg",
+    "button_playlist_url": "https://raw.githubusercontent.com/kajju027/SonyLiv-Events-Json/refs/heads/main/sonyliv.m3u"
   },
   
 
