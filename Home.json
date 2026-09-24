@@ -115,6 +115,12 @@
   },
   {
     "Auto_Update": "On",
+    "button_name": "AYNA OTT",
+    "button_image_url": "https://i.postimg.cc/brfyXrGL/1000476430.jpg",
+    "button_playlist_url": "https://raw.githubusercontent.com/sm-monirulislam/AynaOTT_Auto_Update_Playlist/refs/heads/main/aynaott.m3u"
+  },
+  {
+    "Auto_Update": "On",
     "button_name": "TOFFEE OTT",
     "button_image_url": "https://i.postimg.cc/MK5rzzmm/1000475928.jpg",
     "button_playlist_url": "https://raw.githubusercontent.com/sm-monirulislam/Toffee-Auto-Update/refs/heads/main/toffee_playlist.m3u"
