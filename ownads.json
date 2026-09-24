@@ -1,7 +1,7 @@
 {
   "is_ads_enabled": true,
-  "is_marquee_enabled": false,
-  "is_image_enabled": false,
+  "is_marquee_enabled": true,
+  "is_image_enabled": true,
   "is_watermark_enabled": true,
 
   "marquee_ad": {
@@ -23,9 +23,9 @@
   "image_ad": {
     "days": "Saturday, Sunday, Monday, Tuesday, Wednesday, Thursday, Friday",
     "image_urls": [
-      "https://raw.githubusercontent.com/samnite2290/job/gh-pages/IMG/ads1.png",
-      "https://raw.githubusercontent.com/samnite2290/job/gh-pages/IMG/ads2.png",
-      "https://raw.githubusercontent.com/samnite2290/job/gh-pages/IMG/ads3.png"
+      "https://raw.githubusercontent.com/samnite2290/img/refs/heads/gh-pages/HOME/SPORTS%20SCHEDULE%20-%20Copy.png",
+      "https://raw.githubusercontent.com/samnite2290/img/refs/heads/gh-pages/HOME/English-Banner.png",
+      "https://raw.githubusercontent.com/samnite2290/img/refs/heads/gh-pages/HOME/SAWARID%20SPORTS.png"
     ],
     "show_duration_minutes": 5,
     "cooldown_hours": 24,
