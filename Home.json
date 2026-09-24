@@ -18,6 +18,12 @@
     "button_image_url": "https://raw.githubusercontent.com/samnite2290/img/gh-pages/Country/SawaridSports450300.png",
     "button_playlist_url": "https://raw.githubusercontent.com/doms9/iptv/refs/heads/default/M3U8/events.m3u8"
   },
+  {  
+   "Auto_Update": "On",
+    "button_name": "Sawarid Sports",
+    "button_image_url": "https://raw.githubusercontent.com/samnite2290/img/refs/heads/gh-pages/HOME/SAWARID%20SPORTS.png",
+    "button_playlist_url": "https://raw.githubusercontent.com/buzzinguaecn/Pizza/refs/heads/main/All-Sports.m3u"
+  },
 
   
   
