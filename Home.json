@@ -85,12 +85,6 @@
     "button_image_url": "https://raw.githubusercontent.com/samnite2290/img/gh-pages/Country/CricHD.jpeg",
     "button_playlist_url": "https://raw.githubusercontent.com/buzzinguaecn/Pizza/main/CRICHD.m3u"
   },
-  {  
-   "Auto_Update": "On",
-    "button_name": "FIFA",
-    "button_image_url": "https://raw.githubusercontent.com/buzzinguaecn/Logo/main/Sports/Fifa2026.jpg",
-    "button_playlist_url": "https://raw.githubusercontent.com/buzzinguaecn/Pizza/main/FIFA2026.m3u"
-  },
 
 
 
@@ -113,19 +107,8 @@
     "button_image_url": "https://raw.githubusercontent.com/samnite2290/img/gh-pages/Country/Sun_TV.png",
     "button_playlist_url": "https://raw.githubusercontent.com/buzzinguaecn/Pizza/main/Sun-Network.m3u"
   },
-  {
-    "Auto_Update": "On",
-    "button_name": "AYNA OTT",
-    "button_image_url": "https://i.postimg.cc/brfyXrGL/1000476430.jpg",
-    "button_playlist_url": "https://raw.githubusercontent.com/sm-monirulislam/AynaOTT_Auto_Update_Playlist/refs/heads/main/aynaott.m3u"
-  },
-  {
-    "Auto_Update": "On",
-    "button_name": "TOFFEE OTT",
-    "button_image_url": "https://i.postimg.cc/MK5rzzmm/1000475928.jpg",
-    "button_playlist_url": "https://raw.githubusercontent.com/sm-monirulislam/Toffee-Auto-Update/refs/heads/main/toffee_playlist.m3u"
-  },
-  {
+  
+    {
     "Auto_Update": "On",
     "button_name": "Xumo Network",
     "button_image_url": "https://raw.githubusercontent.com/samnite2290/img/refs/heads/gh-pages/Country/Xumo.jpg",
@@ -168,6 +151,19 @@
     "button_image_url": "https://raw.githubusercontent.com/samnite2290/img/refs/heads/gh-pages/Country/OSN.jpg",
     "button_playlist_url": "https://raw.githubusercontent.com/siksa40/xPola-Player/main/OSN.m3u"
   },
+  {
+    "Auto_Update": "On",
+    "button_name": "TOFFEE OTT",
+    "button_image_url": "https://i.postimg.cc/MK5rzzmm/1000475928.jpg",
+    "button_playlist_url": "https://raw.githubusercontent.com/sm-monirulislam/Toffee-Auto-Update/refs/heads/main/toffee_playlist.m3u"
+  },
+  {
+    "Auto_Update": "On",
+    "button_name": "AYNA OTT",
+    "button_image_url": "https://i.postimg.cc/brfyXrGL/1000476430.jpg",
+    "button_playlist_url": "https://raw.githubusercontent.com/sm-monirulislam/AynaOTT_Auto_Update_Playlist/refs/heads/main/aynaott.m3u"
+  },
+
 
 
 
