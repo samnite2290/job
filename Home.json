@@ -8,10 +8,19 @@
   
   {  
    "Auto_Update": "On",
-    "button_name": "Live Schedule",
+    "button_name": "Live Schedule 1",
     "button_image_url": "https://raw.githubusercontent.com/samnite2290/img/refs/heads/gh-pages/HOME/SPORTS%20SCHEDULE%20-%20Copy.png",
     "button_playlist_url": "https://raw.githubusercontent.com/buzzinguaecn/Pizza/main/LiveEventSports.m3u"
   },
+ {  
+   "Auto_Update": "On",
+    "button_name": "Live Schedule 2",
+    "button_image_url": "https://raw.githubusercontent.com/samnite2290/img/refs/heads/gh-pages/HOME/SPORTS%20SCHEDULE%20-%20Copy.png",
+    "button_playlist_url": "https://raw.githubusercontent.com/sportlive18/jio-tv-auto-update-playlist/refs/heads/main/LiveEvent.m3u"
+  },
+
+
+
   {  
    "Auto_Update": "On",
     "button_name": "Live Sports World",
