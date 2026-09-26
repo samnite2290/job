@@ -3,14 +3,14 @@
     "Auto_Update": "On",
     "button_name": "All TV",
     "button_image_url": "https://i.postimg.cc/Bvp2MRZf/image.jpg",
-    "button_playlist_url": "https://raw.githubusercontent.com/buzzinguaecn/Pizza/main/All-TV.m3u"
+    "button_playlist_url": "https://sawarid-proxy-ksa.pages.dev/All-TV.m3u"
   },
   
   {  
    "Auto_Update": "On",
     "button_name": "Live Schedule 1",
     "button_image_url": "https://raw.githubusercontent.com/samnite2290/img/refs/heads/gh-pages/HOME/SPORTS%20SCHEDULE%20-%20Copy.png",
-    "button_playlist_url": "https://raw.githubusercontent.com/buzzinguaecn/Pizza/main/LiveEventSports.m3u"
+    "button_playlist_url": "https://sawarid-proxy-ksa.pages.dev/LiveEventSports.m3u"
   },
  {  
    "Auto_Update": "On",
@@ -83,7 +83,7 @@
    "Auto_Update": "On",
     "button_name": "CricHD",
     "button_image_url": "https://raw.githubusercontent.com/samnite2290/img/gh-pages/Country/CricHD.jpeg",
-    "button_playlist_url": "https://raw.githubusercontent.com/buzzinguaecn/Pizza/main/CRICHD.m3u"
+    "button_playlist_url": "https://sawarid-proxy-ksa.pages.dev/CRICHD.m3u"
   },
 
 
@@ -99,13 +99,13 @@
     "Auto_Update": "On",
     "button_name": "Zee5",
     "button_image_url": "https://raw.githubusercontent.com/samnite2290/img/gh-pages/Country/Zee5.jpg",
-    "button_playlist_url": "https://raw.githubusercontent.com/buzzinguaecn/Pizza/main/Zee5.m3u"
+    "button_playlist_url": "https://sawarid-proxy-ksa.pages.dev/Zee5.m3u"
   },
   {
     "Auto_Update": "On",
     "button_name": "Sun Network",
     "button_image_url": "https://raw.githubusercontent.com/samnite2290/img/gh-pages/Country/Sun_TV.png",
-    "button_playlist_url": "https://raw.githubusercontent.com/buzzinguaecn/Pizza/main/Sun-Network.m3u"
+    "button_playlist_url": "https://sawarid-proxy-ksa.pages.dev/Sun-Network.m3u"
   },
   
     {
@@ -143,7 +143,7 @@
     "Auto_Update": "On",
     "button_name": "Sports (All) Channels",
     "button_image_url": "https://i.postimg.cc/rmQwMSjj/image.jpg",
-    "button_playlist_url": "https://raw.githubusercontent.com/buzzinguaecn/Pizza/main/Sports1.m3u"
+    "button_playlist_url": "https://sawarid-proxy-ksa.pages.dev/Sports1.m3u"
   },
   {
     "Auto_Update": "On",
@@ -182,7 +182,7 @@
    "Auto_Update": "On",
     "button_name": "Afghanistan",
     "button_image_url": "https://i.postimg.cc/sDr2pNWr/image.jpg",
-    "button_playlist_url": "https://raw.githubusercontent.com/buzzinguaecn/Pizza/main/Afghanistan.m3u"
+    "button_playlist_url": "https://sawarid-proxy-ksa.pages.dev/Afghanistan.m3u"
   },
 
   
@@ -190,7 +190,7 @@
     "Auto_Update": "On",
     "button_name": "Arabic 1",
     "button_image_url": "https://raw.githubusercontent.com/samnite2290/img/gh-pages/Country/Saudi_Arabia.jpg",
-    "button_playlist_url": "https://raw.githubusercontent.com/buzzinguaecn/Pizza/main/Arabic.m3u"
+    "button_playlist_url": "https://sawarid-proxy-ksa.pages.dev/Arabic.m3u"
   },
   { 
     "Auto_Update": "On",
@@ -202,14 +202,14 @@
     "Auto_Update": "On",
     "button_name": "Bangladeshi",
     "button_image_url": "https://raw.githubusercontent.com/samnite2290/img/gh-pages/Country/Bangladesh.jpg",
-    "button_playlist_url": "https://raw.githubusercontent.com/buzzinguaecn/Pizza/main/Bangla-BD-IND.m3u"
+    "button_playlist_url": "https://sawarid-proxy-ksa.pages.dev/Bangla-BD-IND.m3u"
   },
   
   { 
     "Auto_Update": "On",
     "button_name": "Pakistan 1",
     "button_image_url": "https://i.postimg.cc/RZpbz2Q5/image.jpg",
-    "button_playlist_url": "https://raw.githubusercontent.com/buzzinguaecn/Pizza/main/Pakistan-All-Urdu-All-Farsi.m3u"
+    "button_playlist_url": "https://sawarid-proxy-ksa.pages.dev/Pakistan-All-Urdu-All-Farsi.m3u"
   },
   { 
     "Auto_Update": "On",
@@ -224,7 +224,7 @@
     "Auto_Update": "On",
     "button_name": "India 1",
     "button_image_url": "https://i.postimg.cc/ZYXh37WW/image.jpg",
-    "button_playlist_url": "https://raw.githubusercontent.com/buzzinguaecn/Pizza/main/Yupp.m3u"
+    "button_playlist_url": "https://sawarid-proxy-ksa.pages.dev/Yupp.m3u"
   },
   {
     "Auto_Update": "On",
@@ -251,19 +251,19 @@
     "Auto_Update": "On",
     "button_name": "Documentary",
     "button_image_url": "https://raw.githubusercontent.com/samnite2290/img/gh-pages/Country/Documentary_TV.jpeg",
-    "button_playlist_url": "https://raw.githubusercontent.com/buzzinguaecn/Pizza/main/Documentary.m3u"
+    "button_playlist_url": "https://sawarid-proxy-ksa.pages.dev/Documentary.m3u"
   },  
   {
     "Auto_Update": "On",
     "button_name": "Cartoon TV",
     "button_image_url": "https://raw.githubusercontent.com/samnite2290/img/gh-pages/Country/CartoonTVsml.png",
-    "button_playlist_url": "https://raw.githubusercontent.com/buzzinguaecn/Pizza/main/Cartoon.m3u"
+    "button_playlist_url": "https://sawarid-proxy-ksa.pages.dev/Cartoon.m3u"
   },  
   {
     "Auto_Update": "On",
     "button_name": "BD Orbit WIFI USERS",
     "button_image_url": "https://raw.githubusercontent.com/samnite2290/img/gh-pages/Country/OrbitWifi.jpeg",
-    "button_playlist_url": "https://raw.githubusercontent.com/buzzinguaecn/Pizza/main/BD_Orbit_Wifi.m3u"
+    "button_playlist_url": "https://sawarid-proxy-ksa.pages.dev/BD_Orbit_Wifi.m3u"
   },  
 
 
@@ -280,7 +280,7 @@
     "Auto_Update": "On",
     "button_name": "New Released Movie",
     "button_image_url": "https://raw.githubusercontent.com/samnite2290/job/gh-pages/IMG/New_Released_Movie.jpeg",
-    "button_playlist_url": "https://raw.githubusercontent.com/buzzinguaecn/Pizza/main/New_Released_Movie.m3u"
+    "button_playlist_url": "https://sawarid-proxy-ksa.pages.dev/New_Released_Movie.m3u"
   },
   {
     "Auto_Update": "On",
@@ -352,14 +352,14 @@
     "Auto_Update": "On",
     "button_name": "Arab Emirates",
     "button_image_url": "https://raw.githubusercontent.com/samnite2290/img/refs/heads/gh-pages/Country/UnitedArabEmirates.jpg",
-    "button_playlist_url": "https://raw.githubusercontent.com/buzzinguaecn/Pizza/main/Arab-Emirates.m3u"
+    "button_playlist_url": "https://sawarid-proxy-ksa.pages.dev/Arab-Emirates.m3u"
   },
   
   {
     "Auto_Update": "On",
     "button_name": "Argentina",
     "button_image_url": "https://i.postimg.cc/P5M1fNpt/image.jpg",
-    "button_playlist_url": "https://raw.githubusercontent.com/buzzinguaecn/Pizza/main/Argentina.m3u"
+    "button_playlist_url": "https://sawarid-proxy-ksa.pages.dev/Argentina.m3u"
   },
   
   {
@@ -493,7 +493,7 @@
     "Auto_Update": "On",
     "button_name": "China",
     "button_image_url": "https://i.postimg.cc/9fsjpDrP/image.jpg",
-    "button_playlist_url": "https://raw.githubusercontent.com/buzzinguaecn/Pizza/main/China.m3u"
+    "button_playlist_url": "https://sawarid-proxy-ksa.pages.dev/China.m3u"
   },
   {
     "Auto_Update": "On",
@@ -557,7 +557,7 @@
     "Auto_Update": "On",
     "button_name": "Indonesia 1",
     "button_image_url": "https://i.postimg.cc/N0K4149f/image.jpg",
-    "button_playlist_url": "https://raw.githubusercontent.com/buzzinguaecn/Pizza/main/Indonesia.m3u"
+    "button_playlist_url": "https://sawarid-proxy-ksa.pages.dev/Indonesia.m3u"
   },
   {
     "Auto_Update": "On",
@@ -691,7 +691,7 @@
    "Auto_Update": "On",
     "button_name": "BDIX",
     "button_image_url": "https://i.postimg.cc/W3NnFn7k/image.jpg",
-    "button_playlist_url": "https://raw.githubusercontent.com/buzzinguaecn/Pizza/main/BDIX.m3u"
+    "button_playlist_url": "https://sawarid-proxy-ksa.pages.dev/BDIX.m3u"
   }
 
 
