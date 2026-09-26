@@ -31,7 +31,7 @@
    "Auto_Update": "On",
     "button_name": "Sawarid Sports",
     "button_image_url": "https://raw.githubusercontent.com/samnite2290/img/refs/heads/gh-pages/HOME/SAWARID%20SPORTS.png",
-    "button_playlist_url": "https://raw.githubusercontent.com/buzzinguaecn/Pizza/refs/heads/main/All-Sports.m3u"
+    "button_playlist_url": "https://sawarid-proxy-ksa.pages.dev/All-Sports.m3u"
   },
 
   
@@ -136,7 +136,7 @@
     "Auto_Update": "On",
     "button_name": "English Movie Channel",
     "button_image_url": "https://i.postimg.cc/1zG6KV3D/image.png",
-    "button_playlist_url": "https://raw.githubusercontent.com/buzzinguaecn/Pizza/refs/heads/main/English.m3u"
+    "button_playlist_url": "https://sawarid-proxy-ksa.pages.dev/English.m3u"
   },
   
   {
