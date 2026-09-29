@@ -1,0 +1,702 @@
+[
+  { 
+    "Auto_Update": "On",
+    "button_name": "All TV",
+    "button_image_url": "https://i.postimg.cc/Bvp2MRZf/image.jpg",
+    "button_playlist_url": "https://sawarid-proxy-ksa.pages.dev/All-TV.m3u"
+  },
+  
+  {  
+   "Auto_Update": "On",
+    "button_name": "Live Schedule 1",
+    "button_image_url": "https://raw.githubusercontent.com/samnite2290/img/refs/heads/gh-pages/HOME/SPORTS%20SCHEDULE%20-%20Copy.png",
+    "button_playlist_url": "https://sawarid-proxy-ksa.pages.dev/LiveEventSports.m3u"
+  },
+ {  
+   "Auto_Update": "On",
+    "button_name": "Live Schedule 2",
+    "button_image_url": "https://raw.githubusercontent.com/samnite2290/img/refs/heads/gh-pages/HOME/SPORTS%20SCHEDULE%20-%20Copy.png",
+    "button_playlist_url": "https://raw.githubusercontent.com/sportlive18/jio-tv-auto-update-playlist/refs/heads/main/LiveEvent.m3u"
+  },
+
+
+
+  {  
+   "Auto_Update": "On",
+    "button_name": "Live Sports World",
+    "button_image_url": "https://raw.githubusercontent.com/samnite2290/img/gh-pages/Country/SawaridSports450300.png",
+    "button_playlist_url": "https://raw.githubusercontent.com/doms9/iptv/refs/heads/default/M3U8/events.m3u8"
+  },
+  {  
+   "Auto_Update": "On",
+    "button_name": "Sawarid Sports",
+    "button_image_url": "https://raw.githubusercontent.com/samnite2290/img/refs/heads/gh-pages/HOME/SAWARID%20SPORTS.png",
+    "button_playlist_url": "https://sawarid-proxy-ksa.pages.dev/All-Sports.m3u"
+  },
+
+  
+  
+  
+ 
+
+  
+    {
+    "Auto_Update": "On",
+    "button_name": "SonyLiv 1",
+    "button_image_url": "https://raw.githubusercontent.com/samnite2290/img/refs/heads/gh-pages/1000319579.jpg",
+    "button_playlist_url": "https://raw.githubusercontent.com/srhady/SonyLiv/refs/heads/main/sonyliv_playlist.m3u"
+  },
+  {
+    "Auto_Update": "On",
+    "button_name": "SonyLiv 2",
+    "button_image_url": "https://raw.githubusercontent.com/samnite2290/img/refs/heads/gh-pages/1000319579.jpg",
+    "button_playlist_url": "https://raw.githubusercontent.com/kajju027/SonyLiv-Events-Json/refs/heads/main/sonyliv.m3u"
+  },
+  
+
+    {
+    "Auto_Update": "On",
+    "button_name": "Tampad BD",
+    "button_image_url": "https://raw.githubusercontent.com/samnite2290/img/refs/heads/gh-pages/1000319578.jpg",
+    "button_playlist_url": "https://raw.githubusercontent.com/srhady/tapmad-bd/refs/heads/main/tapmad_bd.m3u"
+  },  
+  {  
+   "Auto_Update": "On",
+    "button_name": "Willow",
+    "button_image_url": "https://raw.githubusercontent.com/samnite2290/img/refs/heads/gh-pages/HOME/Willow.jpg",
+    "button_playlist_url": "https://raw.githubusercontent.com/srhady/willow-event/refs/heads/main/live_sports.m3u"
+  },
+  {  
+   "Auto_Update": "On",
+    "button_name": "Fancode BD",
+    "button_image_url": "https://i.postimg.cc/q711D14y/image.jpg",
+    "button_playlist_url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/main_playlist.m3u"
+  },
+  {  
+   "Auto_Update": "On",
+    "button_name": "Fancode IND",
+    "button_image_url": "https://i.postimg.cc/5yLqJgW0/image.jpg",
+    "button_playlist_url": "https://raw.githubusercontent.com/drmlive/fancode-live-events/main/fancode.m3u"
+  },
+  
+  { 
+   "Auto_Update": "On",
+    "button_name": "CricHD",
+    "button_image_url": "https://raw.githubusercontent.com/samnite2290/img/gh-pages/Country/CricHD.jpeg",
+    "button_playlist_url": "https://sawarid-proxy-ksa.pages.dev/CRICHD.m3u"
+  },
+
+
+
+
+
+
+
+
+
+
+  {
+    "Auto_Update": "On",
+    "button_name": "Zee5",
+    "button_image_url": "https://raw.githubusercontent.com/samnite2290/img/gh-pages/Country/Zee5.jpg",
+    "button_playlist_url": "https://sawarid-proxy-ksa.pages.dev/Zee5.m3u"
+  },
+  {
+    "Auto_Update": "On",
+    "button_name": "Sun Network",
+    "button_image_url": "https://raw.githubusercontent.com/samnite2290/img/gh-pages/Country/Sun_TV.png",
+    "button_playlist_url": "https://sawarid-proxy-ksa.pages.dev/Sun-Network.m3u"
+  },
+  
+    {
+    "Auto_Update": "On",
+    "button_name": "Xumo Network",
+    "button_image_url": "https://raw.githubusercontent.com/samnite2290/img/refs/heads/gh-pages/Country/Xumo.jpg",
+    "button_playlist_url": "https://iptv-scraper-zilla.pages.dev/xumo_playlist.m3u"
+  },
+  {
+    "Auto_Update": "On",
+    "button_name": "Tubi Network",
+    "button_image_url": "https://raw.githubusercontent.com/samnite2290/img/refs/heads/gh-pages/Country/Tubi.png",
+    "button_playlist_url": "https://iptv-scraper-zilla.pages.dev/tubi_playlist.m3u"
+  },
+  {
+    "Auto_Update": "On",
+    "button_name": "Rakuten",
+    "button_image_url": "https://raw.githubusercontent.com/samnite2290/img/refs/heads/gh-pages/Country/Rakuten.jpg",
+    "button_playlist_url": "https://raw.githubusercontent.com/raid35/channel-links/main/Rakuten.m3u"
+  },
+  {
+    "Auto_Update": "On",
+    "button_name": "Roku Channel",
+    "button_image_url": "https://raw.githubusercontent.com/samnite2290/img/refs/heads/gh-pages/Country/IMG_20260914_005406.png",
+    "button_playlist_url": "https://github.com/BuddyChewChew/app-m3u-generator/raw/refs/heads/main/playlists/roku_all.m3u"
+  },
+  {
+    "Auto_Update": "On",
+    "button_name": "English Movie Channel",
+    "button_image_url": "https://i.postimg.cc/1zG6KV3D/image.png",
+    "button_playlist_url": "https://sawarid-proxy-ksa.pages.dev/English.m3u"
+  },
+  
+  {
+    "Auto_Update": "On",
+    "button_name": "Sports (All) Channels",
+    "button_image_url": "https://i.postimg.cc/rmQwMSjj/image.jpg",
+    "button_playlist_url": "https://sawarid-proxy-ksa.pages.dev/Sports1.m3u"
+  },
+  {
+    "Auto_Update": "On",
+    "button_name": "OSN Arabic",
+    "button_image_url": "https://raw.githubusercontent.com/samnite2290/img/refs/heads/gh-pages/Country/OSN.jpg",
+    "button_playlist_url": "https://raw.githubusercontent.com/siksa40/xPola-Player/main/OSN.m3u"
+  },
+  {
+    "Auto_Update": "On",
+    "button_name": "TOFFEE OTT",
+    "button_image_url": "https://i.postimg.cc/MK5rzzmm/1000475928.jpg",
+    "button_playlist_url": "https://raw.githubusercontent.com/sm-monirulislam/Toffee-Auto-Update/refs/heads/main/toffee_playlist.m3u"
+  },
+  {
+    "Auto_Update": "On",
+    "button_name": "AYNA OTT",
+    "button_image_url": "https://i.postimg.cc/brfyXrGL/1000476430.jpg",
+    "button_playlist_url": "https://raw.githubusercontent.com/sm-monirulislam/AynaOTT_Auto_Update_Playlist/refs/heads/main/aynaott.m3u"
+  },
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+  
+ {  
+   "Auto_Update": "On",
+    "button_name": "Afghanistan",
+    "button_image_url": "https://i.postimg.cc/sDr2pNWr/image.jpg",
+    "button_playlist_url": "https://sawarid-proxy-ksa.pages.dev/Afghanistan.m3u"
+  },
+
+  
+  { 
+    "Auto_Update": "On",
+    "button_name": "Arabic 1",
+    "button_image_url": "https://raw.githubusercontent.com/samnite2290/img/gh-pages/Country/Saudi_Arabia.jpg",
+    "button_playlist_url": "https://sawarid-proxy-ksa.pages.dev/Arabic.m3u"
+  },
+  { 
+    "Auto_Update": "On",
+    "button_name": "Arabic 2",
+    "button_image_url": "https://raw.githubusercontent.com/samnite2290/img/gh-pages/Country/Saudi_Arabia.jpg",
+    "button_playlist_url": "https://raw.githubusercontent.com/bugsfreeweb/LiveTVCollector/refs/heads/main/LiveTV/Arabic/LiveTV.m3u"
+  },
+  { 
+    "Auto_Update": "On",
+    "button_name": "Bangladeshi",
+    "button_image_url": "https://raw.githubusercontent.com/samnite2290/img/gh-pages/Country/Bangladesh.jpg",
+    "button_playlist_url": "https://sawarid-proxy-ksa.pages.dev/Bangla-BD-IND.m3u"
+  },
+  
+  { 
+    "Auto_Update": "On",
+    "button_name": "Pakistan 1",
+    "button_image_url": "https://i.postimg.cc/RZpbz2Q5/image.jpg",
+    "button_playlist_url": "https://sawarid-proxy-ksa.pages.dev/Pakistan-All-Urdu-All-Farsi.m3u"
+  },
+  { 
+    "Auto_Update": "On",
+    "button_name": "Pakistan 2",
+    "button_image_url": "https://i.postimg.cc/RZpbz2Q5/image.jpg",
+    "button_playlist_url": "https://raw.githubusercontent.com/bugsfreeweb/LiveTVCollector/main/LiveTV/Pakistan/LiveTV.m3u"
+  },
+  
+ 
+  
+  {
+    "Auto_Update": "On",
+    "button_name": "India 1",
+    "button_image_url": "https://i.postimg.cc/ZYXh37WW/image.jpg",
+    "button_playlist_url": "https://sawarid-proxy-ksa.pages.dev/Yupp.m3u"
+  },
+  {
+    "Auto_Update": "On",
+    "button_name": "India 2",
+    "button_image_url": "https://i.postimg.cc/ZYXh37WW/image.jpg",
+    "button_playlist_url": "https://raw.githubusercontent.com/amazeyourself/m3u/main/jtv.m3u"
+  },
+  {
+    "Auto_Update": "On",
+    "button_name": "India Tamil 1",
+    "button_image_url": "https://i.postimg.cc/ZYXh37WW/image.jpg",
+    "button_playlist_url": "https://raw.githubusercontent.com/amazeyourself/tamil-local-iptv/main/channels.m3u"
+  },
+  {
+    "Auto_Update": "On",
+    "button_name": "India Tamil 2",
+    "button_image_url": "https://i.postimg.cc/ZYXh37WW/image.jpg",
+    "button_playlist_url": "https://raw.githubusercontent.com/amazeyourself/tamil-local-iptv/main/channels-nortmp.m3u"
+  },
+
+  
+  
+  {
+    "Auto_Update": "On",
+    "button_name": "Documentary",
+    "button_image_url": "https://raw.githubusercontent.com/samnite2290/img/gh-pages/Country/Documentary_TV.jpeg",
+    "button_playlist_url": "https://sawarid-proxy-ksa.pages.dev/Documentary.m3u"
+  },  
+  {
+    "Auto_Update": "On",
+    "button_name": "Cartoon TV",
+    "button_image_url": "https://raw.githubusercontent.com/samnite2290/img/gh-pages/Country/CartoonTVsml.png",
+    "button_playlist_url": "https://sawarid-proxy-ksa.pages.dev/Cartoon.m3u"
+  },  
+  {
+    "Auto_Update": "On",
+    "button_name": "BD Orbit WIFI USERS",
+    "button_image_url": "https://raw.githubusercontent.com/samnite2290/img/gh-pages/Country/OrbitWifi.jpeg",
+    "button_playlist_url": "https://sawarid-proxy-ksa.pages.dev/BD_Orbit_Wifi.m3u"
+  },  
+
+
+
+  {
+    "Auto_Update": "On",
+    "button_name": "OTT Movie 1",
+    "button_image_url": "https://raw.githubusercontent.com/samnite2290/job/gh-pages/IMG/New_Released_Movie.jpeg",
+    "button_playlist_url": "https://raw.githubusercontent.com/sm-monirulislam/SM-Movie-Hup-Auto-Update/refs/heads/main/Ott_Bnagla.m3u"
+  },
+  
+
+  {
+    "Auto_Update": "On",
+    "button_name": "New Released Movie",
+    "button_image_url": "https://raw.githubusercontent.com/samnite2290/job/gh-pages/IMG/New_Released_Movie.jpeg",
+    "button_playlist_url": "https://sawarid-proxy-ksa.pages.dev/New_Released_Movie.m3u"
+  },
+  {
+    "Auto_Update": "On",
+    "button_name": "Movie Bangla 1",
+    "button_image_url": "https://i.postimg.cc/QMcq4Mb4/image.jpg",
+    "button_playlist_url": "https://raw.githubusercontent.com/buzzinguaecn/Pizza/refs/heads/gh-pages/Bangla_Movie5.m3u"
+  },
+    {
+    "Auto_Update": "On",
+    "button_name": "Mix Movie",
+    "button_image_url": "https://i.postimg.cc/QMcq4Mb4/image.jpg",
+    "button_playlist_url": "https://raw.githubusercontent.com/srhady/join_telegram_chennal-livesportsplay/main/bangla.m3u"
+  },
+    {
+    "Auto_Update": "On",
+    "button_name": "Movie Bangla 3",
+    "button_image_url": "https://i.postimg.cc/QMcq4Mb4/image.jpg",
+    "button_playlist_url": "https://raw.githubusercontent.com/sm-monirulislam/SM-Movie-Hup-Auto-Update/refs/heads/main/sm_movie2.m3u"
+  },
+  {
+    "Auto_Update": "On",
+    "button_name": "Movie Eng",
+    "button_image_url": "https://i.postimg.cc/QMcq4Mb4/image.jpg",
+    "button_playlist_url": "https://raw.githubusercontent.com/srhady/join_telegram_chennal-livesportsplay/main/playlist.m3u"
+  },
+  {
+    "Auto_Update": "On",
+    "button_name": "Movie 3",
+    "button_image_url": "https://i.postimg.cc/QMcq4Mb4/image.jpg",
+    "button_playlist_url": "https://raw.githubusercontent.com/eishakilei-bd08/eitv/main/movie.m3u"
+  },
+  
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+  {
+    "Auto_Update": "On",
+    "button_name": "Albania",
+    "button_image_url": "https://i.postimg.cc/QMMng212/image.jpg",
+    "button_playlist_url": "https://iptv-org.github.io/iptv/countries/al.m3u"
+  },
+
+  {
+    "Auto_Update": "On",
+    "button_name": "Algeria",
+    "button_image_url": "https://i.postimg.cc/W3Tzf7pZ/image.jpg",
+    "button_playlist_url": "https://iptv-org.github.io/iptv/countries/dz.m3u"
+  },
+  {
+    "Auto_Update": "On",
+    "button_name": "Arab Emirates",
+    "button_image_url": "https://raw.githubusercontent.com/samnite2290/img/refs/heads/gh-pages/Country/UnitedArabEmirates.jpg",
+    "button_playlist_url": "https://sawarid-proxy-ksa.pages.dev/Arab-Emirates.m3u"
+  },
+  
+  {
+    "Auto_Update": "On",
+    "button_name": "Argentina",
+    "button_image_url": "https://i.postimg.cc/P5M1fNpt/image.jpg",
+    "button_playlist_url": "https://sawarid-proxy-ksa.pages.dev/Argentina.m3u"
+  },
+  
+  {
+    "Auto_Update": "On",
+    "button_name": "Angola",
+    "button_image_url": "https://i.postimg.cc/T3vKDGMY/image.jpg",
+    "button_playlist_url": "https://iptv-org.github.io/iptv/countries/ao.m3u"
+  },
+  {
+    "Auto_Update": "On",
+    "button_name": "Andorra",
+    "button_image_url": "https://i.postimg.cc/DZT6jRbR/image.jpg",
+    "button_playlist_url": "https://iptv-org.github.io/iptv/countries/ad.m3u"
+  },
+  {
+    "Auto_Update": "On",
+    "button_name": "Belgium",
+    "button_image_url": "https://raw.githubusercontent.com/samnite2290/img/gh-pages/Country/Belgium.jpg",
+    "button_playlist_url": "https://iptv-org.github.io/iptv/countries/be.m3u"
+  },
+  {
+    "Auto_Update": "On",
+    "button_name": "Burkina Faso",
+    "button_image_url": "https://raw.githubusercontent.com/samnite2290/img/gh-pages/Country/Burkina%20Faso.jpg",
+    "button_playlist_url": "https://iptv-org.github.io/iptv/countries/bf.m3u"
+  },
+  {
+    "Auto_Update": "On",
+    "button_name": "Bulgaria",
+    "button_image_url": "https://raw.githubusercontent.com/samnite2290/img/gh-pages/Country/Bulgaria.png",
+    "button_playlist_url": "https://iptv-org.github.io/iptv/countries/bg.m3u"
+  },
+  {
+    "Auto_Update": "On",
+    "button_name": "Bahrain",
+    "button_image_url": "https://raw.githubusercontent.com/samnite2290/img/gh-pages/Country/Bahrain.png",
+    "button_playlist_url": "https://iptv-org.github.io/iptv/countries/bh.m3u"
+  },
+  
+  {
+    "Auto_Update": "On",
+    "button_name": "Benin",
+    "button_image_url": "https://raw.githubusercontent.com/samnite2290/img/gh-pages/Country/Benin.jpg",
+    "button_playlist_url": "https://iptv-org.github.io/iptv/countries/bj.m3u"
+  },
+  {
+    "Auto_Update": "On",
+    "button_name": "Brunei",
+    "button_image_url": "https://raw.githubusercontent.com/samnite2290/img/gh-pages/Country/Brunei.jpg",
+    "button_playlist_url": "https://iptv-org.github.io/iptv/countries/bn.m3u"
+  },
+  {
+    "Auto_Update": "On",
+    "button_name": "Bolivia",
+    "button_image_url": "https://raw.githubusercontent.com/samnite2290/img/gh-pages/Country/Bolivia.jpg",
+    "button_playlist_url": "https://iptv-org.github.io/iptv/countries/bo.m3u"
+  },
+  {
+    "Auto_Update": "On",
+    "button_name": "Brazil 1",
+    "button_image_url": "https://raw.githubusercontent.com/samnite2290/img/gh-pages/Country/Brazil.jpg",
+    "button_playlist_url": "https://iptv-org.github.io/iptv/countries/br.m3u"
+  },
+  {
+    "Auto_Update": "On",
+    "button_name": "Brazil 2",
+    "button_image_url": "https://raw.githubusercontent.com/samnite2290/img/gh-pages/Country/Brazil.jpg",
+    "button_playlist_url": "https://raw.githubusercontent.com/bugsfreeweb/LiveTVCollector/main/LiveTV/Brazil/LiveTV.m3u"
+  },
+  
+  {
+    "Auto_Update": "On",
+    "button_name": "Bahamas",
+    "button_image_url": "https://i.postimg.cc/x1MSNR5k/image.jpg",
+    "button_playlist_url": "https://iptv-org.github.io/iptv/countries/bs.m3u"
+  },
+  
+  {
+    "Auto_Update": "On",
+    "button_name": "Belarus",
+    "button_image_url": "https://i.postimg.cc/L8DFVXdP/image.jpg",
+    "button_playlist_url": "https://iptv-org.github.io/iptv/countries/by.m3u"
+  },
+  {
+    "Auto_Update": "On",
+    "button_name": "Belize",
+    "button_image_url": "https://i.postimg.cc/wjG0H8Lf/image.jpg",
+    "button_playlist_url": ":https://iptv-org.github.io/iptv/countries/bz.m3u"
+  },
+
+
+
+
+
+
+
+
+
+
+  {
+    "Auto_Update": "On",
+    "button_name": "Canada",
+    "button_image_url": "https://raw.githubusercontent.com/samnite2290/img/gh-pages/Country/Canada.jpg",
+    "button_playlist_url": "https://raw.githubusercontent.com/bugsfreeweb/LiveTVCollector/main/LiveTV/Canada/LiveTV.m3u"
+  },
+
+
+  
+  {
+    "Auto_Update": "On",
+    "button_name": "Caribbean Netherlands",
+    "button_image_url": "https://i.postimg.cc/T1DtNkpC/image.jpg",
+    "button_playlist_url": "https://iptv-org.github.io/iptv/countries/bq.m3u"
+  },
+  
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+  {
+    "Auto_Update": "On",
+    "button_name": "China",
+    "button_image_url": "https://i.postimg.cc/9fsjpDrP/image.jpg",
+    "button_playlist_url": "https://sawarid-proxy-ksa.pages.dev/China.m3u"
+  },
+  {
+    "Auto_Update": "On",
+    "button_name": "Croatia",
+    "button_image_url": "https://raw.githubusercontent.com/samnite2290/img/refs/heads/gh-pages/Country/Croatia.jpg",
+    "button_playlist_url": "https://raw.githubusercontent.com/Free-TV/IPTV/refs/heads/master/playlists/playlist_croatia.m3u8"
+  },
+  {
+    "Auto_Update": "On",
+    "button_name": "Cyprus",
+    "button_image_url": "https://raw.githubusercontent.com/samnite2290/img/refs/heads/gh-pages/Country/Cyprus.jpg",
+    "button_playlist_url": "https://raw.githubusercontent.com/Free-TV/IPTV/refs/heads/master/playlists/playlist_cyprus.m3u8"
+  },
+  {
+    "Auto_Update": "On",
+    "button_name": "Czech",
+    "button_image_url": "https://raw.githubusercontent.com/samnite2290/img/refs/heads/gh-pages/Country/Czech.jpg",
+    "button_playlist_url": "https://raw.githubusercontent.com/Free-TV/IPTV/refs/heads/master/playlists/playlist_czech_republic.m3u8"
+  },
+  {
+    "Auto_Update": "On",
+    "button_name": "Denmark",
+    "button_image_url": "https://raw.githubusercontent.com/samnite2290/img/refs/heads/gh-pages/Country/Denmark.jpg",
+    "button_playlist_url": "https://raw.githubusercontent.com/Free-TV/IPTV/refs/heads/master/playlists/playlist_denmark.m3u8"
+  },
+  {
+    "Auto_Update": "On",
+    "button_name": "France",
+    "button_image_url": "https://i.postimg.cc/4ySv7R8k/image.jpg",
+    "button_playlist_url": "https://raw.githubusercontent.com/buzzinguaecn/Pizza//main/France.m3u"
+  },
+  {
+    "Auto_Update": "On",
+    "button_name": "Egypt 1",
+    "button_image_url": "https://raw.githubusercontent.com/samnite2290/img/refs/heads/gh-pages/Country/Egypt.jpg",
+    "button_playlist_url": "https://raw.githubusercontent.com/bugsfreeweb/LiveTVCollector/main/LiveTV/Egypt/LiveTV.m3u"
+  },
+  {
+    "Auto_Update": "On",
+    "button_name": "Egypt 2",
+    "button_image_url": "https://raw.githubusercontent.com/samnite2290/img/refs/heads/gh-pages/Country/Egypt.jpg",
+    "button_playlist_url": "https://raw.githubusercontent.com/Free-TV/IPTV/refs/heads/master/playlists/playlist_egypt.m3u8"
+  },
+  {
+    "Auto_Update": "On",
+    "button_name": "Estonia",
+    "button_image_url": "https://raw.githubusercontent.com/samnite2290/img/refs/heads/gh-pages/Country/Estonia.jpg",
+    "button_playlist_url": "https://raw.githubusercontent.com/Free-TV/IPTV/refs/heads/master/playlists/playlist_estonia.m3u8"
+  },
+
+
+
+
+
+
+
+
+
+  
+  {
+    "Auto_Update": "On",
+    "button_name": "Indonesia 1",
+    "button_image_url": "https://i.postimg.cc/N0K4149f/image.jpg",
+    "button_playlist_url": "https://sawarid-proxy-ksa.pages.dev/Indonesia.m3u"
+  },
+  {
+    "Auto_Update": "On",
+    "button_name": "Indonesia 2",
+    "button_image_url": "https://i.postimg.cc/N0K4149f/image.jpg",
+    "button_playlist_url": "https://raw.githubusercontent.com/TvJapan/iptv-jp/refs/heads/main/jp_relay.m3u"
+  },
+  {
+    "Auto_Update": "On",
+    "button_name": "Japan",
+    "button_image_url": "https://raw.githubusercontent.com/samnite2290/img/refs/heads/gh-pages/Country/1000409539.jpg",
+    "button_playlist_url": "https://raw.githubusercontent.com/TvJapan/terebi/refs/heads/main/JP.m3u"
+  },
+  {
+    "Auto_Update": "On",
+    "button_name": "Japan 2",
+    "button_image_url": "https://raw.githubusercontent.com/samnite2290/img/refs/heads/gh-pages/Country/1000409539.jpg",
+    "button_playlist_url": "https://raw.githubusercontent.com/TvJapan/terebi/refs/heads/main/JP.m3u"
+  },
+  {
+    "Auto_Update": "On",
+    "button_name": "Kenya",
+    "button_image_url": "https://raw.githubusercontent.com/samnite2290/img/refs/heads/gh-pages/Country/Kenya.jpg",
+    "button_playlist_url": "https://raw.githubusercontent.com/Free-TV/IPTV/refs/heads/master/playlists/playlist_kenya.m3u8"
+  },
+  {
+    "Auto_Update": "On",
+    "button_name": "Korea",
+    "button_image_url": "https://raw.githubusercontent.com/samnite2290/img/refs/heads/gh-pages/Country/Korea.png",
+    "button_playlist_url": "https://raw.githubusercontent.com/Free-TV/IPTV/refs/heads/master/playlists/playlist_korea.m3u8"
+  },
+  {
+    "Auto_Update": "On",
+    "button_name": "Malaysia",
+    "button_image_url": "https://i.postimg.cc/wxPTCQ2V/image.jpg",
+    "button_playlist_url": "https://raw.githubusercontent.com/bugsfreeweb/LiveTVCollector/main/LiveTV/Malaysia/LiveTV.m3u"
+  },
+  {
+    "Auto_Update": "On",
+    "button_name": "Moldova",
+    "button_image_url": "https://raw.githubusercontent.com/samnite2290/img/refs/heads/gh-pages/Country/Moldova.jpg",
+    "button_playlist_url": "https://raw.githubusercontent.com/Free-TV/IPTV/refs/heads/master/playlists/playlist_moldova.m3u8"
+  },
+
+  {
+    "Auto_Update": "On",
+    "button_name": "Nepal",
+    "button_image_url": "https://i.postimg.cc/Cx6VyPM5/image.jpg",
+    "button_playlist_url": "https://raw.githubusercontent.com/bugsfreeweb/LiveTVCollector/main/LiveTV/Nepal/LiveTV.m3u"
+  },
+  {
+    "Auto_Update": "On",
+    "button_name": "Peru",
+    "button_image_url": "https://raw.githubusercontent.com/samnite2290/img/gh-pages/Country/Peru.jpg",
+    "button_playlist_url": "https://raw.githubusercontent.com/bugsfreeweb/LiveTVCollector/main/LiveTV/Peru/LiveTV.m3u"
+  },
+  {
+    "Auto_Update": "On",
+    "button_name": "Portugal",
+    "button_image_url": "https://raw.githubusercontent.com/samnite2290/img/gh-pages/Country/Portugal.jpg",
+    "button_playlist_url": "https://raw.githubusercontent.com/bugsfreeweb/LiveTVCollector/main/LiveTV/Portugal/LiveTV.m3u"
+  },
+  {
+    "Auto_Update": "On",
+    "button_name": "Russia",
+    "button_image_url": "https://raw.githubusercontent.com/samnite2290/img/gh-pages/Country/Russia.jpg",
+    "button_playlist_url": "https://raw.githubusercontent.com/bugsfreeweb/LiveTVCollector/main/LiveTV/Russia/LiveTV.m3u"
+  },
+  {
+    "Auto_Update": "On",
+    "button_name": "Spain",
+    "button_image_url": "https://raw.githubusercontent.com/samnite2290/img/refs/heads/gh-pages/Country/Spain.jpg",
+    "button_playlist_url": "https://raw.githubusercontent.com/bugsfreeweb/LiveTVCollector/main/LiveTV/Spain/LiveTV.m3u"
+  },
+  {
+    "Auto_Update": "On",
+    "button_name": "Turkey",
+    "button_image_url": "https://i.postimg.cc/5NTmZ8d1/image.jpg",
+    "button_playlist_url": "https://raw.githubusercontent.com/bugsfreeweb/LiveTVCollector/main/LiveTV/Turkey/LiveTV.m3u"
+  },
+  {
+    "Auto_Update": "On",
+    "button_name": "Thailand",
+    "button_image_url": "https://i.postimg.cc/6Q94SQQf/image.jpg",
+    "button_playlist_url": "https://raw.githubusercontent.com/bugsfreeweb/LiveTVCollector/main/LiveTV/Thailand/LiveTV.m3u"
+  },
+  {
+    "Auto_Update": "On",
+    "button_name": "USA",
+    "button_image_url": "https://i.postimg.cc/sDNS0WGd/image.jpg",
+    "button_playlist_url": "https://raw.githubusercontent.com/bugsfreeweb/LiveTVCollector/main/LiveTV/USA/LiveTV.m3u"
+  },
+  {
+    "Auto_Update": "On",
+    "button_name": "UK",
+    "button_image_url": "https://i.postimg.cc/Rhn9S2dV/image.jpg",
+    "button_playlist_url": "https://raw.githubusercontent.com/bugsfreeweb/LiveTVCollector/main/LiveTV/UK/LiveTV.m3u"
+  },
+  {
+    "Auto_Update": "On",
+    "button_name": "Venezuela",
+    "button_image_url": "https://raw.githubusercontent.com/samnite2290/img/gh-pages/Country/Venezuela.jpg",
+    "button_playlist_url": "https://raw.githubusercontent.com/bugsfreeweb/LiveTVCollector/main/LiveTV/Venezuela/LiveTV.m3u"
+  },
+  {
+    "Auto_Update": "On",
+    "button_name": "Vietnam",
+    "button_image_url": "https://raw.githubusercontent.com/samnite2290/img/gh-pages/Country/Vietnam.jpg",
+    "button_playlist_url": "https://raw.githubusercontent.com/bugsfreeweb/LiveTVCollector/main/LiveTV/Vietnam/LiveTV.m3u"
+  },
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+{ 
+   "Auto_Update": "On",
+    "button_name": "BDIX",
+    "button_image_url": "https://i.postimg.cc/W3NnFn7k/image.jpg",
+    "button_playlist_url": "https://sawarid-proxy-ksa.pages.dev/BDIX.m3u"
+  }
+
+
+
+
+ 
+
+]
