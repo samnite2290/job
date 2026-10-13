@@ -34,7 +34,8 @@
     "button_playlist_url": "https://raw.githubusercontent.com/doms9/iptv/refs/heads/default/M3U8/events.m3u8"
   },
   {  
-   "Auto_Update": "On",
+    "Auto_Update": "On",
+    "Sync": "On",
     "group_name": "SPORTS",
     "button_name": "Sawarid Sports",
     "button_image_url": "https://raw.githubusercontent.com/samnite2290/img/refs/heads/gh-pages/HOME/SAWARID%20SPORTS.png",
@@ -49,14 +50,15 @@
   
     {
     "Auto_Update": "On",
-    "Sync": "On", 
-     "group_name": "SPORTS", 
+    "Sync": "On",
+    "group_name": "SPORTS", 
     "button_name": "SonyLiv 1",
     "button_image_url": "https://raw.githubusercontent.com/samnite2290/img/refs/heads/gh-pages/1000319579.jpg",
     "button_playlist_url": "https://raw.githubusercontent.com/srhady/SonyLiv/refs/heads/main/sonyliv_playlist.m3u"
   },
   {
     "Auto_Update": "On",
+    "Sync": "On",
     "group_name": "SPORTS",
     "button_name": "SonyLiv 2",
     "button_image_url": "https://raw.githubusercontent.com/samnite2290/img/refs/heads/gh-pages/1000319579.jpg",
@@ -66,35 +68,41 @@
 
     {
     "Auto_Update": "On",
-    "Sync": "On", 
+    "Sync": "On",
+    "group_name": "SPORTS",
     "button_name": "Tampad BD",
     "button_image_url": "https://raw.githubusercontent.com/samnite2290/img/refs/heads/gh-pages/1000319578.jpg",
     "button_playlist_url": "https://raw.githubusercontent.com/srhady/tapmad-bd/refs/heads/main/tapmad_bd.m3u"
   },  
   {  
-   "Auto_Update": "On",
-    "group_name": "OTT PLATFORMS",
+    "Auto_Update": "On",
+    "Sync": "On",
+    "group_name": "SPORTS",
     "button_name": "Willow",
     "button_image_url": "https://raw.githubusercontent.com/samnite2290/img/refs/heads/gh-pages/HOME/Willow.jpg",
     "button_playlist_url": "https://raw.githubusercontent.com/srhady/willow-event/refs/heads/main/live_sports.m3u"
   },
   {  
-   "Auto_Update": "On",
-    "group_name": "OTT PLATFORMS",
+    "Auto_Update": "On",
+    "Sync": "On",
+    "group_name": "SPORTS",
     "button_name": "Fancode BD",
     "button_image_url": "https://i.postimg.cc/q711D14y/image.jpg",
     "button_playlist_url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/main_playlist.m3u"
   },
   {  
-   "Auto_Update": "On",
-    "group_name": "OTT PLATFORMS",
+    "Auto_Update": "On",
+    "Sync": "On",
+    "group_name": "SPORTS",
     "button_name": "Fancode IND",
     "button_image_url": "https://i.postimg.cc/5yLqJgW0/image.jpg",
     "button_playlist_url": "https://raw.githubusercontent.com/drmlive/fancode-live-events/main/fancode.m3u"
   },
   
   { 
-   "Auto_Update": "On",
+    "Auto_Update": "On",
+    "Sync": "On",
+    "group_name": "SPORTS",
     "button_name": "CricHD",
     "button_image_url": "https://raw.githubusercontent.com/samnite2290/img/gh-pages/Country/CricHD.jpeg",
     "button_playlist_url": "https://sawarid-proxy-ksa.pages.dev/CRICHD.m3u"
@@ -111,6 +119,7 @@
 
   {
     "Auto_Update": "On",
+    "Sync": "Off",
     "group_name": "OTT PLATFORMS",
     "button_name": "Zee5",
     "button_image_url": "https://raw.githubusercontent.com/samnite2290/img/gh-pages/Country/Zee5.jpg",
@@ -118,6 +127,7 @@
   },
   {
     "Auto_Update": "On",
+    "Sync": "Off",
     "group_name": "OTT PLATFORMS",
     "button_name": "Sun Network",
     "button_image_url": "https://raw.githubusercontent.com/samnite2290/img/gh-pages/Country/Sun_TV.png",
@@ -126,30 +136,40 @@
   
     {
     "Auto_Update": "On",
+    "Sync": "Off",
+    "group_name": "OTT PLATFORMS",
     "button_name": "Xumo Network",
     "button_image_url": "https://raw.githubusercontent.com/samnite2290/img/refs/heads/gh-pages/Country/Xumo.jpg",
     "button_playlist_url": "https://iptv-scraper-zilla.pages.dev/xumo_playlist.m3u"
   },
   {
     "Auto_Update": "On",
+    "Sync": "Off",
+    "group_name": "OTT PLATFORMS",
     "button_name": "Tubi Network",
     "button_image_url": "https://raw.githubusercontent.com/samnite2290/img/refs/heads/gh-pages/Country/Tubi.png",
     "button_playlist_url": "https://iptv-scraper-zilla.pages.dev/tubi_playlist.m3u"
   },
   {
     "Auto_Update": "On",
+    "Sync": "Off",
+    "group_name": "OTT PLATFORMS",
     "button_name": "Rakuten",
     "button_image_url": "https://raw.githubusercontent.com/samnite2290/img/refs/heads/gh-pages/Country/Rakuten.jpg",
     "button_playlist_url": "https://raw.githubusercontent.com/raid35/channel-links/main/Rakuten.m3u"
   },
   {
     "Auto_Update": "On",
+    "Sync": "Off",
+    "group_name": "OTT PLATFORMS",
     "button_name": "Roku Channel",
     "button_image_url": "https://raw.githubusercontent.com/samnite2290/img/refs/heads/gh-pages/Country/IMG_20260914_005406.png",
     "button_playlist_url": "https://github.com/BuddyChewChew/app-m3u-generator/raw/refs/heads/main/playlists/roku_all.m3u"
   },
   {
     "Auto_Update": "On",
+    "Sync": "Off",
+    "group_name": "OTT PLATFORMS",
     "button_name": "English Movie Channel",
     "button_image_url": "https://i.postimg.cc/1zG6KV3D/image.png",
     "button_playlist_url": "https://sawarid-proxy-ksa.pages.dev/English.m3u"
@@ -157,24 +177,32 @@
   
   {
     "Auto_Update": "On",
+    "Sync": "Off",
+    "group_name": "SPORTS",
     "button_name": "Sports (All) Channels",
     "button_image_url": "https://i.postimg.cc/rmQwMSjj/image.jpg",
     "button_playlist_url": "https://sawarid-proxy-ksa.pages.dev/Sports1.m3u"
   },
   {
     "Auto_Update": "On",
+    "Sync": "Off",
+    "group_name": "OTT PLATFORMS",
     "button_name": "OSN Arabic",
     "button_image_url": "https://raw.githubusercontent.com/samnite2290/img/refs/heads/gh-pages/Country/OSN.jpg",
     "button_playlist_url": "https://raw.githubusercontent.com/siksa40/xPola-Player/main/OSN.m3u"
   },
   {
     "Auto_Update": "On",
+    "Sync": "Off",
+    "group_name": "OTT PLATFORMS",
     "button_name": "TOFFEE OTT",
     "button_image_url": "https://i.postimg.cc/MK5rzzmm/1000475928.jpg",
     "button_playlist_url": "https://raw.githubusercontent.com/sm-monirulislam/Toffee-Auto-Update/refs/heads/main/toffee_playlist.m3u"
   },
   {
     "Auto_Update": "On",
+    "Sync": "Off",
+    "group_name": "OTT PLATFORMS",
     "button_name": "AYNA OTT",
     "button_image_url": "https://i.postimg.cc/brfyXrGL/1000476430.jpg",
     "button_playlist_url": "https://raw.githubusercontent.com/sm-monirulislam/AynaOTT_Auto_Update_Playlist/refs/heads/main/aynaott.m3u"
@@ -195,9 +223,10 @@
 
   
  {  
-   "Auto_Update": "On",
+    "Auto_Update": "On",
+    "Sync": "Off",
+    "group_name": "COUNTRY",
     "button_name": "Afghanistan",
-   "group_name": "COUNTRY",
     "button_image_url": "https://i.postimg.cc/sDr2pNWr/image.jpg",
     "button_playlist_url": "https://sawarid-proxy-ksa.pages.dev/Afghanistan.m3u"
   },
@@ -205,37 +234,42 @@
   
   { 
     "Auto_Update": "On",
-    "button_name": "Arabic 1",
+    "Sync": "Off",
     "group_name": "COUNTRY",
+    "button_name": "Arabic 1",
     "button_image_url": "https://raw.githubusercontent.com/samnite2290/img/gh-pages/Country/Saudi_Arabia.jpg",
     "button_playlist_url": "https://sawarid-proxy-ksa.pages.dev/Arabic.m3u"
   },
   { 
     "Auto_Update": "On",
-    "button_name": "Arabic 2",
+    "Sync": "Off",
     "group_name": "COUNTRY",
+    "button_name": "Arabic 2",
     "button_image_url": "https://raw.githubusercontent.com/samnite2290/img/gh-pages/Country/Saudi_Arabia.jpg",
     "button_playlist_url": "https://raw.githubusercontent.com/bugsfreeweb/LiveTVCollector/refs/heads/main/LiveTV/Arabic/LiveTV.m3u"
   },
   { 
     "Auto_Update": "On",
-    "button_name": "Bangladeshi",
+    "Sync": "Off",
     "group_name": "COUNTRY",
+    "button_name": "Bangladeshi",
     "button_image_url": "https://raw.githubusercontent.com/samnite2290/img/gh-pages/Country/Bangladesh.jpg",
     "button_playlist_url": "https://sawarid-proxy-ksa.pages.dev/Bangla-BD-IND.m3u"
   },
   
   { 
     "Auto_Update": "On",
-    "button_name": "Pakistan 1",
+    "Sync": "Off",
     "group_name": "COUNTRY",
+    "button_name": "Pakistan 1",
     "button_image_url": "https://i.postimg.cc/RZpbz2Q5/image.jpg",
     "button_playlist_url": "https://sawarid-proxy-ksa.pages.dev/Pakistan-All-Urdu-All-Farsi.m3u"
   },
   { 
     "Auto_Update": "On",
-    "button_name": "Pakistan 2",
+    "Sync": "Off",
     "group_name": "COUNTRY",
+    "button_name": "Pakistan 2",
     "button_image_url": "https://i.postimg.cc/RZpbz2Q5/image.jpg",
     "button_playlist_url": "https://raw.githubusercontent.com/bugsfreeweb/LiveTVCollector/main/LiveTV/Pakistan/LiveTV.m3u"
   },
@@ -244,24 +278,32 @@
   
   {
     "Auto_Update": "On",
+    "Sync": "Off",
+    "group_name": "COUNTRY",
     "button_name": "India 1",
     "button_image_url": "https://i.postimg.cc/ZYXh37WW/image.jpg",
     "button_playlist_url": "https://sawarid-proxy-ksa.pages.dev/Yupp.m3u"
   },
   {
     "Auto_Update": "On",
+    "Sync": "Off",
+    "group_name": "COUNTRY",
     "button_name": "India 2",
     "button_image_url": "https://i.postimg.cc/ZYXh37WW/image.jpg",
     "button_playlist_url": "https://raw.githubusercontent.com/amazeyourself/m3u/main/jtv.m3u"
   },
   {
     "Auto_Update": "On",
+    "Sync": "Off",
+    "group_name": "COUNTRY",
     "button_name": "India Tamil 1",
     "button_image_url": "https://i.postimg.cc/ZYXh37WW/image.jpg",
     "button_playlist_url": "https://raw.githubusercontent.com/amazeyourself/tamil-local-iptv/main/channels.m3u"
   },
   {
     "Auto_Update": "On",
+    "Sync": "Off",
+    "group_name": "COUNTRY",
     "button_name": "India Tamil 2",
     "button_image_url": "https://i.postimg.cc/ZYXh37WW/image.jpg",
     "button_playlist_url": "https://raw.githubusercontent.com/amazeyourself/tamil-local-iptv/main/channels-nortmp.m3u"
@@ -271,18 +313,24 @@
   
   {
     "Auto_Update": "On",
+    "Sync": "Off",
+    "group_name": "CARTOON & DOCUMENTARY",
     "button_name": "Documentary",
     "button_image_url": "https://raw.githubusercontent.com/samnite2290/img/gh-pages/Country/Documentary_TV.jpeg",
     "button_playlist_url": "https://sawarid-proxy-ksa.pages.dev/Documentary.m3u"
   },  
   {
     "Auto_Update": "On",
+    "Sync": "Off",
+    "group_name": "CARTOON & DOCUMENTARY",
     "button_name": "Cartoon TV",
     "button_image_url": "https://raw.githubusercontent.com/samnite2290/img/gh-pages/Country/CartoonTVsml.png",
     "button_playlist_url": "https://sawarid-proxy-ksa.pages.dev/Cartoon.m3u"
   },  
   {
     "Auto_Update": "On",
+    "Sync": "Off",
+    "group_name": "OTT PLATFORMS",
     "button_name": "BD Orbit WIFI USERS",
     "button_image_url": "https://raw.githubusercontent.com/samnite2290/img/gh-pages/Country/OrbitWifi.jpeg",
     "button_playlist_url": "https://sawarid-proxy-ksa.pages.dev/BD_Orbit_Wifi.m3u"
@@ -292,6 +340,8 @@
 
   {
     "Auto_Update": "On",
+    "Sync": "Off",
+    "group_name": "MOVIES PLATFORMS",
     "button_name": "OTT Movie 1",
     "button_image_url": "https://raw.githubusercontent.com/samnite2290/job/gh-pages/IMG/New_Released_Movie.jpeg",
     "button_playlist_url": "https://raw.githubusercontent.com/sm-monirulislam/SM-Movie-Hup-Auto-Update/refs/heads/main/Ott_Bnagla.m3u"
@@ -300,36 +350,48 @@
 
   {
     "Auto_Update": "On",
+    "Sync": "Off",
+    "group_name": "MOVIES PLATFORMS",
     "button_name": "New Released Movie",
     "button_image_url": "https://raw.githubusercontent.com/samnite2290/job/gh-pages/IMG/New_Released_Movie.jpeg",
     "button_playlist_url": "https://sawarid-proxy-ksa.pages.dev/New_Released_Movie.m3u"
   },
   {
     "Auto_Update": "On",
+    "Sync": "Off",
+    "group_name": "MOVIES PLATFORMS",
     "button_name": "Movie Bangla 1",
     "button_image_url": "https://i.postimg.cc/QMcq4Mb4/image.jpg",
     "button_playlist_url": "https://raw.githubusercontent.com/buzzinguaecn/Pizza/refs/heads/gh-pages/Bangla_Movie5.m3u"
   },
     {
     "Auto_Update": "On",
+    "Sync": "Off",
+    "group_name": "MOVIES PLATFORMS",
     "button_name": "Mix Movie",
     "button_image_url": "https://i.postimg.cc/QMcq4Mb4/image.jpg",
     "button_playlist_url": "https://raw.githubusercontent.com/srhady/join_telegram_chennal-livesportsplay/main/bangla.m3u"
   },
     {
     "Auto_Update": "On",
+    "Sync": "Off",
+    "group_name": "MOVIES PLATFORMS",
     "button_name": "Movie Bangla 3",
     "button_image_url": "https://i.postimg.cc/QMcq4Mb4/image.jpg",
     "button_playlist_url": "https://raw.githubusercontent.com/sm-monirulislam/SM-Movie-Hup-Auto-Update/refs/heads/main/sm_movie2.m3u"
   },
   {
     "Auto_Update": "On",
+    "Sync": "Off",
+    "group_name": "MOVIES PLATFORMS",
     "button_name": "Movie Eng",
     "button_image_url": "https://i.postimg.cc/QMcq4Mb4/image.jpg",
     "button_playlist_url": "https://raw.githubusercontent.com/srhady/join_telegram_chennal-livesportsplay/main/playlist.m3u"
   },
   {
     "Auto_Update": "On",
+    "Sync": "Off",
+    "group_name": "MOVIES PLATFORMS",
     "button_name": "Movie 3",
     "button_image_url": "https://i.postimg.cc/QMcq4Mb4/image.jpg",
     "button_playlist_url": "https://raw.githubusercontent.com/eishakilei-bd08/eitv/main/movie.m3u"
@@ -359,6 +421,8 @@
 
   {
     "Auto_Update": "On",
+    "Sync": "Off",
+    "group_name": "COUNTRY",
     "button_name": "Albania",
     "button_image_url": "https://i.postimg.cc/QMMng212/image.jpg",
     "button_playlist_url": "https://iptv-org.github.io/iptv/countries/al.m3u"
@@ -366,12 +430,16 @@
 
   {
     "Auto_Update": "On",
+    "Sync": "Off",
+    "group_name": "COUNTRY",
     "button_name": "Algeria",
     "button_image_url": "https://i.postimg.cc/W3Tzf7pZ/image.jpg",
     "button_playlist_url": "https://iptv-org.github.io/iptv/countries/dz.m3u"
   },
   {
     "Auto_Update": "On",
+    "Sync": "Off",
+    "group_name": "COUNTRY",
     "button_name": "Arab Emirates",
     "button_image_url": "https://raw.githubusercontent.com/samnite2290/img/refs/heads/gh-pages/Country/UnitedArabEmirates.jpg",
     "button_playlist_url": "https://sawarid-proxy-ksa.pages.dev/Arab-Emirates.m3u"
@@ -379,6 +447,8 @@
   
   {
     "Auto_Update": "On",
+    "Sync": "Off",
+    "group_name": "COUNTRY",
     "button_name": "Argentina",
     "button_image_url": "https://i.postimg.cc/P5M1fNpt/image.jpg",
     "button_playlist_url": "https://sawarid-proxy-ksa.pages.dev/Argentina.m3u"
