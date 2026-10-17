@@ -378,7 +378,7 @@
     "group_name": "MOVIES PLATFORMS",
     "button_name": "Mix Movie",
     "button_image_url": "https://i.postimg.cc/QMcq4Mb4/image.jpg",
-    "button_playlist_url": "https://raw.githubusercontent.com/srhady/join_telegram_chennal-livesportsplay/main/bangla.m3u"
+    "button_playlist_url": "https://raw.githubusercontent.com/srhady/join_telegram_chennal-livesportsplay/refs/heads/main/latest_movies.m3u"  
   },
     {
     "Auto_Update": "On",
