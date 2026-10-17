@@ -154,6 +154,14 @@
     "Auto_Update": "On",
     "Sync": "Off",
     "group_name": "OTT PLATFORMS",
+    "button_name": "MBC شاهد",
+    "button_image_url": "https://raw.githubusercontent.com/samnite2290/img/refs/heads/gh-pages/HOME/20261017_234826.jpg",
+    "button_playlist_url": "https://sawarid-proxy-ksa.pages.dev/MBC SHAHID.m3u"
+  },
+  {
+    "Auto_Update": "On",
+    "Sync": "Off",
+    "group_name": "OTT PLATFORMS",
     "button_name": "Rakuten",
     "button_image_url": "https://raw.githubusercontent.com/samnite2290/img/refs/heads/gh-pages/Country/Rakuten.jpg",
     "button_playlist_url": "https://raw.githubusercontent.com/raid35/channel-links/main/Rakuten.m3u"
