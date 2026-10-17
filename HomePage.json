@@ -215,14 +215,7 @@
     "button_image_url": "https://i.postimg.cc/brfyXrGL/1000476430.jpg",
     "button_playlist_url": "https://raw.githubusercontent.com/sm-monirulislam/AynaOTT_Auto_Update_Playlist/refs/heads/main/aynaott.m3u"
   },
-  {
-    "Auto_Update": "On",
-    "Sync": "Off",
-    "group_name": "OTT PLATFORMS",
-    "button_name": "Sultan Salahuddin Ayyubi Series",
-    "button_image_url": "https://raw.githubusercontent.com/samnite2290/img/refs/heads/gh-pages/HOME/Sultan%20Salahuddin%20Ayyubi%20Series.jpg",
-    "button_playlist_url": "https://sawarid-proxy-ksa.pages.dev/Sultan%20Salahuddin%20Ayyubi%20Series.m3u"
-  },
+  
 
 
 
@@ -354,11 +347,25 @@
 
 
 
-  {
+
+
+
+  
+
+
+    {
     "Auto_Update": "On",
     "Sync": "Off",
     "group_name": "MOVIES PLATFORMS",
-    "button_name": "OTT Movie 1",
+    "button_name": "Sultan Salahuddin Ayyubi Series",
+    "button_image_url": "https://raw.githubusercontent.com/samnite2290/img/refs/heads/gh-pages/HOME/Sultan%20Salahuddin%20Ayyubi%20Series.jpg",
+    "button_playlist_url": "https://sawarid-proxy-ksa.pages.dev/Sultan%20Salahuddin%20Ayyubi%20Series.m3u"
+  },
+    {
+    "Auto_Update": "On",
+    "Sync": "Off",
+    "group_name": "MOVIES PLATFORMS",
+    "button_name": "OTT Movie",
     "button_image_url": "https://raw.githubusercontent.com/samnite2290/job/gh-pages/IMG/New_Released_Movie.jpeg",
     "button_playlist_url": "https://raw.githubusercontent.com/sm-monirulislam/SM-Movie-Hup-Auto-Update/refs/heads/main/Ott_Bnagla.m3u"
   },
