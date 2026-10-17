@@ -1,11 +1,11 @@
 {
-  "is_ad_gate_enabled": true,
+  "is_ad_gate_enabled": false,
   "ad_gate_cooldown_hours": 12,
   "click_intervals": [2, 5, 9, 12],
   "ad_networks": [
     {
       "network_name": "Adsterra",
-      "status": "On",
+      "status": "Off",
       "links": [
         "https://clenchinfer.com/d5yhbq8kg?key=a6e7f0b5411e29ddfc4ad4b07f0bd55e",
         "https://clenchinfer.com/d5yhbq8kg?key=a6e7f0b5411e29ddfc4ad4b07f0bd55e"
