@@ -251,10 +251,19 @@
     "Auto_Update": "On",
     "Sync": "Off",
     "group_name": "COUNTRY",
+    "button_name": "Arabic Channel",
+    "button_image_url": "https://raw.githubusercontent.com/samnite2290/img/refs/heads/gh-pages/HOME/20261018_005029.jpg",
+    "button_playlist_url": "https://ounben.com/m3u/arab_tv.m3u"
+  },
+  {  
+    "Auto_Update": "On",
+    "Sync": "Off",
+    "group_name": "COUNTRY",
     "button_name": "Afghanistan",
     "button_image_url": "https://i.postimg.cc/sDr2pNWr/image.jpg",
     "button_playlist_url": "https://sawarid-proxy-ksa.pages.dev/Afghanistan.m3u"
   },
+
 
   
   { 
