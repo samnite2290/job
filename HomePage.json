@@ -383,6 +383,14 @@
     "button_image_url": "https://i.postimg.cc/ZYXh37WW/image.jpg",
     "button_playlist_url": "https://raw.githubusercontent.com/amazeyourself/tamil-local-iptv/main/channels-nortmp.m3u"
   },
+  {
+    "Auto_Update": "On",
+    "Sync": "Off",
+    "group_name": "COUNTRY",
+    "button_name": "India Kannada",
+    "button_image_url": "https://i.postimg.cc/ZYXh37WW/image.jpg",
+    "button_playlist_url": "https://raw.githubusercontent.com/amazeyourself/tamil-local-iptv/main/channels-kn.m3u"
+  },
 
   
   
