@@ -106,7 +106,15 @@
     "group_name": "SPORTS",
     "button_name": "Bein Sports",
     "button_image_url": "https://raw.githubusercontent.com/samnite2290/img/refs/heads/gh-pages/HOME/Bein%20Sports.png",
-    "button_playlist_url": "https://sawarid-proxy-ksa.pages.dev/Bein Sports.m3u"
+    "button_playlist_url": "https://sawarid-proxy-ksa.pages.dev/SPORTS/Bein%20Sports.m3u"
+  },
+  { 
+    "Auto_Update": "On",
+    "Sync": "Off",
+    "group_name": "SPORTS",
+    "button_name": "TOD by Bein",
+    "button_image_url": "https://raw.githubusercontent.com/samnite2290/img/refs/heads/gh-pages/HOME/TOD%20by%20beIN%20-%201.png",
+    "button_playlist_url": "https://sawarid-proxy-ksa.pages.dev/SPORTS/TOD%20by%20Bein.m3u"
   },
   { 
     "Auto_Update": "On",
