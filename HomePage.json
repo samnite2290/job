@@ -46,7 +46,7 @@
     "Sync": "On",
     "group_name": "SPORTS", 
     "button_name": "SonyLiv 1",
-    "button_image_url": "https://raw.githubusercontent.com/samnite2290/img/refs/heads/gh-pages/1000319579.jpg",
+    "button_image_url": "https://raw.githubusercontent.com/samnite2290/img/refs/heads/gh-pages/HOME/SonyLiv.jpg",
     "button_playlist_url": "https://raw.githubusercontent.com/srhady/SonyLiv/refs/heads/main/sonyliv_playlist.m3u"
   },
   {
@@ -54,7 +54,7 @@
     "Sync": "On",
     "group_name": "SPORTS",
     "button_name": "SonyLiv 2",
-    "button_image_url": "https://raw.githubusercontent.com/samnite2290/img/refs/heads/gh-pages/1000319579.jpg",
+    "button_image_url": "https://raw.githubusercontent.com/samnite2290/img/refs/heads/gh-pages/HOME/SonyLiv.jpg",
     "button_playlist_url": "https://raw.githubusercontent.com/kajju027/SonyLiv-Events-Json/refs/heads/main/sonyliv.m3u"
   },
   
@@ -64,7 +64,7 @@
     "Sync": "On",
     "group_name": "SPORTS",
     "button_name": "Tampad BD",
-    "button_image_url": "https://raw.githubusercontent.com/samnite2290/img/refs/heads/gh-pages/1000319578.jpg",
+    "button_image_url": "https://raw.githubusercontent.com/samnite2290/img/refs/heads/gh-pages/HOME/TAMPAD.jpg",
     "button_playlist_url": "https://raw.githubusercontent.com/srhady/tapmad-bd/refs/heads/main/tapmad_bd.m3u"
   },  
   {  
@@ -105,8 +105,16 @@
     "Sync": "Off",
     "group_name": "SPORTS",
     "button_name": "Bein Sports",
-    "button_image_url": "https://raw.githubusercontent.com/samnite2290/img/refs/heads/gh-pages/HOME/20261018_001301.jpg",
+    "button_image_url": "https://raw.githubusercontent.com/samnite2290/img/refs/heads/gh-pages/HOME/Bein%20Sports.png",
     "button_playlist_url": "https://sawarid-proxy-ksa.pages.dev/Bein Sports.m3u"
+  },
+  { 
+    "Auto_Update": "On",
+    "Sync": "Off",
+    "group_name": "SPORTS",
+    "button_name": "RACER",
+    "button_image_url": "https://raw.githubusercontent.com/samnite2290/img/gh-pages/HOME/RACER%20NETWORK.jpg",
+    "button_playlist_url": "https://sawarid-proxy-ksa.pages.dev/SPORTS/Racer.m3u"
   },
 
 
@@ -163,7 +171,7 @@
     "Sync": "Off",
     "group_name": "OTT PLATFORMS",
     "button_name": "MBC شاهد",
-    "button_image_url": "https://raw.githubusercontent.com/samnite2290/img/refs/heads/gh-pages/HOME/20261017_234826.jpg",
+    "button_image_url": "https://raw.githubusercontent.com/samnite2290/img/gh-pages/HOME/MBC%20SHAHID.jpg",
     "button_playlist_url": "https://sawarid-proxy-ksa.pages.dev/MBC SHAHID.m3u"
   },
   {
