@@ -378,14 +378,7 @@
   
 
 
-    {
-    "Auto_Update": "On",
-    "Sync": "Off",
-    "group_name": "MOVIES PLATFORMS",
-    "button_name": "Sultan Salahuddin Ayyubi Series",
-    "button_image_url": "https://raw.githubusercontent.com/samnite2290/img/refs/heads/gh-pages/HOME/Sultan%20Salahuddin%20Ayyubi%20Series.jpg",
-    "button_playlist_url": "https://sawarid-proxy-ksa.pages.dev/Sultan%20Salahuddin%20Ayyubi%20Series.m3u"
-  },
+    
     {
     "Auto_Update": "On",
     "Sync": "Off",
