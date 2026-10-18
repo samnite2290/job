@@ -220,7 +220,15 @@
     "Auto_Update": "On",
     "Sync": "Off",
     "group_name": "OTT PLATFORMS",
-    "button_name": "OSN Arabic",
+    "button_name": "OSN Arabic 1",
+    "button_image_url": "https://raw.githubusercontent.com/samnite2290/img/refs/heads/gh-pages/Country/OSN.jpg",
+    "button_playlist_url": "https://raw.githubusercontent.com/siksa40/xPola-Player/main/nov-osn.m3u"
+  },
+  {
+    "Auto_Update": "On",
+    "Sync": "Off",
+    "group_name": "OTT PLATFORMS",
+    "button_name": "OSN Arabic 2",
     "button_image_url": "https://raw.githubusercontent.com/samnite2290/img/refs/heads/gh-pages/Country/OSN.jpg",
     "button_playlist_url": "https://raw.githubusercontent.com/siksa40/xPola-Player/main/OSN.m3u"
   },
