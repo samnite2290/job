@@ -116,6 +116,14 @@
     "button_image_url": "https://raw.githubusercontent.com/samnite2290/img/gh-pages/HOME/RACER%20NETWORK.jpg",
     "button_playlist_url": "https://sawarid-proxy-ksa.pages.dev/SPORTS/Racer.m3u"
   },
+  {
+    "Auto_Update": "On",
+    "Sync": "Off",
+    "group_name": "SPORTS",
+    "button_name": "Sports (All) Channels",
+    "button_image_url": "https://i.postimg.cc/rmQwMSjj/image.jpg",
+    "button_playlist_url": "https://sawarid-proxy-ksa.pages.dev/Sports1.m3u"
+  },
 
 
 
@@ -194,19 +202,20 @@
     "Auto_Update": "On",
     "Sync": "Off",
     "group_name": "OTT PLATFORMS",
+    "button_name": "Bein Netwoek",
+    "button_image_url": "https://raw.githubusercontent.com/samnite2290/img/refs/heads/gh-pages/HOME/Bein%20Media.png",
+    "button_playlist_url": "https://sawarid-proxy-ksa.pages.dev/SPORTS/Bein%20Media.m3u"
+  },
+  {
+    "Auto_Update": "On",
+    "Sync": "Off",
+    "group_name": "OTT PLATFORMS",
     "button_name": "English Movie Channel",
     "button_image_url": "https://i.postimg.cc/1zG6KV3D/image.png",
     "button_playlist_url": "https://sawarid-proxy-ksa.pages.dev/English.m3u"
   },
   
-  {
-    "Auto_Update": "On",
-    "Sync": "Off",
-    "group_name": "SPORTS",
-    "button_name": "Sports (All) Channels",
-    "button_image_url": "https://i.postimg.cc/rmQwMSjj/image.jpg",
-    "button_playlist_url": "https://sawarid-proxy-ksa.pages.dev/Sports1.m3u"
-  },
+  
   {
     "Auto_Update": "On",
     "Sync": "Off",
