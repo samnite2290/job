@@ -94,152 +94,370 @@
 
   
 
+  
+
   {
-    "Date & Time": "18-10-2026-06:55 pm",
+    "Date & Time": "24-10-2026-12:55 am",
     "multipleTimeRun": "Off",
     "multipleTime": "",
-    "Title": "Bournemouth 🆚 Sunderland",
+    "Title": "VfB Stuttgart 🆚 Borussia Mönchengladbach",
+    "Subtitle": "🏆 GERMAN ⚽ BUNDESLIGA 2026/27 | Select 🅻🅸🆅🅴 🆂🅿🅾🆁🆃🆂 Button, Share Our Apps With Your Friends & Family.",
+    "Image": "https://raw.githubusercontent.com/samnite2290/img/gh-pages/HOME/HOME-LIVE-EVENT.png"
+  },
+  {
+    "Date & Time": "24-10-2026-12:40 am",
+    "multipleTimeRun": "Off",
+    "multipleTime": "",
+    "Title": "Torino 🆚 Monza",
+    "Subtitle": "🏆 ITALIAN ⚽ SERIE A 2026/27 | Select 🅻🅸🆅🅴 🆂🅿🅾🆁🆃🆂 Button, Share Our Apps With Your Friends & Family.",
+    "Image": "https://raw.githubusercontent.com/samnite2290/img/gh-pages/HOME/HOME-LIVE-EVENT.png"
+  },
+  {
+    "Date & Time": "24-10-2026-12:40 am",
+    "multipleTimeRun": "Off",
+    "multipleTime": "",
+    "Title": "Brest 🆚 Nice",
+    "Subtitle": "🏆 FRENCH ⚽ LIGUE 1 2026/27 | Select 🅻🅸🆅🅴 🆂🅿🅾🆁🆃🆂 Button, Share Our Apps With Your Friends & Family.",
+    "Image": "https://raw.githubusercontent.com/samnite2290/img/gh-pages/HOME/HOME-LIVE-EVENT.png"
+  },
+  {
+    "Date & Time": "24-10-2026-12:55 am",
+    "multipleTimeRun": "Off",
+    "multipleTime": "",
+    "Title": "Ipswich Town 🆚 Nottingham Forest",
     "Subtitle": "🏆 ENGLISH ⚽ PREMIER LEAGUE 2026/27 | Select 🅻🅸🆅🅴 🆂🅿🅾🆁🆃🆂 Button, Share Our Apps With Your Friends & Family.",
     "Image": "https://raw.githubusercontent.com/samnite2290/img/gh-pages/HOME/HOME-LIVE-EVENT.png"
   },
   {
-    "Date & Time": "18-10-2026-06:55 pm",
+    "Date & Time": "24-10-2026-12:55 am",
     "multipleTimeRun": "Off",
     "multipleTime": "",
-    "Title": "Brighton & Hove Albion 🆚 Crystal Palace",
+    "Title": "Deportivo Alavés 🆚 Málaga",
+    "Subtitle": "🏆 SPANISH ⚽ LA LIGA 2026/27 | Select 🅻🅸🆅🅴 🆂🅿🅾🆁🆃🆂 Button, Share Our Apps With Your Friends & Family.",
+    "Image": "https://raw.githubusercontent.com/samnite2290/img/gh-pages/HOME/HOME-LIVE-EVENT.png"
+  },
+  {
+    "Date & Time": "23-10-2026-02:55 pm",
+    "multipleTimeRun": "Off",
+    "multipleTime": "",
+    "Title": "Nigeria 🆚 Mozambique",
+    "Subtitle": "🏆 ICC 🏏 MEN'S T20 WORLD CUP AFRICA SUB-REGIONAL QUALIFIER C 2026 | Select 🅻🅸🆅🅴 🆂🅿🅾🆁🆃🆂 Button, Share Our Apps With Your Friends & Family.",
+    "Image": "https://raw.githubusercontent.com/samnite2290/img/gh-pages/HOME/HOME-LIVE-EVENT.png"
+  },
+  {
+    "Date & Time": "23-10-2026-02:55 pm",
+    "multipleTimeRun": "Off",
+    "multipleTime": "",
+    "Title": "Zambia 🆚 Lesotho",
+    "Subtitle": "🏆 ICC 🏏 MEN'S T20 WORLD CUP AFRICA SUB-REGIONAL QUALIFIER C 2026 | Select 🅻🅸🆅🅴 🆂🅿🅾🆁🆃🆂 Button, Share Our Apps With Your Friends & Family.",
+    "Image": "https://raw.githubusercontent.com/samnite2290/img/gh-pages/HOME/HOME-LIVE-EVENT.png"
+  },
+  {
+    "Date & Time": "23-10-2026-06:55 pm",
+    "multipleTimeRun": "Off",
+    "multipleTime": "",
+    "Title": "Gambia 🆚 Uganda",
+    "Subtitle": "🏆 ICC 🏏 MEN'S T20 WORLD CUP AFRICA SUB-REGIONAL QUALIFIER C 2026 | Select 🅻🅸🆅🅴 🆂🅿🅾🆁🆃🆂 Button, Share Our Apps With Your Friends & Family.",
+    "Image": "https://raw.githubusercontent.com/samnite2290/img/gh-pages/HOME/HOME-LIVE-EVENT.png"
+  },
+  {
+    "Date & Time": "24-10-2026-05:25 pm",
+    "multipleTimeRun": "Off",
+    "multipleTime": "",
+    "Title": "Aston Villa 🆚 Manchester City",
     "Subtitle": "🏆 ENGLISH ⚽ PREMIER LEAGUE 2026/27 | Select 🅻🅸🆅🅴 🆂🅿🅾🆁🆃🆂 Button, Share Our Apps With Your Friends & Family.",
     "Image": "https://raw.githubusercontent.com/samnite2290/img/gh-pages/HOME/HOME-LIVE-EVENT.png"
   },
   {
-    "Date & Time": "18-10-2026-06:55 pm",
+    "Date & Time": "24-10-2026-07:55 pm",
+    "multipleTimeRun": "Off",
+    "multipleTime": "",
+    "Title": "Arsenal 🆚 Everton",
+    "Subtitle": "🏆 ENGLISH ⚽ PREMIER LEAGUE 2026/27 | Select 🅻🅸🆅🅴 🆂🅿🅾🆁🆃🆂 Button, Share Our Apps With Your Friends & Family.",
+    "Image": "https://raw.githubusercontent.com/samnite2290/img/gh-pages/HOME/HOME-LIVE-EVENT.png"
+  },
+  {
+    "Date & Time": "24-10-2026-07:55 pm",
+    "multipleTimeRun": "Off",
+    "multipleTime": "",
+    "Title": "Coventry City 🆚 Fulham",
+    "Subtitle": "🏆 ENGLISH ⚽ PREMIER LEAGUE 2026/27 | Select 🅻🅸🆅🅴 🆂🅿🅾🆁🆃🆂 Button, Share Our Apps With Your Friends & Family.",
+    "Image": "https://raw.githubusercontent.com/samnite2290/img/gh-pages/HOME/HOME-LIVE-EVENT.png"
+  },
+  {
+    "Date & Time": "24-10-2026-09:25 pm",
     "multipleTimeRun": "On",
-    "multipleTime": "(18-10-2026-08:00 pm)",
-    "Title": "Leeds United 🆚 Manchester United | Watch on Toffee",
+    "multipleTime": "(24-10-2026-10:30 pm)",
+    "Title": "Chelsea 🆚 Tottenham Hotspur",
     "Subtitle": "🏆 ENGLISH ⚽ PREMIER LEAGUE 2026/27 | Select 🅻🅸🆅🅴 🆂🅿🅾🆁🆃🆂 Button, Share Our Apps With Your Friends & Family.",
     "Image": "https://raw.githubusercontent.com/samnite2290/img/gh-pages/HOME/HOME-LIVE-EVENT.png"
   },
   {
-    "Date & Time": "18-10-2026-09:25 pm",
+    "Date & Time": "24-10-2026-07:25 pm",
+    "multipleTimeRun": "Off",
+    "multipleTime": "",
+    "Title": "RB Leipzig 🆚 Elversberg",
+    "Subtitle": "🏆 GERMAN ⚽ BUNDESLIGA 2026/27 | Select 🅻🅸🆅🅴 🆂🅿🅾🆁🆃🆂 Button, Share Our Apps With Your Friends & Family.",
+    "Image": "https://raw.githubusercontent.com/samnite2290/img/gh-pages/HOME/HOME-LIVE-EVENT.png"
+  },
+  {
+    "Date & Time": "24-10-2026-07:25 pm",
+    "multipleTimeRun": "Off",
+    "multipleTime": "",
+    "Title": "Augsburg 🆚 Union Berlin",
+    "Subtitle": "🏆 GERMAN ⚽ BUNDESLIGA 2026/27 | Select 🅻🅸🆅🅴 🆂🅿🅾🆁🆃🆂 Button, Share Our Apps With Your Friends & Family.",
+    "Image": "https://raw.githubusercontent.com/samnite2290/img/gh-pages/HOME/HOME-LIVE-EVENT.png"
+  },
+  {
+    "Date & Time": "24-10-2026-07:25 pm",
+    "multipleTimeRun": "Off",
+    "multipleTime": "",
+    "Title": "Mainz 🆚 Werder Bremen",
+    "Subtitle": "🏆 GERMAN ⚽ BUNDESLIGA 2026/27 | Select 🅻🅸🆅🅴 🆂🅿🅾🆁🆃🆂 Button, Share Our Apps With Your Friends & Family.",
+    "Image": "https://raw.githubusercontent.com/samnite2290/img/gh-pages/HOME/HOME-LIVE-EVENT.png"
+  },
+  {
+    "Date & Time": "24-10-2026-07:25 pm",
+    "multipleTimeRun": "Off",
+    "multipleTime": "",
+    "Title": "Cologne 🆚 Schalke 04",
+    "Subtitle": "🏆 GERMAN ⚽ BUNDESLIGA 2026/27 | Select 🅻🅸🆅🅴 🆂🅿🅾🆁🆃🆂 Button, Share Our Apps With Your Friends & Family.",
+    "Image": "https://raw.githubusercontent.com/samnite2290/img/gh-pages/HOME/HOME-LIVE-EVENT.png"
+  },
+  {
+    "Date & Time": "24-10-2026-07:25 pm",
+    "multipleTimeRun": "Off",
+    "multipleTime": "",
+    "Title": "Paderborn 🆚 Hamburger SV",
+    "Subtitle": "🏆 GERMAN ⚽ BUNDESLIGA 2026/27 | Select 🅻🅸🆅🅴 🆂🅿🅾🆁🆃🆂 Button, Share Our Apps With Your Friends & Family.",
+    "Image": "https://raw.githubusercontent.com/samnite2290/img/gh-pages/HOME/HOME-LIVE-EVENT.png"
+  },
+  {
+    "Date & Time": "24-10-2026-09:25 pm",
+    "multipleTimeRun": "Off",
+    "multipleTime": "",
+    "Title": "Borussia Dortmund 🆚 Eintracht Frankfurt",
+    "Subtitle": "🏆 GERMAN ⚽ BUNDESLIGA 2026/27 | Select 🅻🅸🆅🅴 🆂🅿🅾🆁🆃🆂 Button, Share Our Apps With Your Friends & Family.",
+    "Image": "https://raw.githubusercontent.com/samnite2290/img/gh-pages/HOME/HOME-LIVE-EVENT.png"
+  },
+  {
+    "Date & Time": "24-10-2026-06:55 pm",
+    "multipleTimeRun": "Off",
+    "multipleTime": "",
+    "Title": "Cagliari 🆚 Bologna",
+    "Subtitle": "🏆 ITALIAN ⚽ SERIE A 2026/27 | Select 🅻🅸🆅🅴 🆂🅿🅾🆁🆃🆂 Button, Share Our Apps With Your Friends & Family.",
+    "Image": "https://raw.githubusercontent.com/samnite2290/img/gh-pages/HOME/HOME-LIVE-EVENT.png"
+  },
+  {
+    "Date & Time": "24-10-2026-06:55 pm",
+    "multipleTimeRun": "Off",
+    "multipleTime": "",
+    "Title": "Como 🆚 Sassuolo",
+    "Subtitle": "🏆 ITALIAN ⚽ SERIE A 2026/27 | Select 🅻🅸🆅🅴 🆂🅿🅾🆁🆃🆂 Button, Share Our Apps With Your Friends & Family.",
+    "Image": "https://raw.githubusercontent.com/samnite2290/img/gh-pages/HOME/HOME-LIVE-EVENT.png"
+  },
+  {
+    "Date & Time": "24-10-2026-09:55 pm",
     "multipleTimeRun": "On",
-    "multipleTime": "(18-10-2026-10:30 pm)",
-    "Title": "Nottingham Forest 🆚 Arsenal | Watch on Toffee",
+    "multipleTime": "(25-10-2026-01:00 am)",
+    "Title": "Napoli 🆚 Roma",
+    "Subtitle": "🏆 ITALIAN ⚽ SERIE A 2026/27 | Select 🅻🅸🆅🅴 🆂🅿🅾🆁🆃🆂 Button, Share Our Apps With Your Friends & Family.",
+    "Image": "https://raw.githubusercontent.com/samnite2290/img/gh-pages/HOME/HOME-LIVE-EVENT.png"
+  },
+  {
+    "Date & Time": "25-10-2026-12:40 am",
+    "multipleTimeRun": "Off",
+    "multipleTime": "",
+    "Title": "Lazio 🆚 Parma",
+    "Subtitle": "🏆 ITALIAN ⚽ SERIE A 2026/27 | Select 🅻🅸🆅🅴 🆂🅿🅾🆁🆃🆂 Button, Share Our Apps With Your Friends & Family.",
+    "Image": "https://raw.githubusercontent.com/samnite2290/img/gh-pages/HOME/HOME-LIVE-EVENT.png"
+  },
+  {
+    "Date & Time": "24-10-2026-05:55 pm",
+    "multipleTimeRun": "Off",
+    "multipleTime": "",
+    "Title": "Rayo Vallecano 🆚 Elche",
+    "Subtitle": "🏆 SPANISH ⚽ LA LIGA 2026/27 | Select 🅻🅸🆅🅴 🆂🅿🅾🆁🆃🆂 Button, Share Our Apps With Your Friends & Family.",
+    "Image": "https://raw.githubusercontent.com/samnite2290/img/gh-pages/HOME/HOME-LIVE-EVENT.png"
+  },
+  {
+    "Date & Time": "24-10-2026-08:10 pm",
+    "multipleTimeRun": "Off",
+    "multipleTime": "",
+    "Title": "Racing Santander 🆚 Espanyol",
+    "Subtitle": "🏆 SPANISH ⚽ LA LIGA 2026/27 | Select 🅻🅸🆅🅴 🆂🅿🅾🆁🆃🆂 Button, Share Our Apps With Your Friends & Family.",
+    "Image": "https://raw.githubusercontent.com/samnite2290/img/gh-pages/HOME/HOME-LIVE-EVENT.png"
+  },
+  {
+    "Date & Time": "24-10-2026-10:25 pm",
+    "multipleTimeRun": "Off",
+    "multipleTime": "",
+    "Title": "Valencia 🆚 Villarreal",
+    "Subtitle": "🏆 SPANISH ⚽ LA LIGA 2026/27 | Select 🅻🅸🆅🅴 🆂🅿🅾🆁🆃🆂 Button, Share Our Apps With Your Friends & Family.",
+    "Image": "https://raw.githubusercontent.com/samnite2290/img/gh-pages/HOME/HOME-LIVE-EVENT.png"
+  },
+  {
+    "Date & Time": "25-10-2026-12:55 am",
+    "multipleTimeRun": "Off",
+    "multipleTime": "",
+    "Title": "Atlético Madrid 🆚 Deportivo La Coruña",
+    "Subtitle": "🏆 SPANISH ⚽ LA LIGA 2026/27 | Select 🅻🅸🆅🅴 🆂🅿🅾🆁🆃🆂 Button, Share Our Apps With Your Friends & Family.",
+    "Image": "https://raw.githubusercontent.com/samnite2290/img/gh-pages/HOME/HOME-LIVE-EVENT.png"
+  },
+  {
+    "Date & Time": "24-10-2026-12:55 pm",
+    "multipleTimeRun": "Off",
+    "multipleTime": "",
+    "Title": "New Zealand 🆚 India",
+    "Subtitle": "🏆 INDIA TOUR OF NEW ZEALAND 🏏 2ND T20I 2026 | Select 🅻🅸🆅🅴 🆂🅿🅾🆁🆃🆂 Button, Share Our Apps With Your Friends & Family.",
+    "Image": "https://raw.githubusercontent.com/samnite2290/img/gh-pages/HOME/HOME-LIVE-EVENT.png"
+  },
+  {
+    "Date & Time": "24-10-2026-01:55 pm",
+    "multipleTimeRun": "Off",
+    "multipleTime": "",
+    "Title": "Namibia 🆚 Ireland",
+    "Subtitle": "🏆 IRELAND TOUR OF NAMIBIA 🏏 2ND ODI 2026 | Select 🅻🅸🆅🅴 🆂🅿🅾🆁🆃🆂 Button, Share Our Apps With Your Friends & Family.",
+    "Image": "https://raw.githubusercontent.com/samnite2290/img/gh-pages/HOME/HOME-LIVE-EVENT.png"
+  },
+  {
+    "Date & Time": "24-10-2026-02:55 pm",
+    "multipleTimeRun": "Off",
+    "multipleTime": "",
+    "Title": "Uganda 🆚 Mozambique",
+    "Subtitle": "🏆 ICC 🏏 MEN'S T20 WORLD CUP AFRICA SUB-REGIONAL QUALIFIER C 2026 | Select 🅻🅸🆅🅴 🆂🅿🅾🆁🆃🆂 Button, Share Our Apps With Your Friends & Family.",
+    "Image": "https://raw.githubusercontent.com/samnite2290/img/gh-pages/HOME/HOME-LIVE-EVENT.png"
+  },
+  {
+    "Date & Time": "24-10-2026-06:55 pm",
+    "multipleTimeRun": "Off",
+    "multipleTime": "",
+    "Title": "Lesotho 🆚 Nigeria",
+    "Subtitle": "🏆 ICC 🏏 MEN'S T20 WORLD CUP AFRICA SUB-REGIONAL QUALIFIER C 2026 | Select 🅻🅸🆅🅴 🆂🅿🅾🆁🆃🆂 Button, Share Our Apps With Your Friends & Family.",
+    "Image": "https://raw.githubusercontent.com/samnite2290/img/gh-pages/HOME/HOME-LIVE-EVENT.png"
+  },
+  {
+    "Date & Time": "24-10-2026-06:55 pm",
+    "multipleTimeRun": "Off",
+    "multipleTime": "",
+    "Title": "Gambia 🆚 Zambia",
+    "Subtitle": "🏆 ICC 🏏 MEN'S T20 WORLD CUP AFRICA SUB-REGIONAL QUALIFIER C 2026 | Select 🅻🅸🆅🅴 🆂🅿🅾🆁🆃🆂 Button, Share Our Apps With Your Friends & Family.",
+    "Image": "https://raw.githubusercontent.com/samnite2290/img/gh-pages/HOME/HOME-LIVE-EVENT.png"
+  },
+  {
+    "Date & Time": "25-10-2026-07:55 pm",
+    "multipleTimeRun": "Off",
+    "multipleTime": "",
+    "Title": "Crystal Palace 🆚 Newcastle United",
     "Subtitle": "🏆 ENGLISH ⚽ PREMIER LEAGUE 2026/27 | Select 🅻🅸🆅🅴 🆂🅿🅾🆁🆃🆂 Button, Share Our Apps With Your Friends & Family.",
     "Image": "https://raw.githubusercontent.com/samnite2290/img/gh-pages/HOME/HOME-LIVE-EVENT.png"
   },
   {
-    "Date & Time": "18-10-2026-05:55 pm",
+    "Date & Time": "25-10-2026-07:55 pm",
     "multipleTimeRun": "Off",
     "multipleTime": "",
-    "Title": "Osasuna 🆚 Racing Santander",
-    "Subtitle": "🏆 SPANISH ⚽ LA LIGA 2026/27 | Select 🅻🅸🆅🅴 🆂🅿🅾🆁🆃🆂 Button, Share Our Apps With Your Friends & Family.",
-    "Image": "https://raw.githubusercontent.com/samnite2290/img/gh-pages/HOME/HOME-LIVE-EVENT.png"
-  },
-  {
-    "Date & Time": "18-10-2026-08:10 pm",
-    "multipleTimeRun": "Off",
-    "multipleTime": "",
-    "Title": "Celta Vigo 🆚 Deportivo Alaves",
-    "Subtitle": "🏆 SPANISH ⚽ LA LIGA 2026/27 | Select 🅻🅸🆅🅴 🆂🅿🅾🆁🆃🆂 Button, Share Our Apps With Your Friends & Family.",
-    "Image": "https://raw.githubusercontent.com/samnite2290/img/gh-pages/HOME/HOME-LIVE-EVENT.png"
-  },
-  {
-    "Date & Time": "18-10-2026-10:25 pm",
-    "multipleTimeRun": "Off",
-    "multipleTime": "",
-    "Title": "Malaga 🆚 Real Sociedad | Watch on FanCode",
-    "Subtitle": "🏆 SPANISH ⚽ LA LIGA 2026/27 | Select 🅻🅸🆅🅴 🆂🅿🅾🆁🆃🆂 Button, Share Our Apps With Your Friends & Family.",
-    "Image": "https://raw.githubusercontent.com/samnite2290/img/gh-pages/HOME/HOME-LIVE-EVENT.png"
-  },
-  {
-    "Date & Time": "18-10-2026-06:55 pm",
-    "multipleTimeRun": "Off",
-    "multipleTime": "",
-    "Title": "Fiorentina 🆚 Como",
-    "Subtitle": "🏆 ITALIAN ⚽ SERIE A 2026/27 | Select 🅻🅸🆅🅴 🆂🅿🅾🆁🆃🆂 Button, Share Our Apps With Your Friends & Family.",
-    "Image": "https://raw.githubusercontent.com/samnite2290/img/gh-pages/HOME/HOME-LIVE-EVENT.png"
-  },
-  {
-    "Date & Time": "18-10-2026-09:55 pm",
-    "multipleTimeRun": "Off",
-    "multipleTime": "",
-    "Title": "AC Milan 🆚 Atalanta",
-    "Subtitle": "🏆 ITALIAN ⚽ SERIE A 2026/27 | Select 🅻🅸🆅🅴 🆂🅿🅾🆁🆃🆂 Button, Share Our Apps With Your Friends & Family.",
-    "Image": "https://raw.githubusercontent.com/samnite2290/img/gh-pages/HOME/HOME-LIVE-EVENT.png"
-  },
-  {
-    "Date & Time": "18-10-2026-01:55 pm",
-    "multipleTimeRun": "Off",
-    "multipleTime": "",
-    "Title": "Pakistan 🆚 Sri Lanka | Watch on T Sports/Tapmad",
-    "Subtitle": "🏆 ODI TRI-SERIES IN PAKISTAN 2026 | Select 🅻🅸🆅🅴 🆂🅿🅾🆁🆃🆂 Button, Share Our Apps With Your Friends & Family.",
-    "Image": "https://raw.githubusercontent.com/samnite2290/img/gh-pages/HOME/HOME-LIVE-EVENT.png"
-  },
-  {
-    "Date & Time": "18-10-2026-01:55 pm",
-    "multipleTimeRun": "Off",
-    "multipleTime": "",
-    "Title": "South Africa 🆚 Australia",
-    "Subtitle": "🏏 AUSTRALIA TOUR OF SOUTH AFRICA 2026 | SECOND TEST | Select 🅻🅸🆅🅴 🆂🅿🅾🆁🆃🆂 Button, Share Our Apps With Your Friends & Family.",
-    "Image": "https://raw.githubusercontent.com/samnite2290/img/gh-pages/HOME/HOME-LIVE-EVENT.png"
-  },
-  {
-    "Date & Time": "19-10-2026-12:55 am",
-    "multipleTimeRun": "Off",
-    "multipleTime": "",
-    "Title": "Real Madrid 🆚 Sevilla | Watch on T Sports",
-    "Subtitle": "🏆 SPANISH ⚽ LA LIGA 2026/27 | Select 🅻🅸🆅🅴 🆂🅿🅾🆁🆃🆂 Button, Share Our Apps With Your Friends & Family.",
-    "Image": "https://raw.githubusercontent.com/samnite2290/img/gh-pages/HOME/HOME-LIVE-EVENT.png"
-  },
-  {
-    "Date & Time": "19-10-2026-01:55 am",
-    "multipleTimeRun": "Off",
-    "multipleTime": "",
-    "Title": "Juventus 🆚 Lazio",
-    "Subtitle": "🏆 ITALIAN ⚽ SERIE A 2026/27 | Select 🅻🅸🆅🅴 🆂🅿🅾🆁🆃🆂 Button, Share Our Apps With Your Friends & Family.",
-    "Image": "https://raw.githubusercontent.com/samnite2290/img/gh-pages/HOME/HOME-LIVE-EVENT.png"
-  },
-  {
-    "Date & Time": "19-10-2026-07:55 pm",
-    "multipleTimeRun": "Off",
-    "multipleTime": "",
-    "Title": "Tottenham Hotspur 🆚 Coventry City",
+    "Title": "Hull City 🆚 Brentford",
     "Subtitle": "🏆 ENGLISH ⚽ PREMIER LEAGUE 2026/27 | Select 🅻🅸🆅🅴 🆂🅿🅾🆁🆃🆂 Button, Share Our Apps With Your Friends & Family.",
     "Image": "https://raw.githubusercontent.com/samnite2290/img/gh-pages/HOME/HOME-LIVE-EVENT.png"
   },
   {
-    "Date & Time": "19-10-2026-08:55 pm",
+    "Date & Time": "25-10-2026-07:55 pm",
     "multipleTimeRun": "Off",
     "multipleTime": "",
-    "Title": "Getafe 🆚 Rayo Vallecano",
+    "Title": "Liverpool 🆚 Brighton & Hove Albion",
+    "Subtitle": "🏆 ENGLISH ⚽ PREMIER LEAGUE 2026/27 | Select 🅻🅸🆅🅴 🆂🅿🅾🆁🆃🆂 Button, Share Our Apps With Your Friends & Family.",
+    "Image": "https://raw.githubusercontent.com/samnite2290/img/gh-pages/HOME/HOME-LIVE-EVENT.png"
+  },
+  {
+    "Date & Time": "25-10-2026-07:55 pm",
+    "multipleTimeRun": "Off",
+    "multipleTime": "",
+    "Title": "Manchester United 🆚 Bournemouth",
+    "Subtitle": "🏆 ENGLISH ⚽ PREMIER LEAGUE 2026/27 | Select 🅻🅸🆅🅴 🆂🅿🅾🆁🆃🆂 Button, Share Our Apps With Your Friends & Family.",
+    "Image": "https://raw.githubusercontent.com/samnite2290/img/gh-pages/HOME/HOME-LIVE-EVENT.png"
+  },
+  {
+    "Date & Time": "25-10-2026-10:25 pm",
+    "multipleTimeRun": "Off",
+    "multipleTime": "",
+    "Title": "Sunderland 🆚 Leeds United",
+    "Subtitle": "🏆 ENGLISH ⚽ PREMIER LEAGUE 2026/27 | Select 🅻🅸🆅🅴 🆂🅿🅾🆁🆃🆂 Button, Share Our Apps With Your Friends & Family.",
+    "Image": "https://raw.githubusercontent.com/samnite2290/img/gh-pages/HOME/HOME-LIVE-EVENT.png"
+  },
+  {
+    "Date & Time": "25-10-2026-07:25 pm",
+    "multipleTimeRun": "Off",
+    "multipleTime": "",
+    "Title": "Inter Milan 🆚 Fiorentina",
+    "Subtitle": "🏆 ITALIAN ⚽ SERIE A 2026/27 | Select 🅻🅸🆅🅴 🆂🅿🅾🆁🆃🆂 Button, Share Our Apps With Your Friends & Family.",
+    "Image": "https://raw.githubusercontent.com/samnite2290/img/gh-pages/HOME/HOME-LIVE-EVENT.png"
+  },
+  {
+    "Date & Time": "25-10-2026-07:55 pm",
+    "multipleTimeRun": "Off",
+    "multipleTime": "",
+    "Title": "Atalanta 🆚 Frosinone",
+    "Subtitle": "🏆 ITALIAN ⚽ SERIE A 2026/27 | Select 🅻🅸🆅🅴 🆂🅿🅾🆁🆃🆂 Button, Share Our Apps With Your Friends & Family.",
+    "Image": "https://raw.githubusercontent.com/samnite2290/img/gh-pages/HOME/HOME-LIVE-EVENT.png"
+  },
+  {
+    "Date & Time": "25-10-2026-07:55 pm",
+    "multipleTimeRun": "Off",
+    "multipleTime": "",
+    "Title": "Genoa 🆚 Venezia",
+    "Subtitle": "🏆 ITALIAN ⚽ SERIE A 2026/27 | Select 🅻🅸🆅🅴 🆂🅿🅾🆁🆃🆂 Button, Share Our Apps With Your Friends & Family.",
+    "Image": "https://raw.githubusercontent.com/samnite2290/img/gh-pages/HOME/HOME-LIVE-EVENT.png"
+  },
+  {
+    "Date & Time": "25-10-2026-10:55 pm",
+    "multipleTimeRun": "Off",
+    "multipleTime": "",
+    "Title": "Lecce 🆚 Juventus",
+    "Subtitle": "🏆 ITALIAN ⚽ SERIE A 2026/27 | Select 🅻🅸🆅🅴 🆂🅿🅾🆁🆃🆂 Button, Share Our Apps With Your Friends & Family.",
+    "Image": "https://raw.githubusercontent.com/samnite2290/img/gh-pages/HOME/HOME-LIVE-EVENT.png"
+  },
+  {
+    "Date & Time": "25-10-2026-08:25 pm",
+    "multipleTimeRun": "Off",
+    "multipleTime": "",
+    "Title": "Hoffenheim 🆚 Bayer Leverkusen",
+    "Subtitle": "🏆 GERMAN ⚽ BUNDESLIGA 2026/27 | Select 🅻🅸🆅🅴 🆂🅿🅾🆁🆃🆂 Button, Share Our Apps With Your Friends & Family.",
+    "Image": "https://raw.githubusercontent.com/samnite2290/img/gh-pages/HOME/HOME-LIVE-EVENT.png"
+  },
+  {
+    "Date & Time": "25-10-2026-10:25 pm",
+    "multipleTimeRun": "Off",
+    "multipleTime": "",
+    "Title": "Freiburg 🆚 Bayern Munich",
+    "Subtitle": "🏆 GERMAN ⚽ BUNDESLIGA 2026/27 | Select 🅻🅸🆅🅴 🆂🅿🅾🆁🆃🆂 Button, Share Our Apps With Your Friends & Family.",
+    "Image": "https://raw.githubusercontent.com/samnite2290/img/gh-pages/HOME/HOME-LIVE-EVENT.png"
+  },
+  {
+    "Date & Time": "25-10-2026-06:55 pm",
+    "multipleTimeRun": "Off",
+    "multipleTime": "",
+    "Title": "Athletic Bilbao 🆚 Getafe",
     "Subtitle": "🏆 SPANISH ⚽ LA LIGA 2026/27 | Select 🅻🅸🆅🅴 🆂🅿🅾🆁🆃🆂 Button, Share Our Apps With Your Friends & Family.",
     "Image": "https://raw.githubusercontent.com/samnite2290/img/gh-pages/HOME/HOME-LIVE-EVENT.png"
   },
   {
-    "Date & Time": "19-10-2026-11:25 am",
+    "Date & Time": "25-10-2026-09:10 pm",
     "multipleTimeRun": "Off",
     "multipleTime": "",
-    "Title": "Afghanistan U19 🆚 Bangladesh U19",
-    "Subtitle": "🏏 YOUTH ODI SERIES 2026 | Select 🅻🅸🆅🅴 🆂🅿🅾🆁🆃🆂 Button, Share Our Apps With Your Friends & Family.",
+    "Title": "Celta Vigo 🆚 Real Betis",
+    "Subtitle": "🏆 SPANISH ⚽ LA LIGA 2026/27 | Select 🅻🅸🆅🅴 🆂🅿🅾🆁🆃🆂 Button, Share Our Apps With Your Friends & Family.",
     "Image": "https://raw.githubusercontent.com/samnite2290/img/gh-pages/HOME/HOME-LIVE-EVENT.png"
   },
   {
-    "Date & Time": "19-10-2026-11:25 am",
+    "Date & Time": "25-10-2026-11:25 pm",
     "multipleTimeRun": "Off",
     "multipleTime": "",
-    "Title": "Oman 🆚 Nepal",
-    "Subtitle": "🏆 ICC 🏏 MEN'S CRICKET WORLD CUP LEAGUE 2 2023–27 | Select 🅻🅸🆅🅴 🆂🅿🅾🆁🆃🆂 Button, Share Our Apps With Your Friends & Family.",
+    "Title": "Real Sociedad 🆚 Levante",
+    "Subtitle": "🏆 SPANISH ⚽ LA LIGA 2026/27 | Select 🅻🅸🆅🅴 🆂🅿🅾🆁🆃🆂 Button, Share Our Apps With Your Friends & Family.",
     "Image": "https://raw.githubusercontent.com/samnite2290/img/gh-pages/HOME/HOME-LIVE-EVENT.png"
   },
   {
-    "Date & Time": "19-10-2026-05:25 pm",
-    "multipleTimeRun": "Off",
-    "multipleTime": "",
-    "Title": "Afghanistan 🆚 Zimbabwe",
-    "Subtitle": "🏆 ODI TRI-SERIES IN UAE 2026 | Select 🅻🅸🆅🅴 🆂🅿🅾🆁🆃🆂 Button, Share Our Apps With Your Friends & Family.",
-    "Image": "https://raw.githubusercontent.com/samnite2290/img/gh-pages/HOME/HOME-LIVE-EVENT.png"
-  },
-  {
-    "Date & Time": "20-10-2026-01:55 pm",
+    "Date & Time": "25-10-2026-01:55 pm",
     "multipleTimeRun": "Off",
     "multipleTime": "",
     "Title": "Pakistan 🆚 England",
@@ -247,134 +465,13 @@
     "Image": "https://raw.githubusercontent.com/samnite2290/img/gh-pages/HOME/HOME-LIVE-EVENT.png"
   },
   {
-    "Date & Time": "20-10-2026-02:25 pm",
-    "multipleTimeRun": "Off",
-    "multipleTime": "",
-    "Title": "Uganda 🆚 Zambia",
-    "Subtitle": "🏆 ICC 🏏 MEN'S T20 WORLD CUP AFRICA SUB-REGIONAL QUALIFIER C 2026 | Select 🅻🅸🆅🅴 🆂🅿🅾🆁🆃🆂 Button, Share Our Apps With Your Friends & Family.",
-    "Image": "https://raw.githubusercontent.com/samnite2290/img/gh-pages/HOME/HOME-LIVE-EVENT.png"
-  },
-  {
-    "Date & Time": "20-10-2026-06:45 pm",
-    "multipleTimeRun": "Off",
-    "multipleTime": "",
-    "Title": "Lesotho 🆚 Mozambique",
-    "Subtitle": "🏆 ICC 🏏 MEN'S T20 WORLD CUP AFRICA SUB-REGIONAL QUALIFIER C 2026 | Select 🅻🅸🆅🅴 🆂🅿🅾🆁🆃🆂 Button, Share Our Apps With Your Friends & Family.",
-    "Image": "https://raw.githubusercontent.com/samnite2290/img/gh-pages/HOME/HOME-LIVE-EVENT.png"
-  },
-  {
-    "Date & Time": "20-10-2026-06:45 pm",
-    "multipleTimeRun": "Off",
-    "multipleTime": "",
-    "Title": "Nigeria 🆚 Gambia",
-    "Subtitle": "🏆 ICC 🏏 MEN'S T20 WORLD CUP AFRICA SUB-REGIONAL QUALIFIER C 2026 | Select 🅻🅸🆅🅴 🆂🅿🅾🆁🆃🆂 Button, Share Our Apps With Your Friends & Family.",
-    "Image": "https://raw.githubusercontent.com/samnite2290/img/gh-pages/HOME/HOME-LIVE-EVENT.png"
-  },
-  {
-    "Date & Time": "20-10-2026-10:40 pm",
+    "Date & Time": "26-10-2026-01:55 am",
     "multipleTimeRun": "On",
-    "multipleTime": "(20-10-2026-11:45 pm)",
-    "Title": "Fenerbahçe 🆚 Slavia Prague",
-    "Subtitle": "🏆 UEFA ⚽ CHAMPIONS LEAGUE 2026/27 | Select 🅻🅸🆅🅴 🆂🅿🅾🆁🆃🆂 Button, Share Our Apps With Your Friends & Family.",
+    "multipleTime": "(26-10-2026-03:00 am)",
+    "Title": "Barcelona 🆚 Real Madrid",
+    "Subtitle": "🏆 SPANISH ⚽ LA LIGA 2026/27 | EL CLÁSICO | Select 🅻🅸🆅🅴 🆂🅿🅾🆁🆃🆂 Button, Share Our Apps With Your Friends & Family.",
     "Image": "https://raw.githubusercontent.com/samnite2290/img/gh-pages/HOME/HOME-LIVE-EVENT.png"
   },
-  {
-    "Date & Time": "20-10-2026-10:40 pm",
-    "multipleTimeRun": "On",
-    "multipleTime": "(20-10-2026-11:45 pm)",
-    "Title": "Sabah 🆚 Borussia Dortmund",
-    "Subtitle": "🏆 UEFA ⚽ CHAMPIONS LEAGUE 2026/27 | Select 🅻🅸🆅🅴 🆂🅿🅾🆁🆃🆂 Button, Share Our Apps With Your Friends & Family.",
-    "Image": "https://raw.githubusercontent.com/samnite2290/img/gh-pages/HOME/HOME-LIVE-EVENT.png"
-  },
-  {
-    "Date & Time": "21-10-2026-12:55 am",
-    "multipleTimeRun": "On",
-    "multipleTime": "(21-10-2026-02:00 am)",
-    "Title": "Liverpool 🆚 Villarreal",
-    "Subtitle": "🏆 UEFA ⚽ CHAMPIONS LEAGUE 2026/27 | Select 🅻🅸🆅🅴 🆂🅿🅾🆁🆃🆂 Button, Share Our Apps With Your Friends & Family.",
-    "Image": "https://raw.githubusercontent.com/samnite2290/img/gh-pages/HOME/HOME-LIVE-EVENT.png"
-  },
-  {
-    "Date & Time": "21-10-2026-12:55 am",
-    "multipleTimeRun": "On",
-    "multipleTime": "(21-10-2026-02:00 am)",
-    "Title": "Manchester City 🆚 AEK Athens",
-    "Subtitle": "🏆 UEFA ⚽ CHAMPIONS LEAGUE 2026/27 | Select 🅻🅸🆅🅴 🆂🅿🅾🆁🆃🆂 Button, Share Our Apps With Your Friends & Family.",
-    "Image": "https://raw.githubusercontent.com/samnite2290/img/gh-pages/HOME/HOME-LIVE-EVENT.png"
-  },
-  {
-    "Date & Time": "21-10-2026-12:55 am",
-    "multipleTimeRun": "On",
-    "multipleTime": "(21-10-2026-02:00 am)",
-    "Title": "Paris Saint-Germain 🆚 Barcelona",
-    "Subtitle": "🏆 UEFA ⚽ CHAMPIONS LEAGUE 2026/27 | Select 🅻🅸🆅🅴 🆂🅿🅾🆁🆃🆂 Button, Share Our Apps With Your Friends & Family.",
-    "Image": "https://raw.githubusercontent.com/samnite2290/img/gh-pages/HOME/HOME-LIVE-EVENT.png"
-  },
-  {
-    "Date & Time": "21-10-2026-12:55 am",
-    "multipleTimeRun": "On",
-    "multipleTime": "(21-10-2026-02:00 am)",
-    "Title": "Napoli 🆚 Bodø/Glimt",
-    "Subtitle": "🏆 UEFA ⚽ CHAMPIONS LEAGUE 2026/27 | Select 🅻🅸🆅🅴 🆂🅿🅾🆁🆃🆂 Button, Share Our Apps With Your Friends & Family.",
-    "Image": "https://raw.githubusercontent.com/samnite2290/img/gh-pages/HOME/HOME-LIVE-EVENT.png"
-  },
-  {
-    "Date & Time": "21-10-2026-12:55 am",
-    "multipleTimeRun": "On",
-    "multipleTime": "(21-10-2026-02:00 am)",
-    "Title": "Stuttgart 🆚 Atlético Madrid",
-    "Subtitle": "🏆 UEFA ⚽ CHAMPIONS LEAGUE 2026/27 | Select 🅻🅸🆅🅴 🆂🅿🅾🆁🆃🆂 Button, Share Our Apps With Your Friends & Family.",
-    "Image": "https://raw.githubusercontent.com/samnite2290/img/gh-pages/HOME/HOME-LIVE-EVENT.png"
-  },
-  {
-    "Date & Time": "21-10-2026-11:25 am",
-    "multipleTimeRun": "Off",
-    "multipleTime": "",
-    "Title": "Afghanistan U19 🆚 Bangladesh U19",
-    "Subtitle": "🏏 YOUTH ODI SERIES 2026 | Select 🅻🅸🆅🅴 🆂🅿🅾🆁🆃🆂 Button, Share Our Apps With Your Friends & Family.",
-    "Image": "https://raw.githubusercontent.com/samnite2290/img/gh-pages/HOME/HOME-LIVE-EVENT.png"
-  },
-  {
-    "Date & Time": "21-10-2026-05:55 pm",
-    "multipleTimeRun": "Off",
-    "multipleTime": "",
-    "Title": "Kenya 🆚 Denmark",
-    "Subtitle": "🏆 ICC 🏏 CRICKET WORLD CUP CHALLENGE LEAGUE A 2024–26 | Select 🅻🅸🆅🅴 🆂🅿🅾🆁🆃🆂 Button, Share Our Apps With Your Friends & Family.",
-    "Image": "https://raw.githubusercontent.com/samnite2290/img/gh-pages/HOME/HOME-LIVE-EVENT.png"
-  },
-  {
-    "Date & Time": "21-10-2026-10:40 pm",
-    "multipleTimeRun": "On",
-    "multipleTime": "(21-10-2026-11:45 pm)",
-    "Title": "Como 🆚 Manchester United",
-    "Subtitle": "🏆 UEFA ⚽ CHAMPIONS LEAGUE 2026/27 | Select 🅻🅸🆅🅴 🆂🅿🅾🆁🆃🆂 Button, Share Our Apps With Your Friends & Family.",
-    "Image": "https://raw.githubusercontent.com/samnite2290/img/gh-pages/HOME/HOME-LIVE-EVENT.png"
-  },
-  {
-    "Date & Time": "21-10-2026-10:40 pm",
-    "multipleTimeRun": "On",
-    "multipleTime": "(21-10-2026-11:45 pm)",
-    "Title": "Lille 🆚 Galatasaray",
-    "Subtitle": "🏆 UEFA ⚽ CHAMPIONS LEAGUE 2026/27 | Select 🅻🅸🆅🅴 🆂🅿🅾🆁🆃🆂 Button, Share Our Apps With Your Friends & Family.",
-    "Image": "https://raw.githubusercontent.com/samnite2290/img/gh-pages/HOME/HOME-LIVE-EVENT.png"
-  },
-  {
-    "Date & Time": "22-10-2026-12:55 am",
-    "multipleTimeRun": "On",
-    "multipleTime": "(22-10-2026-02:00 am)",
-    "Title": "Bayern Munich 🆚 Arsenal",
-    "Subtitle": "🏆 UEFA ⚽ CHAMPIONS LEAGUE 2026/27 | Select 🅻🅸🆅🅴 🆂🅿🅾🆁🆃🆂 Button, Share Our Apps With Your Friends & Family.",
-    "Image": "https://raw.githubusercontent.com/samnite2290/img/gh-pages/HOME/HOME-LIVE-EVENT.png"
-  },
-  {
-    "Date & Time": "22-10-2026-12:55 am",
-    "multipleTimeRun": "On",
-    "multipleTime": "(22-10-2026-02:00 am)",
-    "Title": "Real Madrid 🆚 RB Leipzig",
-    "Subtitle": "🏆 UEFA ⚽ CHAMPIONS LEAGUE 2026/27 | Select 🅻🅸🆅🅴 🆂🅿🅾🆁🆃🆂 Button, Share Our Apps With Your Friends & Family.",
-    "Image": "https://raw.githubusercontent.com/samnite2290/img/gh-pages/HOME/HOME-LIVE-EVENT.png"
-  },
-
 
 
 
