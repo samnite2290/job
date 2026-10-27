@@ -81,7 +81,7 @@
     "group_name": "SPORTS",
     "button_name": "Fancode BD",
     "button_image_url": "https://i.postimg.cc/q711D14y/image.jpg",
-    "button_playlist_url": "https://raw.githubusercontent.com/buzzinguaecn/Pizza/main/FancodeBD.m3u"
+    "button_playlist_url": "https://sawarid-proxy-ksa.pages.dev/FancodeBD.m3u"
   },
   {  
     "Auto_Update": "On",
@@ -90,6 +90,14 @@
     "button_name": "Fancode IND",
     "button_image_url": "https://i.postimg.cc/5yLqJgW0/image.jpg",
     "button_playlist_url": "https://raw.githubusercontent.com/drmlive/fancode-live-events/main/fancode.m3u"
+  },
+
+  {  
+   "Auto_Update": "On",
+    "group_name": "SPORTS",
+    "button_name": "TNT SPORTS Network",
+    "button_image_url": "https://raw.githubusercontent.com/samnite2290/img/gh-pages/HOME/TNT-SPORTS.png",
+    "button_playlist_url": "https://sawarid-proxy-ksa.pages.dev/SPORTS/TNT"
   },
   
   { 
@@ -446,14 +454,7 @@
     "button_image_url": "https://raw.githubusercontent.com/samnite2290/job/gh-pages/IMG/New_Released_Movie.jpeg",
     "button_playlist_url": "https://sawarid-proxy-ksa.pages.dev/New_Released_Movie.m3u"
   },
-  {
-    "Auto_Update": "On",
-    "Sync": "Off",
-    "group_name": "MOVIES PLATFORMS",
-    "button_name": "Movie Bangla 1",
-    "button_image_url": "https://i.postimg.cc/QMcq4Mb4/image.jpg",
-    "button_playlist_url": "https://raw.githubusercontent.com/buzzinguaecn/Pizza/refs/heads/gh-pages/Bangla_Movie5.m3u"
-  },
+  
     {
     "Auto_Update": "On",
     "Sync": "Off",
@@ -462,22 +463,8 @@
     "button_image_url": "https://i.postimg.cc/QMcq4Mb4/image.jpg",
     "button_playlist_url": "https://raw.githubusercontent.com/srhady/join_telegram_chennal-livesportsplay/refs/heads/main/latest_movies.m3u"  
   },
-    {
-    "Auto_Update": "On",
-    "Sync": "Off",
-    "group_name": "MOVIES PLATFORMS",
-    "button_name": "Movie Bangla 3",
-    "button_image_url": "https://i.postimg.cc/QMcq4Mb4/image.jpg",
-    "button_playlist_url": "https://raw.githubusercontent.com/sm-monirulislam/SM-Movie-Hup-Auto-Update/refs/heads/main/sm_movie2.m3u"
-  },
-  {
-    "Auto_Update": "On",
-    "Sync": "Off",
-    "group_name": "MOVIES PLATFORMS",
-    "button_name": "Movie Eng",
-    "button_image_url": "https://i.postimg.cc/QMcq4Mb4/image.jpg",
-    "button_playlist_url": "https://raw.githubusercontent.com/srhady/join_telegram_chennal-livesportsplay/main/playlist.m3u"
-  },
+    
+ 
   {
     "Auto_Update": "On",
     "Sync": "Off",
@@ -749,7 +736,7 @@
     "group_name": "COUNTRY",
     "button_name": "France",
     "button_image_url": "https://i.postimg.cc/4ySv7R8k/image.jpg",
-    "button_playlist_url": "https://raw.githubusercontent.com/buzzinguaecn/Pizza//main/France.m3u"
+    "button_playlist_url": "https://sawarid-proxy-ksa.pages.dev/France.m3u"
   },
   {
     "Auto_Update": "On",
