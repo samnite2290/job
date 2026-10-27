@@ -93,7 +93,8 @@
   },
 
   {  
-   "Auto_Update": "On",
+    "Auto_Update": "On",
+    "Sync": "Off",
     "group_name": "SPORTS",
     "button_name": "TNT SPORTS Network",
     "button_image_url": "https://raw.githubusercontent.com/samnite2290/img/gh-pages/HOME/TNT-SPORTS.png",
