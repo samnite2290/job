@@ -111,14 +111,7 @@
     "button_image_url": "https://raw.githubusercontent.com/samnite2290/img/gh-pages/Country/CricHD.jpeg",
     "button_playlist_url": "https://sawarid-proxy-ksa.pages.dev/CRICHD.m3u"
   },
-  { 
-    "Auto_Update": "On",
-    "Sync": "Off",
-    "group_name": "SPORTS",
-    "button_name": "Bein Sports",
-    "button_image_url": "https://raw.githubusercontent.com/samnite2290/img/refs/heads/gh-pages/HOME/Bein%20Sports.png",
-    "button_playlist_url": "https://sawarid-proxy-ksa.pages.dev/SPORTS/Bein%20Sports.m3u"
-  },
+  
   { 
     "Auto_Update": "On",
     "Sync": "Off",
