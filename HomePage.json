@@ -269,6 +269,122 @@
     "button_playlist_url": "https://raw.githubusercontent.com/sm-monirulislam/AynaOTT_Auto_Update_Playlist/refs/heads/main/aynaott.m3u"
   },
   
+  {
+    "Auto_Update": "On",
+    "Sync": "Off",
+    "group_name": "OTT PLATFORMS",
+    "button_name": "BD Orbit WIFI USERS",
+    "button_image_url": "https://raw.githubusercontent.com/samnite2290/img/gh-pages/Country/OrbitWifi.jpeg",
+    "button_playlist_url": "https://sawarid-proxy-ksa.pages.dev/BD_Orbit_Wifi.m3u"
+  },  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  {
+    "Auto_Update": "On",
+    "Sync": "Off",
+    "group_name": "CARTOON & DOCUMENTARY",
+    "button_name": "Documentary",
+    "button_image_url": "https://raw.githubusercontent.com/samnite2290/img/gh-pages/Country/Documentary_TV.jpeg",
+    "button_playlist_url": "https://sawarid-proxy-ksa.pages.dev/Documentary.m3u"
+  },  
+  {
+    "Auto_Update": "On",
+    "Sync": "Off",
+    "group_name": "CARTOON & DOCUMENTARY",
+    "button_name": "Cartoon TV",
+    "button_image_url": "https://raw.githubusercontent.com/samnite2290/img/gh-pages/Country/CartoonTVsml.png",
+    "button_playlist_url": "https://sawarid-proxy-ksa.pages.dev/Cartoon.m3u"
+  },  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+    
+    
+  
+
+  {
+    "Auto_Update": "On",
+    "Sync": "Off",
+    "group_name": "MOVIES PLATFORMS",
+    "button_name": "New Released Movie",
+    "button_image_url": "https://raw.githubusercontent.com/samnite2290/job/gh-pages/IMG/New_Released_Movie.jpeg",
+    "button_playlist_url": "https://sawarid-proxy-ksa.pages.dev/New_Released_Movie.m3u"
+  },
+  
+    {
+    "Auto_Update": "On",
+    "Sync": "Off",
+    "group_name": "MOVIES PLATFORMS",
+    "button_name": "Mix Movie",
+    "button_image_url": "https://i.postimg.cc/QMcq4Mb4/image.jpg",
+    "button_playlist_url": "https://raw.githubusercontent.com/srhady/join_telegram_chennal-livesportsplay/refs/heads/main/latest_movies.m3u"  
+  },
+    
+ 
+  {
+    "Auto_Update": "On",
+    "Sync": "Off",
+    "group_name": "MOVIES PLATFORMS",
+    "button_name": "Movie 3",
+    "button_image_url": "https://i.postimg.cc/QMcq4Mb4/image.jpg",
+    "button_playlist_url": "https://raw.githubusercontent.com/eishakilei-bd08/eitv/main/movie.m3u"
+  },
+  
+
+
+  
+
+
+  
 
 
 
@@ -398,83 +514,8 @@
 
   
   
-  {
-    "Auto_Update": "On",
-    "Sync": "Off",
-    "group_name": "CARTOON & DOCUMENTARY",
-    "button_name": "Documentary",
-    "button_image_url": "https://raw.githubusercontent.com/samnite2290/img/gh-pages/Country/Documentary_TV.jpeg",
-    "button_playlist_url": "https://sawarid-proxy-ksa.pages.dev/Documentary.m3u"
-  },  
-  {
-    "Auto_Update": "On",
-    "Sync": "Off",
-    "group_name": "CARTOON & DOCUMENTARY",
-    "button_name": "Cartoon TV",
-    "button_image_url": "https://raw.githubusercontent.com/samnite2290/img/gh-pages/Country/CartoonTVsml.png",
-    "button_playlist_url": "https://sawarid-proxy-ksa.pages.dev/Cartoon.m3u"
-  },  
-  {
-    "Auto_Update": "On",
-    "Sync": "Off",
-    "group_name": "OTT PLATFORMS",
-    "button_name": "BD Orbit WIFI USERS",
-    "button_image_url": "https://raw.githubusercontent.com/samnite2290/img/gh-pages/Country/OrbitWifi.jpeg",
-    "button_playlist_url": "https://sawarid-proxy-ksa.pages.dev/BD_Orbit_Wifi.m3u"
-  },  
-
-
-
-
-
-
   
-
-
-    
-    {
-    "Auto_Update": "On",
-    "Sync": "Off",
-    "group_name": "MOVIES PLATFORMS",
-    "button_name": "OTT Movie",
-    "button_image_url": "https://raw.githubusercontent.com/samnite2290/job/gh-pages/IMG/New_Released_Movie.jpeg",
-    "button_playlist_url": "https://raw.githubusercontent.com/sm-monirulislam/SM-Movie-Hup-Auto-Update/refs/heads/main/Ott_Bnagla.m3u"
-  },
   
-
-  {
-    "Auto_Update": "On",
-    "Sync": "Off",
-    "group_name": "MOVIES PLATFORMS",
-    "button_name": "New Released Movie",
-    "button_image_url": "https://raw.githubusercontent.com/samnite2290/job/gh-pages/IMG/New_Released_Movie.jpeg",
-    "button_playlist_url": "https://sawarid-proxy-ksa.pages.dev/New_Released_Movie.m3u"
-  },
-  
-    {
-    "Auto_Update": "On",
-    "Sync": "Off",
-    "group_name": "MOVIES PLATFORMS",
-    "button_name": "Mix Movie",
-    "button_image_url": "https://i.postimg.cc/QMcq4Mb4/image.jpg",
-    "button_playlist_url": "https://raw.githubusercontent.com/srhady/join_telegram_chennal-livesportsplay/refs/heads/main/latest_movies.m3u"  
-  },
-    
- 
-  {
-    "Auto_Update": "On",
-    "Sync": "Off",
-    "group_name": "MOVIES PLATFORMS",
-    "button_name": "Movie 3",
-    "button_image_url": "https://i.postimg.cc/QMcq4Mb4/image.jpg",
-    "button_playlist_url": "https://raw.githubusercontent.com/eishakilei-bd08/eitv/main/movie.m3u"
-  },
-  
-
-
-  
-
-
 
 
 
