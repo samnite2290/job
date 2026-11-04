@@ -90,348 +90,848 @@
 
 
 
-  {
-    "Date & Time": "01-11-2026-10:35 00 am",
-    "multipleTimeRun": "Off",
-    "multipleTime": "(01-11-2026-12:25 00 pm)",
-    "Title": "Sydney Thunder Women 🆚 Brisbane Heat Women । Watch on FanCode",
-    "Subtitle": "🏆 AUSTRALIA 🏏 WOMEN'S BIG BASH LEAGUE 2026/27 | Select 🅻🅸🆅🅴 🆂🅿🅾🆁🆃🆂 Button, Share Our Apps With Your Friends & Family.",
-    "Image": "https://www.fancode.com/skillup-uploads/cms-media/4250392_53125_ST-W_BH-W_fc-web_1793352701384.jpg"
-  },
-  {
-    "Date & Time": "01-11-2026-12:55 00 pm",
-    "multipleTimeRun": "On",
-    "multipleTime": "(01-11-2026-02:45 00 pm)",
-    "Title": "New Zealand 🆚 India । Watch on Tapmad / SonyLIV",
-    "Subtitle": "🏏 T20I CRICKET 2026 | Select 🅻🅸🆅🅴 🆂🅿🅾🆁🆃🆂 Button, Share Our Apps With Your Friends & Family.",
-    "Image": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027574/1793128444604406_NZ_vs_IND_5th_T20i_landscape_thumb.jpg"
-  },
-  {
-    "Date & Time": "01-11-2026-01:25 00 pm",
-    "multipleTimeRun": "Off",
-    "multipleTime": "(01-11-2026-05:20 00 pm)",
-    "Title": "Namibia 🆚 Ireland । Watch on FanCode / ICC.tv",
-    "Subtitle": "🏏 ODI CRICKET 2026 | Select 🅻🅸🆅🅴 🆂🅿🅾🆁🆃🆂 Button, Share Our Apps With Your Friends & Family.",
-    "Image": "https://www.fancode.com/skillup-uploads/cms-media/Namibia-vs-Ireland_fc-web.jpg"
-  },
-  {
-    "Date & Time": "01-11-2026-02:05 00 pm",
-    "multipleTimeRun": "Off",
-    "multipleTime": "(01-11-2026-03:55 00 pm)",
-    "Title": "Sydney Sixers Women 🆚 Hobart Hurricanes Women । Watch on FanCode",
-    "Subtitle": "🏆 AUSTRALIA 🏏 WOMEN'S BIG BASH LEAGUE 2026/27 | Select 🅻🅸🆅🅴 🆂🅿🅾🆁🆃🆂 Button, Share Our Apps With Your Friends & Family.",
-    "Image": "https://www.fancode.com/skillup-uploads/cms-media/4250393_53125_SS-W_HB-W_fc-web_1793352701389.jpg"
-  },
-  {
-    "Date & Time": "01-11-2026-05:10 00 pm",
-    "multipleTimeRun": "Off",
-    "multipleTime": "(01-11-2026-07:00 00 pm)",
-    "Title": "Janakpur Bolts 🆚 Pokhara Avengers । Watch on FanCode",
-    "Subtitle": "🏆 NEPAL 🏏 PREMIER LEAGUE 2026 | Select 🅻🅸🆅🅴 🆂🅿🅾🆁🆃🆂 Button, Share Our Apps With Your Friends & Family.",
-    "Image": "https://www.fancode.com/skillup-uploads/cms-media/4250363_53124_JKB_PKA_fc-Web.jpg"
-  },
-  {
-    "Date & Time": "01-11-2026-06:55 00 pm",
-    "multipleTimeRun": "Off",
-    "multipleTime": "(01-11-2026-08:00 00 pm)",
-    "Title": "Getafe 🆚 Sevilla । Watch on FanCode",
-    "Subtitle": "🏆 SPANISH ⚽ LA LIGA 2026/27 | Select 🅻🅸🆅🅴 🆂🅿🅾🆁🆃🆂 Button, Share Our Apps With Your Friends & Family.",
-    "Image": "https://www.fancode.com/skillup-uploads/cms-media/4247669_53004_GEF_SEV_FC-Web.png"
-  },
-  {
-    "Date & Time": "01-11-2026-08:25 00 pm",
-    "multipleTimeRun": "Off",
-    "multipleTime": "(01-11-2026-09:30 00 pm)",
-    "Title": "Union Berlin 🆚 FC Cologne",
-    "Subtitle": "🏆 GERMAN ⚽ BUNDESLIGA 2026/27 | Select 🅻🅸🆅🅴 🆂🅿🅾🆁🆃🆂 Button, Share Our Apps With Your Friends & Family.",
-    "Image": "https://raw.githubusercontent.com/samnite2290/img/gh-pages/Country/SawaridSports450300.png"
-  },
-  {
-    "Date & Time": "01-11-2026-08:25 00 pm",
-    "multipleTimeRun": "On",
-    "multipleTime": "(01-11-2026-10:15 00 pm)",
-    "Title": "Afghanistan 🆚 Zimbabwe । Watch on FanCode",
-    "Subtitle": "🏏 T20I CRICKET 2026 | Select 🅻🅸🆅🅴 🆂🅿🅾🆁🆃🆂 Button, Share Our Apps With Your Friends & Family.",
-    "Image": "https://www.fancode.com/skillup-uploads/cms-media/ZIM1.jpg"
-  },
-  {
-    "Date & Time": "01-11-2026-09:10 00 pm",
-    "multipleTimeRun": "On",
-    "multipleTime": "(01-11-2026-10:15 00 pm)",
-    "Title": "Racing Santander 🆚 Real Madrid । Watch on FanCode",
-    "Subtitle": "🏆 SPANISH ⚽ LA LIGA 2026/27 | Select 🅻🅸🆅🅴 🆂🅿🅾🆁🆃🆂 Button, Share Our Apps With Your Friends & Family.",
-    "Image": "https://www.fancode.com/skillup-uploads/cms-media/4247677_53004_RAC_RM_FC-Web.png"
-  },
-  {
-    "Date & Time": "01-11-2026-10:10 00 pm",
-    "multipleTimeRun": "Off",
-    "multipleTime": "(01-11-2026-11:15 00 pm)",
-    "Title": "Paris FC 🆚 Monaco",
-    "Subtitle": "🏆 FRENCH ⚽ LIGUE 1 2026/27 | Select 🅻🅸🆅🅴 🆂🅿🅾🆁🆃🆂 Button, Share Our Apps With Your Friends & Family.",
-    "Image": "https://raw.githubusercontent.com/samnite2290/img/gh-pages/Country/SawaridSports450300.png"
-  },
-  {
-    "Date & Time": "01-11-2026-10:25 00 pm",
-    "multipleTimeRun": "On",
-    "multipleTime": "(01-11-2026-11:30 00 pm)",
-    "Title": "Liverpool 🆚 Arsenal । Watch on myco",
-    "Subtitle": "🏆 ENGLISH ⚽ PREMIER LEAGUE 2026/27 | Select 🅻🅸🆅🅴 🆂🅿🅾🆁🆃🆂 Button, Share Our Apps With Your Friends & Family.",
-    "Image": "https://raw.githubusercontent.com/samnite2290/img/gh-pages/Country/SawaridSports450300.png"
-  },
-  {
-    "Date & Time": "01-11-2026-10:25 00 pm",
-    "multipleTimeRun": "Off",
-    "multipleTime": "(01-11-2026-11:30 00 pm)",
-    "Title": "Eintracht Frankfurt 🆚 Hamburger SV",
-    "Subtitle": "🏆 GERMAN ⚽ BUNDESLIGA 2026/27 | Select 🅻🅸🆅🅴 🆂🅿🅾🆁🆃🆂 Button, Share Our Apps With Your Friends & Family.",
-    "Image": "https://raw.githubusercontent.com/samnite2290/img/gh-pages/Country/SawaridSports450300.png"
-  },
-  {
-    "Date & Time": "01-11-2026-11:25 00 pm",
-    "multipleTimeRun": "Off",
-    "multipleTime": "(02-11-2026-12:30 00 am)",
-    "Title": "Elche 🆚 Valencia । Watch on FanCode",
-    "Subtitle": "🏆 SPANISH ⚽ LA LIGA 2026/27 | Select 🅻🅸🆅🅴 🆂🅿🅾🆁🆃🆂 Button, Share Our Apps With Your Friends & Family.",
-    "Image": "https://www.fancode.com/skillup-uploads/cms-media/4247672_53004_ELC_VAL_FC-Web.png"
-  },
-  {
-    "Date & Time": "01-11-2026-11:55 00 pm",
-    "multipleTimeRun": "Off",
-    "multipleTime": "(02-11-2026-01:45 00 am)",
-    "Title": "West Indies A 🆚 England Lions । Watch on FanCode",
-    "Subtitle": "🏏 T20 CRICKET 2026 | Select 🅻🅸🆅🅴 🆂🅿🅾🆁🆃🆂 Button, Share Our Apps With Your Friends & Family.",
-    "Image": "https://raw.githubusercontent.com/samnite2290/img/gh-pages/Country/SawaridSports450300.png"
-  },
-  {
-    "Date & Time": "02-11-2026-01:40 00 am",
-    "multipleTimeRun": "Off",
-    "multipleTime": "(02-11-2026-02:45 00 am)",
-    "Title": "Marseille 🆚 Toulouse",
-    "Subtitle": "🏆 FRENCH ⚽ LIGUE 1 2026/27 | Select 🅻🅸🆅🅴 🆂🅿🅾🆁🆃🆂 Button, Share Our Apps With Your Friends & Family.",
-    "Image": "https://raw.githubusercontent.com/samnite2290/img/gh-pages/Country/SawaridSports450300.png"
-  },
-  {
-    "Date & Time": "02-11-2026-01:40 00 am",
-    "multipleTimeRun": "On",
-    "multipleTime": "(02-11-2026-02:45 00 am)",
-    "Title": "Juventus 🆚 Napoli",
-    "Subtitle": "🏆 ITALIAN ⚽ SERIE A 2026/27 | Select 🅻🅸🆅🅴 🆂🅿🅾🆁🆃🆂 Button, Share Our Apps With Your Friends & Family.",
-    "Image": "https://raw.githubusercontent.com/samnite2290/img/gh-pages/Country/SawaridSports450300.png"
-  },
-  {
-    "Date & Time": "02-11-2026-01:55 00 am",
-    "multipleTimeRun": "On",
-    "multipleTime": "(02-11-2026-03:00 00 am)",
-    "Title": "Athletic Club 🆚 Real Sociedad । Watch on FanCode",
-    "Subtitle": "🏆 SPANISH ⚽ LA LIGA 2026/27 | Select 🅻🅸🆅🅴 🆂🅿🅾🆁🆃🆂 Button, Share Our Apps With Your Friends & Family.",
-    "Image": "https://www.fancode.com/skillup-uploads/cms-media/4247675_53004_ATH_RS_FC-Web.png"
-  },
-  {
-    "Date & Time": "02-11-2026-11:25 00 am",
-    "multipleTimeRun": "Off",
-    "multipleTime": "(02-11-2026-03:20 00 pm)",
-    "Title": "Oman 🆚 Netherlands । Watch on FanCode / ICC.tv",
-    "Subtitle": "🏆 ICC 🏏 MEN’S CRICKET WORLD CUP LEAGUE 2 2023-27 | Select 🅻🅸🆅🅴 🆂🅿🅾🆁🆃🆂 Button, Share Our Apps With Your Friends & Family.",
-    "Image": "https://raw.githubusercontent.com/samnite2290/img/gh-pages/Country/SawaridSports450300.png"
-  },
-  {
-    "Date & Time": "02-11-2026-12:40 00 pm",
-    "multipleTimeRun": "Off",
-    "multipleTime": "(02-11-2026-02:30 00 pm)",
-    "Title": "Kathmandu Gurkhas 🆚 Karnali Yaks । Watch on FanCode",
-    "Subtitle": "🏆 NEPAL 🏏 PREMIER LEAGUE 2026 | Select 🅻🅸🆅🅴 🆂🅿🅾🆁🆃🆂 Button, Share Our Apps With Your Friends & Family.",
-    "Image": "https://www.fancode.com/skillup-uploads/cms-media/4250364_53124_KMG_KNY_fc-Web.jpg"
-  },
-  {
-    "Date & Time": "02-11-2026-02:05 00 pm",
-    "multipleTimeRun": "Off",
-    "multipleTime": "(02-11-2026-03:55 00 pm)",
-    "Title": "Melbourne Stars Women 🆚 Perth Scorchers Women । Watch on FanCode",
-    "Subtitle": "🏆 AUSTRALIA 🏏 WOMEN'S BIG BASH LEAGUE 2026/27 | Select 🅻🅸🆅🅴 🆂🅿🅾🆁🆃🆂 Button, Share Our Apps With Your Friends & Family.",
-    "Image": "https://www.fancode.com/skillup-uploads/cms-media/4250394_53125_MS-W_PS-W_fc-web_1793352701258.jpg"
-  },
-  {
-    "Date & Time": "02-11-2026-05:10 00 pm",
-    "multipleTimeRun": "Off",
-    "multipleTime": "(02-11-2026-07:00 00 pm)",
-    "Title": "Sudurpaschim Royals 🆚 Chitwan Rhinos । Watch on FanCode",
-    "Subtitle": "🏆 NEPAL 🏏 PREMIER LEAGUE 2026 | Select 🅻🅸🆅🅴 🆂🅿🅾🆁🆃🆂 Button, Share Our Apps With Your Friends & Family.",
-    "Image": "https://www.fancode.com/skillup-uploads/cms-media/4250365_53124_SPR_CWR_fc-Web.jpg"
-  },
-  {
-    "Date & Time": "02-11-2026-11:25 00 pm",
-    "multipleTimeRun": "Off",
-    "multipleTime": "(03-11-2026-12:30 00 am)",
-    "Title": "Sassuolo 🆚 Fiorentina",
-    "Subtitle": "🏆 ITALIAN ⚽ SERIE A 2026/27 | Select 🅻🅸🆅🅴 🆂🅿🅾🆁🆃🆂 Button, Share Our Apps With Your Friends & Family.",
-    "Image": "https://raw.githubusercontent.com/samnite2290/img/gh-pages/Country/SawaridSports450300.png"
-  },
-  {
-    "Date & Time": "03-11-2026-01:40 00 am",
-    "multipleTimeRun": "Off",
-    "multipleTime": "(03-11-2026-02:45 00 am)",
-    "Title": "Lorient 🆚 Brest",
-    "Subtitle": "🏆 FRENCH ⚽ LIGUE 1 2026/27 | Select 🅻🅸🆅🅴 🆂🅿🅾🆁🆃🆂 Button, Share Our Apps With Your Friends & Family.",
-    "Image": "https://raw.githubusercontent.com/samnite2290/img/gh-pages/Country/SawaridSports450300.png"
-  },
-  {
-    "Date & Time": "03-11-2026-01:40 00 am",
-    "multipleTimeRun": "Off",
-    "multipleTime": "(03-11-2026-02:45 00 am)",
-    "Title": "Atalanta 🆚 Parma",
-    "Subtitle": "🏆 ITALIAN ⚽ SERIE A 2026/27 | Select 🅻🅸🆅🅴 🆂🅿🅾🆁🆃🆂 Button, Share Our Apps With Your Friends & Family.",
-    "Image": "https://raw.githubusercontent.com/samnite2290/img/gh-pages/Country/SawaridSports450300.png"
-  },
-  {
-    "Date & Time": "03-11-2026-01:55 00 am",
-    "multipleTimeRun": "On",
-    "multipleTime": "(03-11-2026-03:00 00 am)",
-    "Title": "Newcastle United 🆚 Everton । Watch on myco",
-    "Subtitle": "🏆 ENGLISH ⚽ PREMIER LEAGUE 2026/27 | Select 🅻🅸🆅🅴 🆂🅿🅾🆁🆃🆂 Button, Share Our Apps With Your Friends & Family.",
-    "Image": "https://raw.githubusercontent.com/samnite2290/img/gh-pages/Country/SawaridSports450300.png"
-  },
-  {
-    "Date & Time": "03-11-2026-01:55 00 am",
-    "multipleTimeRun": "Off",
-    "multipleTime": "(03-11-2026-03:00 00 am)",
-    "Title": "Deportivo A Coruña 🆚 Osasuna । Watch on FanCode",
-    "Subtitle": "🏆 SPANISH ⚽ LA LIGA 2026/27 | Select 🅻🅸🆅🅴 🆂🅿🅾🆁🆃🆂 Button, Share Our Apps With Your Friends & Family.",
-    "Image": "https://raw.githubusercontent.com/samnite2290/img/gh-pages/Country/SawaridSports450300.png"
-  },
-  {
-    "Date & Time": "03-11-2026-12:40 00 pm",
-    "multipleTimeRun": "Off",
-    "multipleTime": "(03-11-2026-02:30 00 pm)",
-    "Title": "Biratnagar Kings 🆚 Janakpur Bolts । Watch on FanCode",
-    "Subtitle": "🏆 NEPAL 🏏 PREMIER LEAGUE 2026 | Select 🅻🅸🆅🅴 🆂🅿🅾🆁🆃🆂 Button, Share Our Apps With Your Friends & Family.",
-    "Image": "https://raw.githubusercontent.com/samnite2290/img/gh-pages/Country/SawaridSports450300.png"
-  },
-  {
-    "Date & Time": "03-11-2026-05:10 00 pm",
-    "multipleTimeRun": "Off",
-    "multipleTime": "(03-11-2026-07:00 00 pm)",
-    "Title": "Lumbini Lions 🆚 Pokhara Avengers । Watch on FanCode",
-    "Subtitle": "🏆 NEPAL 🏏 PREMIER LEAGUE 2026 | Select 🅻🅸🆅🅴 🆂🅿🅾🆁🆃🆂 Button, Share Our Apps With Your Friends & Family.",
-    "Image": "https://raw.githubusercontent.com/samnite2290/img/gh-pages/Country/SawaridSports450300.png"
-  },
-  {
-    "Date & Time": "03-11-2026-11:40 00 pm",
-    "multipleTimeRun": "On",
-    "multipleTime": "(04-11-2026-12:45 00 am)",
-    "Title": "Galatasaray 🆚 VfB Stuttgart । Watch on SonyLIV / Tapmad",
-    "Subtitle": "🏆 UEFA ⚽ CHAMPIONS LEAGUE 2026/27 | Select 🅻🅸🆅🅴 🆂🅿🅾🆁🆃🆂 Button, Share Our Apps With Your Friends & Family.",
-    "Image": "https://raw.githubusercontent.com/samnite2290/img/gh-pages/Country/SawaridSports450300.png"
-  },
-  {
-    "Date & Time": "03-11-2026-11:40 00 pm",
-    "multipleTimeRun": "On",
-    "multipleTime": "(04-11-2026-12:45 00 am)",
-    "Title": "Shakhtar Donetsk 🆚 Sporting CP । Watch on SonyLIV / Tapmad",
-    "Subtitle": "🏆 UEFA ⚽ CHAMPIONS LEAGUE 2026/27 | Select 🅻🅸🆅🅴 🆂🅿🅾🆁🆃🆂 Button, Share Our Apps With Your Friends & Family.",
-    "Image": "https://raw.githubusercontent.com/samnite2290/img/gh-pages/Country/SawaridSports450300.png"
-  },
-  {
-    "Date & Time": "03-11-2026-11:55 00 pm",
-    "multipleTimeRun": "Off",
-    "multipleTime": "(04-11-2026-01:45 00 am)",
-    "Title": "West Indies A 🆚 England Lions । Watch on FanCode",
-    "Subtitle": "🏏 T20 CRICKET 2026 | Select 🅻🅸🆅🅴 🆂🅿🅾🆁🆃🆂 Button, Share Our Apps With Your Friends & Family.",
-    "Image": "https://raw.githubusercontent.com/samnite2290/img/gh-pages/Country/SawaridSports450300.png"
-  },
-  {
-    "Date & Time": "04-11-2026-01:55 00 am",
-    "multipleTimeRun": "On",
-    "multipleTime": "(04-11-2026-03:00 00 am)",
-    "Title": "Atlético Madrid 🆚 Bayern Munich । Watch on SonyLIV / Tapmad",
-    "Subtitle": "🏆 UEFA ⚽ CHAMPIONS LEAGUE 2026/27 | Select 🅻🅸🆅🅴 🆂🅿🅾🆁🆃🆂 Button, Share Our Apps With Your Friends & Family.",
-    "Image": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027592/1793167275203484_UCL_26_MD4_Atletico-vs-Bayern-Munich_Promo_DDT_landscape_thumb.jpg"
-  },
-  {
-    "Date & Time": "04-11-2026-01:55 00 am",
-    "multipleTimeRun": "On",
-    "multipleTime": "(04-11-2026-03:00 00 am)",
-    "Title": "Barcelona 🆚 Aston Villa । Watch on SonyLIV / Tapmad",
-    "Subtitle": "🏆 UEFA ⚽ CHAMPIONS LEAGUE 2026/27 | Select 🅻🅸🆅🅴 🆂🅿🅾🆁🆃🆂 Button, Share Our Apps With Your Friends & Family.",
-    "Image": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027592/1793168441946484_UCL_26_MD4_Barcelona-vs-Aston-Villa_Promo_DDT_landscape_thumb.jpg"
-  },
-  {
-    "Date & Time": "04-11-2026-01:55 00 am",
-    "multipleTimeRun": "On",
-    "multipleTime": "(04-11-2026-03:00 00 am)",
-    "Title": "Bodø/Glimt 🆚 Lille । Watch on SonyLIV / Tapmad",
-    "Subtitle": "🏆 UEFA ⚽ CHAMPIONS LEAGUE 2026/27 | Select 🅻🅸🆅🅴 🆂🅿🅾🆁🆃🆂 Button, Share Our Apps With Your Friends & Family.",
-    "Image": "https://raw.githubusercontent.com/samnite2290/img/gh-pages/Country/SawaridSports450300.png"
-  },
-  {
-    "Date & Time": "04-11-2026-01:55 00 am",
-    "multipleTimeRun": "On",
-    "multipleTime": "(04-11-2026-03:00 00 am)",
-    "Title": "Feyenoord 🆚 Inter । Watch on SonyLIV / Tapmad",
-    "Subtitle": "🏆 UEFA ⚽ CHAMPIONS LEAGUE 2026/27 | Select 🅻🅸🆅🅴 🆂🅿🅾🆁🆃🆂 Button, Share Our Apps With Your Friends & Family.",
-    "Image": "https://raw.githubusercontent.com/samnite2290/img/gh-pages/Country/SawaridSports450300.png"
-  },
-  {
-    "Date & Time": "04-11-2026-01:55 00 am",
-    "multipleTimeRun": "On",
-    "multipleTime": "(04-11-2026-03:00 00 am)",
-    "Title": "LASK 🆚 Slovan Bratislava । Watch on SonyLIV / Tapmad",
-    "Subtitle": "🏆 UEFA ⚽ CHAMPIONS LEAGUE 2026/27 | Select 🅻🅸🆅🅴 🆂🅿🅾🆁🆃🆂 Button, Share Our Apps With Your Friends & Family.",
-    "Image": "https://raw.githubusercontent.com/samnite2290/img/gh-pages/Country/SawaridSports450300.png"
-  },
-  {
-    "Date & Time": "04-11-2026-01:55 00 am",
-    "multipleTimeRun": "On",
-    "multipleTime": "(04-11-2026-03:00 00 am)",
-    "Title": "Manchester United 🆚 Roma । Watch on SonyLIV / Tapmad",
-    "Subtitle": "🏆 UEFA ⚽ CHAMPIONS LEAGUE 2026/27 | Select 🅻🅸🆅🅴 🆂🅿🅾🆁🆃🆂 Button, Share Our Apps With Your Friends & Family.",
-    "Image": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027592/1793169184924484_UCL_26_MD4_Man-United_vs-Roma_Promo_DDT_landscape_thumb.jpg"
-  },
-  {
-    "Date & Time": "04-11-2026-01:55 00 am",
-    "multipleTimeRun": "On",
-    "multipleTime": "(04-11-2026-03:00 00 am)",
-    "Title": "Villarreal 🆚 Paris Saint-Germain । Watch on SonyLIV / Tapmad",
-    "Subtitle": "🏆 UEFA ⚽ CHAMPIONS LEAGUE 2026/27 | Select 🅻🅸🆅🅴 🆂🅿🅾🆁🆃🆂 Button, Share Our Apps With Your Friends & Family.",
-    "Image": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027914/1793426651789321_UCL_26_MD4_Villarreal-vs-PSG_Promo_DDT_landscape_thumb.jpg"
-  },
+ 
   {
     "Date & Time": "04-11-2026-07:55 00 am",
     "multipleTimeRun": "On",
-    "multipleTime": "(04-11-2026-11:50 00 am)",
-    "Title": "New Zealand 🆚 India । Watch on SonyLIV / Tapmad",
-    "Subtitle": "🏏 ODI CRICKET 2026 | Select 🅻🅸🆅🅴 🆂🅿🅾🆁🆃🆂 Button, Share Our Apps With Your Friends & Family.",
+    "multipleTime": "(04-11-2026-12:00 00 pm)",
+    "Title": "New Zealand 🆚 India । Watch on SonyLIV",
+    "Subtitle": "🏏 INDIA TOUR OF NEW ZEALAND ⚾ 1ST ODI 2026 | Select 🅻🅸🆅🅴 🆂🅿️🅾️🆁🆃🆂 Button, Share Our Apps With Your Friends & Family.",
     "Image": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027683/179327126246643_NZvsIND_1st_ODI_dated_landscape_thumb.jpg"
   },
   {
     "Date & Time": "04-11-2026-11:25 00 am",
     "multipleTimeRun": "Off",
-    "multipleTime": "(04-11-2026-03:20 00 pm)",
-    "Title": "United Arab Emirates 🆚 Oman । Watch on ICC.tv / FanCode",
-    "Subtitle": "🏆 ICC 🏏 MEN’S CRICKET WORLD CUP LEAGUE 2 2023-27 | Select 🅻🅸🆅🅴 🆂🅿🅾🆁🆃🆂 Button, Share Our Apps With Your Friends & Family.",
+    "multipleTime": "(04-11-2026-03:30 00 pm)",
+    "Title": "United Arab Emirates 🆚 Oman",
+    "Subtitle": "🏆 ICC 🏏 MEN'S CRICKET WORLD CUP LEAGUE 2 2023-27 | Select 🅻🅸🆅🅴 🆂🅿️🅾️🆁🆃🆂 Button, Share Our Apps With Your Friends & Family.",
     "Image": "https://raw.githubusercontent.com/samnite2290/img/gh-pages/Country/SawaridSports450300.png"
+  },
+  {
+    "Date & Time": "04-11-2026-01:40 00 pm",
+    "multipleTimeRun": "Off",
+    "multipleTime": "(04-11-2026-02:45 00 pm)",
+    "Title": "Melbourne Victory 🆚 Persib Bandung । Watch on FanCode",
+    "Subtitle": "🏆 AFC ⚽ CHAMPIONS LEAGUE TWO 2026/27 | Select 🅻🅸🆅🅴 🆂🅿️🅾️🆁🆃🆂 Button, Share Our Apps With Your Friends & Family.",
+    "Image": "https://www.fancode.com/skillup-uploads/cms-media/4249009_53057_MLV_PER_fc-web_1789025065711.jpg"
   },
   {
     "Date & Time": "04-11-2026-02:05 00 pm",
     "multipleTimeRun": "Off",
-    "multipleTime": "(04-11-2026-03:55 00 pm)",
-    "Title": "Hobart Hurricanes Women 🆚 Melbourne Renegades Women । Watch on FanCode",
-    "Subtitle": "🏆 AUSTRALIA 🏏 WOMEN'S BIG BASH LEAGUE 2026/27 | Select 🅻🅸🆅🅴 🆂🅿🅾🆁🆃🆂 Button, Share Our Apps With Your Friends & Family.",
+    "multipleTime": "(04-11-2026-03:45 00 pm)",
+    "Title": "Hobart Hurricanes Women 🆚 Melbourne Renegades Women",
+    "Subtitle": "🏏 AUSTRALIA WOMEN'S BIG BASH LEAGUE 2026/27 | Select 🅻🅸🆅🅴 🆂🅿️🅾️🆁🆃🆂 Button, Share Our Apps With Your Friends & Family.",
+    "Image": "https://raw.githubusercontent.com/samnite2290/img/gh-pages/Country/SawaridSports450300.png"
+  },
+  {
+    "Date & Time": "04-11-2026-02:25 00 pm",
+    "multipleTimeRun": "Off",
+    "multipleTime": "(04-11-2026-03:30 00 pm)",
+    "Title": "Bam Khatoon FC 🆚 Naegohyang Women's FC । Watch on FanCode",
+    "Subtitle": "🏆 AFC ⚽ WOMEN'S CHAMPIONS LEAGUE 2026/27 | Select 🅻🅸🆅🅴 🆂🅿️🅾️🆁🆃🆂 Button, Share Our Apps With Your Friends & Family.",
+    "Image": "https://images.fancode.com/aig/match/v1793533399050/4250250_CASACARDS_APP.png"
+  },
+  {
+    "Date & Time": "04-11-2026-02:25 00 pm",
+    "multipleTimeRun": "Off",
+    "multipleTime": "(04-11-2026-03:30 00 pm)",
+    "Title": "4.25 SC Women 🆚 Ho Chi Minh City Women । Watch on FanCode",
+    "Subtitle": "🏆 AFC ⚽ WOMEN'S CHAMPIONS LEAGUE 2026/27 | Select 🅻🅸🆅🅴 🆂🅿️🅾️🆁🆃🆂 Button, Share Our Apps With Your Friends & Family.",
+    "Image": "https://images.fancode.com/aig/match/v1793533399050/4250256_CASACARDS_APP.png"
+  },
+  {
+    "Date & Time": "04-11-2026-03:55 00 pm",
+    "multipleTimeRun": "Off",
+    "multipleTime": "(04-11-2026-05:00 00 pm)",
+    "Title": "FC Seoul 🆚 The Cong - Viettel FC । Watch on FanCode",
+    "Subtitle": "🏆 AFC ⚽ CHAMPIONS LEAGUE TWO 2026/27 | Select 🅻🅸🆅🅴 🆂🅿️🅾️🆁🆃🆂 Button, Share Our Apps With Your Friends & Family.",
+    "Image": "https://www.fancode.com/skillup-uploads/cms-media/4249010_53057_SE_CV_fc-web_1789025065555.jpg"
+  },
+  {
+    "Date & Time": "04-11-2026-03:55 00 pm",
+    "multipleTimeRun": "Off",
+    "multipleTime": "(04-11-2026-05:00 00 pm)",
+    "Title": "Pohang Steelers 🆚 Gamba Osaka । Watch on FanCode",
+    "Subtitle": "🏆 AFC ⚽ CHAMPIONS LEAGUE ELITE 2026/27 | Select 🅻🅸🆅🅴 🆂🅿️🅾️🆁🆃🆂 Button, Share Our Apps With Your Friends & Family.",
+    "Image": "https://www.fancode.com/skillup-uploads/cms-media/4248742_53053_PHG_OSK_fc-web.jpg"
+  },
+  {
+    "Date & Time": "04-11-2026-04:25 00 pm",
+    "multipleTimeRun": "Off",
+    "multipleTime": "(04-11-2026-05:30 00 pm)",
+    "Title": "Kaya FC Iloilo Women 🆚 Melbourne City Women । Watch on FanCode",
+    "Subtitle": "🏆 AFC ⚽ WOMEN'S CHAMPIONS LEAGUE 2026/27 | Select 🅻🅸🆅🅴 🆂🅿️🅾️🆁🆃🆂 Button, Share Our Apps With Your Friends & Family.",
+    "Image": "https://images.fancode.com/aig/match/v1793533399054/4250262_CASACARDS_APP.png"
+  },
+  {
+    "Date & Time": "04-11-2026-06:15 00 pm",
+    "multipleTimeRun": "Off",
+    "multipleTime": "(04-11-2026-07:15 00 pm)",
+    "Title": "Buriram United 🆚 Kashima Antlers । Watch on FanCode",
+    "Subtitle": "🏆 AFC ⚽ CHAMPIONS LEAGUE ELITE 2026/27 | Select 🅻🅸🆅🅴 🆂🅿️🅾️🆁🆃🆂 Button, Share Our Apps With Your Friends & Family.",
+    "Image": "https://www.fancode.com/skillup-uploads/cms-media/4248743_53053_BU_ANL_fc-web.jpg"
+  },
+  {
+    "Date & Time": "04-11-2026-07:40 00 pm",
+    "multipleTimeRun": "Off",
+    "multipleTime": "(04-11-2026-08:45 00 pm)",
+    "Title": "FK Arkadag 🆚 Golgohar Sirjan SC । Watch on FanCode",
+    "Subtitle": "🏆 AFC ⚽ CHAMPIONS LEAGUE TWO 2026/27 | Select 🅻🅸🆅🅴 🆂🅿️🅾️🆁🆃🆂 Button, Share Our Apps With Your Friends & Family.",
+    "Image": "https://www.fancode.com/skillup-uploads/cms-media/4249003_53057_ARK_GGS_fc-web_1789025066349.jpg"
+  },
+  {
+    "Date & Time": "04-11-2026-09:25 00 pm",
+    "multipleTimeRun": "On",
+    "multipleTime": "(04-11-2026-10:30 00 pm)",
+    "Title": "Rennes 🆚 Olympiacos । Watch on SonyLIV",
+    "Subtitle": "🏆 UEFA ⚽ EUROPA LEAGUE 2026/27 | Select 🅻🅸🆅🅴 🆂🅿️🅾️🆁🆃🆂 Button, Share Our Apps With Your Friends & Family.",
     "Image": "https://raw.githubusercontent.com/samnite2290/img/gh-pages/Country/SawaridSports450300.png"
   },
   {
     "Date & Time": "04-11-2026-11:40 00 pm",
     "multipleTimeRun": "On",
     "multipleTime": "(05-11-2026-12:45 00 am)",
-    "Title": "AEK Athens 🆚 Real Madrid । Watch on SonyLIV / Tapmad",
-    "Subtitle": "🏆 UEFA ⚽ CHAMPIONS LEAGUE 2026/27 | Select 🅻🅸🆅🅴 🆂🅿🅾🆁🆃🆂 Button, Share Our Apps With Your Friends & Family.",
+    "Title": "AEK Athens 🆚 Real Madrid । Watch on SonyLIV",
+    "Subtitle": "🏆 UEFA ⚽ CHAMPIONS LEAGUE 2026/27 | Select 🅻🅸🆅🅴 🆂🅿️🅾️🆁🆃🆂 Button, Share Our Apps With Your Friends & Family.",
     "Image": "https://raw.githubusercontent.com/samnite2290/img/gh-pages/Country/SawaridSports450300.png"
   },
   {
     "Date & Time": "04-11-2026-11:40 00 pm",
     "multipleTimeRun": "On",
     "multipleTime": "(05-11-2026-12:45 00 am)",
-    "Title": "Fenerbahçe 🆚 Liverpool । Watch on SonyLIV / Tapmad",
-    "Subtitle": "🏆 UEFA ⚽ CHAMPIONS LEAGUE 2026/27 | Select 🅻🅸🆅🅴 🆂🅿🅾🆁🆃🆂 Button, Share Our Apps With Your Friends & Family.",
+    "Title": "Fenerbahçe 🆚 Liverpool । Watch on SonyLIV",
+    "Subtitle": "🏆 UEFA ⚽ CHAMPIONS LEAGUE 2026/27 | Select 🅻🅸🆅🅴 🆂🅿️🅾️🆁🆃🆂 Button, Share Our Apps With Your Friends & Family.",
+    "Image": "https://raw.githubusercontent.com/samnite2290/img/gh-pages/Country/SawaridSports450300.png"
+  },
+  {
+    "Date & Time": "04-11-2026-11:55 00 pm",
+    "multipleTimeRun": "Off",
+    "multipleTime": "(05-11-2026-01:40 00 am)",
+    "Title": "West Indies A 🆚 England Lions । Watch on FanCode",
+    "Subtitle": "🏏 ENGLAND LIONS TOUR OF WEST INDIES 2026 - T20 | Select 🅻🅸🆅🅴 🆂🅿️🅾️🆁🆃🆂 Button, Share Our Apps With Your Friends & Family.",
+    "Image": "https://raw.githubusercontent.com/samnite2290/img/gh-pages/Country/SawaridSports450300.png"
+  },
+  {
+    "Date & Time": "05-11-2026-01:55 00 am",
+    "multipleTimeRun": "On",
+    "multipleTime": "(05-11-2026-03:00 00 am)",
+    "Title": "Borussia Dortmund 🆚 Real Betis । Watch on SonyLIV",
+    "Subtitle": "🏆 UEFA ⚽ CHAMPIONS LEAGUE 2026/27 | Select 🅻🅸🆅🅴 🆂🅿️🅾️🆁🆃🆂 Button, Share Our Apps With Your Friends & Family.",
+    "Image": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027846/1793366379756665_dortmund_VS_betis_landscape_thumbnail.jpg"
+  },
+  {
+    "Date & Time": "05-11-2026-01:55 00 am",
+    "multipleTimeRun": "On",
+    "multipleTime": "(05-11-2026-03:00 00 am)",
+    "Title": "Porto 🆚 Napoli । Watch on SonyLIV",
+    "Subtitle": "🏆 UEFA ⚽ CHAMPIONS LEAGUE 2026/27 | Select 🅻🅸🆅🅴 🆂🅿️🅾️🆁🆃🆂 Button, Share Our Apps With Your Friends & Family.",
+    "Image": "https://raw.githubusercontent.com/samnite2290/img/gh-pages/Country/SawaridSports450300.png"
+  },
+  {
+    "Date & Time": "05-11-2026-01:55 00 am",
+    "multipleTimeRun": "On",
+    "multipleTime": "(05-11-2026-03:00 00 am)",
+    "Title": "PSV Eindhoven 🆚 Club Brugge । Watch on SonyLIV",
+    "Subtitle": "🏆 UEFA ⚽ CHAMPIONS LEAGUE 2026/27 | Select 🅻🅸🆅🅴 🆂🅿️🅾️🆁🆃🆂 Button, Share Our Apps With Your Friends & Family.",
+    "Image": "https://raw.githubusercontent.com/samnite2290/img/gh-pages/Country/SawaridSports450300.png"
+  },
+  {
+    "Date & Time": "05-11-2026-01:55 00 am",
+    "multipleTimeRun": "On",
+    "multipleTime": "(05-11-2026-03:00 00 am)",
+    "Title": "RB Leipzig 🆚 Manchester City । Watch on SonyLIV",
+    "Subtitle": "🏆 UEFA ⚽ CHAMPIONS LEAGUE 2026/27 | Select 🅻🅸🆅🅴 🆂🅿️🅾️🆁🆃🆂 Button, Share Our Apps With Your Friends & Family.",
+    "Image": "https://raw.githubusercontent.com/samnite2290/img/gh-pages/Country/SawaridSports450300.png"
+  },
+  {
+    "Date & Time": "05-11-2026-01:55 00 am",
+    "multipleTimeRun": "On",
+    "multipleTime": "(05-11-2026-03:00 00 am)",
+    "Title": "Lens 🆚 Como । Watch on SonyLIV",
+    "Subtitle": "🏆 UEFA ⚽ CHAMPIONS LEAGUE 2026/27 | Select 🅻🅸🆅🅴 🆂🅿️🅾️🆁🆃🆂 Button, Share Our Apps With Your Friends & Family.",
+    "Image": "https://raw.githubusercontent.com/samnite2290/img/gh-pages/Country/SawaridSports450300.png"
+  },
+  {
+    "Date & Time": "05-11-2026-01:55 00 am",
+    "multipleTimeRun": "On",
+    "multipleTime": "(05-11-2026-03:00 00 am)",
+    "Title": "Slavia Praha 🆚 Arsenal । Watch on SonyLIV",
+    "Subtitle": "🏆 UEFA ⚽ CHAMPIONS LEAGUE 2026/27 | Select 🅻🅸🆅🅴 🆂🅿️🅾️🆁🆃🆂 Button, Share Our Apps With Your Friends & Family.",
+    "Image": "https://raw.githubusercontent.com/samnite2290/img/gh-pages/Country/SawaridSports450300.png"
+  },
+  {
+    "Date & Time": "05-11-2026-01:55 00 am",
+    "multipleTimeRun": "On",
+    "multipleTime": "(05-11-2026-03:00 00 am)",
+    "Title": "Viking 🆚 Sabah । Watch on SonyLIV",
+    "Subtitle": "🏆 UEFA ⚽ CHAMPIONS LEAGUE 2026/27 | Select 🅻🅸🆅🅴 🆂🅿️🅾️🆁🆃🆂 Button, Share Our Apps With Your Friends & Family.",
+    "Image": "https://raw.githubusercontent.com/samnite2290/img/gh-pages/Country/SawaridSports450300.png"
+  },
+  {
+    "Date & Time": "05-11-2026-09:25 00 am",
+    "multipleTimeRun": "On",
+    "multipleTime": "(05-11-2026-12:10 00 pm)",
+    "Title": "Bangladesh 🆚 West Indies । Watch on T Sports",
+    "Subtitle": "🏆 ICC WORLD TEST CHAMPIONSHIP 2025-27 | 2ND TEST | Select 🅻🅸🆅🅴 🆂🅿️🅾️🆁🆃🆂 Button, Share Our Apps With Your Friends & Family.",
+    "Image": "https://raw.githubusercontent.com/samnite2290/img/gh-pages/Country/SawaridSports450300.png"
+  },
+  {
+    "Date & Time": "05-11-2026-10:55 00 am",
+    "multipleTimeRun": "On",
+    "multipleTime": "(05-11-2026-02:10 00 pm)",
+    "Title": "Afghanistan 🆚 Zimbabwe । Watch on FanCode",
+    "Subtitle": "🏏 AFGHANISTAN AND ZIMBABWE 🏏 TEST SERIES 2026 | 1ST TEST | Select 🅻🅸🆅🅴 🆂🅿️🅾️🆁🆃🆂 Button, Share Our Apps With Your Friends & Family.",
+    "Image": "https://raw.githubusercontent.com/samnite2290/img/gh-pages/Country/SawaridSports450300.png"
+  },
+  {
+    "Date & Time": "05-11-2026-10:35 00 am",
+    "multipleTimeRun": "Off",
+    "multipleTime": "(05-11-2026-12:20 00 pm)",
+    "Title": "Adelaide Strikers Women 🆚 Brisbane Heat Women",
+    "Subtitle": "🏏 AUSTRALIA WOMEN'S BIG BASH LEAGUE 2026/27 | Select 🅻🅸🆅🅴 🆂🅿️🅾️🆁🆃🆂 Button, Share Our Apps With Your Friends & Family.",
+    "Image": "https://raw.githubusercontent.com/samnite2290/img/gh-pages/Country/SawaridSports450300.png"
+  },
+  {
+    "Date & Time": "05-11-2026-10:55 00 am",
+    "multipleTimeRun": "Off",
+    "multipleTime": "(05-11-2026-02:25 00 pm)",
+    "Title": "Sri Lanka Under-19 🆚 Malaysia Under-19",
+    "Subtitle": "🏆 ACC MEN'S U19 ASIA CUP 2026 | ONE DAY | Select 🅻🅸🆅🅴 🆂🅿️🅾️🆁🆃🆂 Button, Share Our Apps With Your Friends & Family.",
+    "Image": "https://raw.githubusercontent.com/samnite2290/img/gh-pages/Country/SawaridSports450300.png"
+  },
+  {
+    "Date & Time": "05-11-2026-10:55 00 am",
+    "multipleTimeRun": "On",
+    "multipleTime": "(05-11-2026-02:25 00 pm)",
+    "Title": "Bangladesh Under-19 🆚 Afghanistan Under-19 । Watch on SonyLIV",
+    "Subtitle": "🏆 ACC MEN'S U19 ASIA CUP 2026 | ONE DAY | Select 🅻🅸🆅🅴 🆂🅿️🅾️🆁🆃🆂 Button, Share Our Apps With Your Friends & Family.",
+    "Image": "https://raw.githubusercontent.com/samnite2290/img/gh-pages/Country/SawaridSports450300.png"
+  },
+  {
+    "Date & Time": "05-11-2026-12:40 00 pm",
+    "multipleTimeRun": "Off",
+    "multipleTime": "(05-11-2026-02:20 00 pm)",
+    "Title": "Lumbini Lions 🆚 Janakpur Bolts",
+    "Subtitle": "🏆 NEPAL 🏏 PREMIER LEAGUE 2026 | Select 🅻🅸🆅🅴 🆂🅿️🅾️🆁🆃🆂 Button, Share Our Apps With Your Friends & Family.",
+    "Image": "https://raw.githubusercontent.com/samnite2290/img/gh-pages/Country/SawaridSports450300.png"
+  },
+  {
+    "Date & Time": "05-11-2026-02:05 00 pm",
+    "multipleTimeRun": "Off",
+    "multipleTime": "(05-11-2026-03:50 00 pm)",
+    "Title": "Sydney Thunder Women 🆚 Perth Scorchers Women",
+    "Subtitle": "🏏 AUSTRALIA WOMEN'S BIG BASH LEAGUE 2026/27 | Select 🅻🅸🆅🅴 🆂🅿️🅾️🆁🆃🆂 Button, Share Our Apps With Your Friends & Family.",
+    "Image": "https://raw.githubusercontent.com/samnite2290/img/gh-pages/Country/SawaridSports450300.png"
+  },
+  {
+    "Date & Time": "05-11-2026-03:55 00 pm",
+    "multipleTimeRun": "Off",
+    "multipleTime": "(05-11-2026-05:00 00 pm)",
+    "Title": "Lion City Sailors 🆚 Adelaide United",
+    "Subtitle": "🏆 AFC ⚽ CHAMPIONS LEAGUE TWO 2026/27 | Select 🅻🅸🆅🅴 🆂🅿️🅾️🆁🆃🆂 Button, Share Our Apps With Your Friends & Family.",
+    "Image": "https://raw.githubusercontent.com/samnite2290/img/gh-pages/Country/SawaridSports450300.png"
+  },
+  {
+    "Date & Time": "05-11-2026-03:55 00 pm",
+    "multipleTimeRun": "Off",
+    "multipleTime": "(05-11-2026-05:00 00 pm)",
+    "Title": "FC Machida Zelvia 🆚 Shanghai Shenhua",
+    "Subtitle": "🏆 AFC ⚽ CHAMPIONS LEAGUE TWO 2026/27 | Select 🅻🅸🆅🅴 🆂🅿️🅾️🆁🆃🆂 Button, Share Our Apps With Your Friends & Family.",
+    "Image": "https://raw.githubusercontent.com/samnite2290/img/gh-pages/Country/SawaridSports450300.png"
+  },
+  {
+    "Date & Time": "05-11-2026-03:55 00 pm",
+    "multipleTimeRun": "Off",
+    "multipleTime": "(05-11-2026-05:00 00 pm)",
+    "Title": "Kitchee 🆚 Phnom Penh Crown",
+    "Subtitle": "🏆 AFC ⚽ CHAMPIONS LEAGUE TWO 2026/27 | Select 🅻🅸🆅🅴 🆂🅿️🅾️🆁🆃🆂 Button, Share Our Apps With Your Friends & Family.",
+    "Image": "https://raw.githubusercontent.com/samnite2290/img/gh-pages/Country/SawaridSports450300.png"
+  },
+  {
+    "Date & Time": "05-11-2026-05:10 00 pm",
+    "multipleTimeRun": "Off",
+    "multipleTime": "(05-11-2026-06:20 00 pm)",
+    "Title": "Kathmandu Gorkhas 🆚 Biratnagar Kings",
+    "Subtitle": "🏆 NEPAL 🏏 PREMIER LEAGUE 2026 | Select 🅻🅸🆅🅴 🆂🅿️🅾️🆁🆃🆂 Button, Share Our Apps With Your Friends & Family.",
+    "Image": "https://raw.githubusercontent.com/samnite2290/img/gh-pages/Country/SawaridSports450300.png"
+  },
+  {
+    "Date & Time": "05-11-2026-06:15 00 pm",
+    "multipleTimeRun": "Off",
+    "multipleTime": "(05-11-2026-07:15 00 pm)",
+    "Title": "BG Pathum United 🆚 Wofoo Tai Po",
+    "Subtitle": "🏆 AFC ⚽ CHAMPIONS LEAGUE TWO 2026/27 | Select 🅻🅸🆅🅴 🆂🅿️🅾️🆁🆃🆂 Button, Share Our Apps With Your Friends & Family.",
+    "Image": "https://raw.githubusercontent.com/samnite2290/img/gh-pages/Country/SawaridSports450300.png"
+  },
+  {
+    "Date & Time": "05-11-2026-06:15 00 pm",
+    "multipleTimeRun": "Off",
+    "multipleTime": "(05-11-2026-07:15 00 pm)",
+    "Title": "Preah Khan Reach Svay Rieng 🆚 Tampines Rovers",
+    "Subtitle": "🏆 AFC ⚽ CHAMPIONS LEAGUE TWO 2026/27 | Select 🅻🅸🆅🅴 🆂🅿️🅾️🆁🆃🆂 Button, Share Our Apps With Your Friends & Family.",
+    "Image": "https://raw.githubusercontent.com/samnite2290/img/gh-pages/Country/SawaridSports450300.png"
+  },
+  {
+    "Date & Time": "05-11-2026-06:15 00 pm",
+    "multipleTimeRun": "Off",
+    "multipleTime": "(05-11-2026-07:15 00 pm)",
+    "Title": "Kuching City FC 🆚 Gangwon FC",
+    "Subtitle": "🏆 AFC ⚽ CHAMPIONS LEAGUE TWO 2026/27 | Select 🅻🅸🆅🅴 🆂🅿️🅾️🆁🆃🆂 Button, Share Our Apps With Your Friends & Family.",
+    "Image": "https://raw.githubusercontent.com/samnite2290/img/gh-pages/Country/SawaridSports450300.png"
+  },
+  {
+    "Date & Time": "05-11-2026-11:40 00 pm",
+    "multipleTimeRun": "Off",
+    "multipleTime": "(06-11-2026-12:45 00 am)",
+    "Title": "AC Milan 🆚 Ferencváros । Watch on SonyLIV",
+    "Subtitle": "🏆 UEFA ⚽ EUROPA LEAGUE 2026/27 | Select 🅻🅸🆅🅴 🆂🅿️🅾️🆁🆃🆂 Button, Share Our Apps With Your Friends & Family.",
+    "Image": "https://raw.githubusercontent.com/samnite2290/img/gh-pages/Country/SawaridSports450300.png"
+  },
+  {
+    "Date & Time": "05-11-2026-11:40 00 pm",
+    "multipleTimeRun": "Off",
+    "multipleTime": "(06-11-2026-12:45 00 am)",
+    "Title": "Sparta Praha 🆚 Bournemouth । Watch on SonyLIV",
+    "Subtitle": "🏆 UEFA ⚽ EUROPA LEAGUE 2026/27 | Select 🅻🅸🆅🅴 🆂🅿️🅾️🆁🆃🆂 Button, Share Our Apps With Your Friends & Family.",
+    "Image": "https://raw.githubusercontent.com/samnite2290/img/gh-pages/Country/SawaridSports450300.png"
+  },
+  {
+    "Date & Time": "05-11-2026-11:40 00 pm",
+    "multipleTimeRun": "Off",
+    "multipleTime": "(06-11-2026-12:45 00 am)",
+    "Title": "Crystal Palace 🆚 Hoffenheim । Watch on SonyLIV",
+    "Subtitle": "🏆 UEFA ⚽ EUROPA LEAGUE 2026/27 | Select 🅻🅸🆅🅴 🆂🅿️🅾️🆁🆃🆂 Button, Share Our Apps With Your Friends & Family.",
+    "Image": "https://raw.githubusercontent.com/samnite2290/img/gh-pages/Country/SawaridSports450300.png"
+  },
+  {
+    "Date & Time": "05-11-2026-11:40 00 pm",
+    "multipleTimeRun": "Off",
+    "multipleTime": "(06-11-2026-12:45 00 am)",
+    "Title": "Lillestrøm 🆚 Viktoria Plzeň । Watch on SonyLIV",
+    "Subtitle": "🏆 UEFA ⚽ EUROPA LEAGUE 2026/27 | Select 🅻🅸🆅🅴 🆂🅿️🅾️🆁🆃🆂 Button, Share Our Apps With Your Friends & Family.",
+    "Image": "https://raw.githubusercontent.com/samnite2290/img/gh-pages/Country/SawaridSports450300.png"
+  },
+  {
+    "Date & Time": "05-11-2026-11:40 00 pm",
+    "multipleTimeRun": "Off",
+    "multipleTime": "(06-11-2026-12:45 00 am)",
+    "Title": "N.E.C. Nijmegen 🆚 Omonia । Watch on SonyLIV",
+    "Subtitle": "🏆 UEFA ⚽ EUROPA LEAGUE 2026/27 | Select 🅻🅸🆅🅴 🆂🅿️🅾️🆁🆃🆂 Button, Share Our Apps With Your Friends & Family.",
+    "Image": "https://raw.githubusercontent.com/samnite2290/img/gh-pages/Country/SawaridSports450300.png"
+  },
+  {
+    "Date & Time": "05-11-2026-11:40 00 pm",
+    "multipleTimeRun": "Off",
+    "multipleTime": "(06-11-2026-12:45 00 am)",
+    "Title": "Levski Sofia 🆚 Jagiellonia Białystok । Watch on SonyLIV",
+    "Subtitle": "🏆 UEFA ⚽ EUROPA LEAGUE 2026/27 | Select 🅻🅸🆅🅴 🆂🅿️🅾️🆁🆃🆂 Button, Share Our Apps With Your Friends & Family.",
+    "Image": "https://raw.githubusercontent.com/samnite2290/img/gh-pages/Country/SawaridSports450300.png"
+  },
+  {
+    "Date & Time": "05-11-2026-11:40 00 pm",
+    "multipleTimeRun": "Off",
+    "multipleTime": "(06-11-2026-12:45 00 am)",
+    "Title": "Real Sociedad 🆚 Lyon । Watch on SonyLIV",
+    "Subtitle": "🏆 UEFA ⚽ EUROPA LEAGUE 2026/27 | Select 🅻🅸🆅🅴 🆂🅿️🅾️🆁🆃🆂 Button, Share Our Apps With Your Friends & Family.",
+    "Image": "https://raw.githubusercontent.com/samnite2290/img/gh-pages/Country/SawaridSports450300.png"
+  },
+  {
+    "Date & Time": "05-11-2026-11:40 00 pm",
+    "multipleTimeRun": "Off",
+    "multipleTime": "(06-11-2026-12:45 00 am)",
+    "Title": "Anderlecht 🆚 Salzburg । Watch on SonyLIV",
+    "Subtitle": "🏆 UEFA ⚽ EUROPA LEAGUE 2026/27 | Select 🅻🅸🆅🅴 🆂🅿️🅾️🆁🆃🆂 Button, Share Our Apps With Your Friends & Family.",
+    "Image": "https://raw.githubusercontent.com/samnite2290/img/gh-pages/Country/SawaridSports450300.png"
+  },
+  {
+    "Date & Time": "05-11-2026-11:40 00 pm",
+    "multipleTimeRun": "Off",
+    "multipleTime": "(06-11-2026-12:45 00 am)",
+    "Title": "Aarhus 🆚 Braga",
+    "Subtitle": "🏆 UEFA ⚽ CONFERENCE LEAGUE 2026/27 | Select 🅻🅸🆅🅴 🆂🅿️🅾️🆁🆃🆂 Button, Share Our Apps With Your Friends & Family.",
+    "Image": "https://raw.githubusercontent.com/samnite2290/img/gh-pages/Country/SawaridSports450300.png"
+  },
+  {
+    "Date & Time": "05-11-2026-11:40 00 pm",
+    "multipleTimeRun": "Off",
+    "multipleTime": "(06-11-2026-12:45 00 am)",
+    "Title": "Atalanta 🆚 Kairat Almaty",
+    "Subtitle": "🏆 UEFA ⚽ CONFERENCE LEAGUE 2026/27 | Select 🅻🅸🆅🅴 🆂🅿️🅾️🆁🆃🆂 Button, Share Our Apps With Your Friends & Family.",
+    "Image": "https://raw.githubusercontent.com/samnite2290/img/gh-pages/Country/SawaridSports450300.png"
+  },
+  {
+    "Date & Time": "05-11-2026-11:40 00 pm",
+    "multipleTimeRun": "Off",
+    "multipleTime": "(06-11-2026-12:45 00 am)",
+    "Title": "Midtjylland 🆚 Ajax",
+    "Subtitle": "🏆 UEFA ⚽ CONFERENCE LEAGUE 2026/27 | Select 🅻🅸🆅🅴 🆂🅿️🅾️🆁🆃🆂 Button, Share Our Apps With Your Friends & Family.",
+    "Image": "https://raw.githubusercontent.com/samnite2290/img/gh-pages/Country/SawaridSports450300.png"
+  },
+  {
+    "Date & Time": "05-11-2026-11:40 00 pm",
+    "multipleTimeRun": "Off",
+    "multipleTime": "(06-11-2026-12:45 00 am)",
+    "Title": "Thun 🆚 Hearts",
+    "Subtitle": "🏆 UEFA ⚽ CONFERENCE LEAGUE 2026/27 | Select 🅻🅸🆅🅴 🆂🅿️🅾️🆁🆃🆂 Button, Share Our Apps With Your Friends & Family.",
+    "Image": "https://raw.githubusercontent.com/samnite2290/img/gh-pages/Country/SawaridSports450300.png"
+  },
+  {
+    "Date & Time": "05-11-2026-11:40 00 pm",
+    "multipleTimeRun": "Off",
+    "multipleTime": "(06-11-2026-12:45 00 am)",
+    "Title": "Crvena Zvezda 🆚 Inter Escaldes",
+    "Subtitle": "🏆 UEFA ⚽ CONFERENCE LEAGUE 2026/27 | Select 🅻🅸🆅🅴 🆂🅿️🅾️🆁🆃🆂 Button, Share Our Apps With Your Friends & Family.",
+    "Image": "https://raw.githubusercontent.com/samnite2290/img/gh-pages/Country/SawaridSports450300.png"
+  },
+  {
+    "Date & Time": "05-11-2026-11:40 00 pm",
+    "multipleTimeRun": "Off",
+    "multipleTime": "(06-11-2026-12:45 00 am)",
+    "Title": "KuPS Kuopio 🆚 Gent",
+    "Subtitle": "🏆 UEFA ⚽ CONFERENCE LEAGUE 2026/27 | Select 🅻🅸🆅🅴 🆂🅿️🅾️🆁🆃🆂 Button, Share Our Apps With Your Friends & Family.",
+    "Image": "https://raw.githubusercontent.com/samnite2290/img/gh-pages/Country/SawaridSports450300.png"
+  },
+  {
+    "Date & Time": "05-11-2026-11:40 00 pm",
+    "multipleTimeRun": "Off",
+    "multipleTime": "(06-11-2026-12:45 00 am)",
+    "Title": "Lincoln Red Imps 🆚 Hajduk Split",
+    "Subtitle": "🏆 UEFA ⚽ CONFERENCE LEAGUE 2026/27 | Select 🅻🅸🆅🅴 🆂🅿️🅾️🆁🆃🆂 Button, Share Our Apps With Your Friends & Family.",
+    "Image": "https://raw.githubusercontent.com/samnite2290/img/gh-pages/Country/SawaridSports450300.png"
+  },
+  {
+    "Date & Time": "05-11-2026-11:40 00 pm",
+    "multipleTimeRun": "Off",
+    "multipleTime": "(06-11-2026-12:45 00 am)",
+    "Title": "Mjällby 🆚 Borac",
+    "Subtitle": "🏆 UEFA ⚽ CONFERENCE LEAGUE 2026/27 | Select 🅻🅸🆅🅴 🆂🅿️🅾️🆁🆃🆂 Button, Share Our Apps With Your Friends & Family.",
+    "Image": "https://raw.githubusercontent.com/samnite2290/img/gh-pages/Country/SawaridSports450300.png"
+  },
+  {
+    "Date & Time": "05-11-2026-11:40 00 pm",
+    "multipleTimeRun": "Off",
+    "multipleTime": "(06-11-2026-12:45 00 am)",
+    "Title": "Trabzonspor 🆚 Freiburg",
+    "Subtitle": "🏆 UEFA ⚽ CONFERENCE LEAGUE 2026/27 | Select 🅻🅸🆅🅴 🆂🅿️🅾️🆁🆃🆂 Button, Share Our Apps With Your Friends & Family.",
+    "Image": "https://raw.githubusercontent.com/samnite2290/img/gh-pages/Country/SawaridSports450300.png"
+  },
+
+
+
+
+
+
+
+
+
+
+  
+  {
+    "Date & Time": "06-11-2026-01:55 00 am",
+    "multipleTimeRun": "On",
+    "multipleTime": "(06-11-2026-03:00 00 am)",
+    "Title": "AZ Alkmaar 🆚 Juventus । Watch on SonyLIV",
+    "Subtitle": "🏆 UEFA ⚽ EUROPA LEAGUE 2026/27 | Select 🅻🅸🆅🅴 🆂🅿️🅾️🆁🆃🆂 Button, Share Our Apps With Your Friends & Family.",
+    "Image": "https://raw.githubusercontent.com/samnite2290/img/gh-pages/Country/SawaridSports450300.png"
+  },
+  {
+    "Date & Time": "06-11-2026-01:55 00 am",
+    "multipleTimeRun": "On",
+    "multipleTime": "(06-11-2026-03:00 00 am)",
+    "Title": "Bayer Leverkusen 🆚 Marseille । Watch on SonyLIV",
+    "Subtitle": "🏆 UEFA ⚽ EUROPA LEAGUE 2026/27 | Select 🅻🅸🆅🅴 🆂🅿️🅾️🆁🆃🆂 Button, Share Our Apps With Your Friends & Family.",
+    "Image": "https://raw.githubusercontent.com/samnite2290/img/gh-pages/Country/SawaridSports450300.png"
+  },
+  {
+    "Date & Time": "06-11-2026-01:55 00 am",
+    "multipleTimeRun": "On",
+    "multipleTime": "(06-11-2026-03:00 00 am)",
+    "Title": "Celtic 🆚 Beşiktaş । Watch on SonyLIV",
+    "Subtitle": "🏆 UEFA ⚽ EUROPA LEAGUE 2026/27 | Select 🅻🅸🆅🅴 🆂🅿️🅾️🆁🆃🆂 Button, Share Our Apps With Your Friends & Family.",
+    "Image": "https://raw.githubusercontent.com/samnite2290/img/gh-pages/Country/SawaridSports450300.png"
+  },
+  {
+    "Date & Time": "06-11-2026-01:55 00 am",
+    "multipleTimeRun": "Off",
+    "multipleTime": "(06-11-2026-03:00 00 am)",
+    "Title": "Hapoel Beer-Sheva 🆚 OFI Crete । Watch on SonyLIV",
+    "Subtitle": "🏆 UEFA ⚽ EUROPA LEAGUE 2026/27 | Select 🅻🅸🆅🅴 🆂🅿️🅾️🆁🆃🆂 Button, Share Our Apps With Your Friends & Family.",
+    "Image": "https://raw.githubusercontent.com/samnite2290/img/gh-pages/Country/SawaridSports450300.png"
+  },
+  {
+    "Date & Time": "06-11-2026-01:55 00 am",
+    "multipleTimeRun": "Off",
+    "multipleTime": "(06-11-2026-03:00 00 am)",
+    "Title": "Celta Vigo 🆚 Union Saint-Gilloise । Watch on SonyLIV",
+    "Subtitle": "🏆 UEFA ⚽ EUROPA LEAGUE 2026/27 | Select 🅻🅸🆅🅴 🆂🅿️🅾️🆁🆃🆂 Button, Share Our Apps With Your Friends & Family.",
+    "Image": "https://raw.githubusercontent.com/samnite2290/img/gh-pages/Country/SawaridSports450300.png"
+  },
+  {
+    "Date & Time": "06-11-2026-01:55 00 am",
+    "multipleTimeRun": "Off",
+    "multipleTime": "(06-11-2026-03:00 00 am)",
+    "Title": "Torreense 🆚 Ararat-Armenia । Watch on SonyLIV",
+    "Subtitle": "🏆 UEFA ⚽ EUROPA LEAGUE 2026/27 | Select 🅻🅸🆅🅴 🆂🅿️🅾️🆁🆃🆂 Button, Share Our Apps With Your Friends & Family.",
+    "Image": "https://raw.githubusercontent.com/samnite2290/img/gh-pages/Country/SawaridSports450300.png"
+  },
+  {
+    "Date & Time": "06-11-2026-01:55 00 am",
+    "multipleTimeRun": "Off",
+    "multipleTime": "(06-11-2026-03:00 00 am)",
+    "Title": "Sturm Graz 🆚 Celje । Watch on SonyLIV",
+    "Subtitle": "🏆 UEFA ⚽ EUROPA LEAGUE 2026/27 | Select 🅻🅸🆅🅴 🆂🅿️🅾️🆁🆃🆂 Button, Share Our Apps With Your Friends & Family.",
+    "Image": "https://raw.githubusercontent.com/samnite2290/img/gh-pages/Country/SawaridSports450300.png"
+  },
+  {
+    "Date & Time": "06-11-2026-01:55 00 am",
+    "multipleTimeRun": "Off",
+    "multipleTime": "(06-11-2026-03:00 00 am)",
+    "Title": "Benfica 🆚 Lech Poznań । Watch on SonyLIV",
+    "Subtitle": "🏆 UEFA ⚽ EUROPA LEAGUE 2026/27 | Select 🅻🅸🆅🅴 🆂🅿️🅾️🆁🆃🆂 Button, Share Our Apps With Your Friends & Family.",
+    "Image": "https://raw.githubusercontent.com/samnite2290/img/gh-pages/Country/SawaridSports450300.png"
+  },
+  {
+    "Date & Time": "06-11-2026-01:55 00 am",
+    "multipleTimeRun": "Off",
+    "multipleTime": "(06-11-2026-03:00 00 am)",
+    "Title": "Sunderland 🆚 Dinamo Zagreb । Watch on SonyLIV",
+    "Subtitle": "🏆 UEFA ⚽ EUROPA LEAGUE 2026/27 | Select 🅻🅸🆅🅴 🆂🅿️🅾️🆁🆃🆂 Button, Share Our Apps With Your Friends & Family.",
+    "Image": "https://raw.githubusercontent.com/samnite2290/img/gh-pages/Country/SawaridSports450300.png"
+  },
+  {
+    "Date & Time": "06-11-2026-01:55 00 am",
+    "multipleTimeRun": "Off",
+    "multipleTime": "(06-11-2026-03:00 00 am)",
+    "Title": "Monaco 🆚 Nordsjælland",
+    "Subtitle": "🏆 UEFA ⚽ CONFERENCE LEAGUE 2026/27 | Select 🅻🅸🆅🅴 🆂🅿️🅾️🆁🆃🆂 Button, Share Our Apps With Your Friends & Family.",
+    "Image": "https://raw.githubusercontent.com/samnite2290/img/gh-pages/Country/SawaridSports450300.png"
+  },
+  {
+    "Date & Time": "06-11-2026-01:55 00 am",
+    "multipleTimeRun": "Off",
+    "multipleTime": "(06-11-2026-03:00 00 am)",
+    "Title": "Copenhagen 🆚 Iberia Tbilisi",
+    "Subtitle": "🏆 UEFA ⚽ CONFERENCE LEAGUE 2026/27 | Select 🅻🅸🆅🅴 🆂🅿️🅾️🆁🆃🆂 Button, Share Our Apps With Your Friends & Family.",
+    "Image": "https://raw.githubusercontent.com/samnite2290/img/gh-pages/Country/SawaridSports450300.png"
+  },
+  {
+    "Date & Time": "06-11-2026-01:55 00 am",
+    "multipleTimeRun": "Off",
+    "multipleTime": "(06-11-2026-03:00 00 am)",
+    "Title": "Lugano 🆚 Kauno Žalgiris",
+    "Subtitle": "🏆 UEFA ⚽ CONFERENCE LEAGUE 2026/27 | Select 🅻🅸🆅🅴 🆂🅿️🅾️🆁🆃🆂 Button, Share Our Apps With Your Friends & Family.",
+    "Image": "https://raw.githubusercontent.com/samnite2290/img/gh-pages/Country/SawaridSports450300.png"
+  },
+  {
+    "Date & Time": "06-11-2026-01:55 00 am",
+    "multipleTimeRun": "Off",
+    "multipleTime": "(06-11-2026-03:00 00 am)",
+    "Title": "Twente 🆚 Pafos",
+    "Subtitle": "🏆 UEFA ⚽ CONFERENCE LEAGUE 2026/27 | Select 🅻🅸🆅🅴 🆂🅿️🅾️🆁🆃🆂 Button, Share Our Apps With Your Friends & Family.",
+    "Image": "https://raw.githubusercontent.com/samnite2290/img/gh-pages/Country/SawaridSports450300.png"
+  },
+  {
+    "Date & Time": "06-11-2026-01:55 00 am",
+    "multipleTimeRun": "Off",
+    "multipleTime": "(06-11-2026-03:00 00 am)",
+    "Title": "Getafe 🆚 Brighton",
+    "Subtitle": "🏆 UEFA ⚽ CONFERENCE LEAGUE 2026/27 | Select 🅻🅸🆅🅴 🆂🅿️🅾️🆁🆃🆂 Button, Share Our Apps With Your Friends & Family.",
+    "Image": "https://raw.githubusercontent.com/samnite2290/img/gh-pages/Country/SawaridSports450300.png"
+  },
+  {
+    "Date & Time": "06-11-2026-01:55 00 am",
+    "multipleTimeRun": "Off",
+    "multipleTime": "(06-11-2026-03:00 00 am)",
+    "Title": "Sint-Truidense 🆚 Brann",
+    "Subtitle": "🏆 UEFA ⚽ CONFERENCE LEAGUE 2026/27 | Select 🅻🅸🆅🅴 🆂🅿️🅾️🆁🆃🆂 Button, Share Our Apps With Your Friends & Family.",
+    "Image": "https://raw.githubusercontent.com/samnite2290/img/gh-pages/Country/SawaridSports450300.png"
+  },
+  {
+    "Date & Time": "06-11-2026-01:55 00 am",
+    "multipleTimeRun": "Off",
+    "multipleTime": "(06-11-2026-03:00 00 am)",
+    "Title": "Panathinaikos 🆚 CSKA Sofia",
+    "Subtitle": "🏆 UEFA ⚽ CONFERENCE LEAGUE 2026/27 | Select 🅻🅸🆅🅴 🆂🅿️🅾️🆁🆃🆂 Button, Share Our Apps With Your Friends & Family.",
+    "Image": "https://raw.githubusercontent.com/samnite2290/img/gh-pages/Country/SawaridSports450300.png"
+  },
+  {
+    "Date & Time": "06-11-2026-01:55 00 am",
+    "multipleTimeRun": "Off",
+    "multipleTime": "(06-11-2026-03:00 00 am)",
+    "Title": "Riga 🆚 Jablonec",
+    "Subtitle": "🏆 UEFA ⚽ CONFERENCE LEAGUE 2026/27 | Select 🅻🅸🆅🅴 🆂🅿️🅾️🆁🆃🆂 Button, Share Our Apps With Your Friends & Family.",
+    "Image": "https://raw.githubusercontent.com/samnite2290/img/gh-pages/Country/SawaridSports450300.png"
+  },
+  {
+    "Date & Time": "06-11-2026-01:55 00 am",
+    "multipleTimeRun": "Off",
+    "multipleTime": "(06-11-2026-03:00 00 am)",
+    "Title": "Universitatea Craiova 🆚 Egnatia",
+    "Subtitle": "🏆 UEFA ⚽ CONFERENCE LEAGUE 2026/27 | Select 🅻🅸🆅🅴 🆂🅿️🅾️🆁🆃🆂 Button, Share Our Apps With Your Friends & Family.",
+    "Image": "https://raw.githubusercontent.com/samnite2290/img/gh-pages/Country/SawaridSports450300.png"
+  },
+  {
+    "Date & Time": "06-11-2026-10:55 00 am",
+    "multipleTimeRun": "Off",
+    "multipleTime": "(06-11-2026-02:50 00 pm)",
+    "Title": "Pakistan Under-19 🆚 United Arab Emirates Under-19 । Watch on SonyLIV",
+    "Subtitle": "🏆 ACC MEN'S U19 ASIA CUP 2026 | ODI CRICKET | Select 🅻🅸🆅🅴 🆂🅿️🅾️🆁🆃🆂 Button, Share Our Apps With Your Friends & Family.",
+    "Image": "https://raw.githubusercontent.com/samnite2290/img/gh-pages/Country/SawaridSports450300.png"
+  },
+  {
+    "Date & Time": "06-11-2026-10:55 00 am",
+    "multipleTimeRun": "On",
+    "multipleTime": "(06-11-2026-02:50 00 pm)",
+    "Title": "India Under-19 🆚 Nepal Under-19 । Watch on SonyLIV",
+    "Subtitle": "🏆 ACC MEN'S U19 ASIA CUP 2026 | ODI CRICKET | Select 🅻🅸🆅🅴 🆂🅿️🅾️🆁🆃🆂 Button, Share Our Apps With Your Friends & Family.",
+    "Image": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028158/1793710937367937_Asia_cup_Ind_vs_nepal_landscape_thumbnail.png"
+  },
+  {
+    "Date & Time": "06-11-2026-12:40 00 pm",
+    "multipleTimeRun": "Off",
+    "multipleTime": "(06-11-2026-02:25 00 pm)",
+    "Title": "Sudurpaschim Royals 🆚 Karnali Yaks",
+    "Subtitle": "🏆 NEPAL 🏏 PREMIER LEAGUE 2026 | T20 CRICKET | Select 🅻🅸🆅🅴 🆂🅿️🅾️🆁🆃🆂 Button, Share Our Apps With Your Friends & Family.",
+    "Image": "https://raw.githubusercontent.com/samnite2290/img/gh-pages/Country/SawaridSports450300.png"
+  },
+  {
+    "Date & Time": "06-11-2026-02:05 00 pm",
+    "multipleTimeRun": "Off",
+    "multipleTime": "(06-11-2026-03:50 00 pm)",
+    "Title": "Melbourne Stars Women 🆚 Sydney Sixers Women",
+    "Subtitle": "🏏 AUSTRALIA WOMEN'S BIG BASH LEAGUE 2026/27 | T20 CRICKET | Select 🅻🅸🆅🅴 🆂🅿️🅾️🆁🆃🆂 Button, Share Our Apps With Your Friends & Family.",
+    "Image": "https://raw.githubusercontent.com/samnite2290/img/gh-pages/Country/SawaridSports450300.png"
+  },
+  {
+    "Date & Time": "06-11-2026-05:10 00 pm",
+    "multipleTimeRun": "Off",
+    "multipleTime": "(06-11-2026-06:55 00 pm)",
+    "Title": "Chitwan Rhinos 🆚 Pokhara Avengers",
+    "Subtitle": "🏆 NEPAL 🏏 PREMIER LEAGUE 2026 | T20 CRICKET | Select 🅻🅸🆅🅴 🆂🅿️🅾️🆁🆃🆂 Button, Share Our Apps With Your Friends & Family.",
+    "Image": "https://raw.githubusercontent.com/samnite2290/img/gh-pages/Country/SawaridSports450300.png"
+  },
+  {
+    "Date & Time": "07-11-2026-01:25 00 am",
+    "multipleTimeRun": "Off",
+    "multipleTime": "(07-11-2026-02:30 00 am)",
+    "Title": "Hamburger SV 🆚 Borussia Mönchengladbach",
+    "Subtitle": "🏆 GERMAN ⚽ BUNDESLIGA 2026/27 | Select 🅻🅸🆅🅴 🆂🅿️🅾️🆁🆃🆂 Button, Share Our Apps With Your Friends & Family.",
+    "Image": "https://raw.githubusercontent.com/samnite2290/img/gh-pages/Country/SawaridSports450300.png"
+  },
+  {
+    "Date & Time": "07-11-2026-01:40 00 am",
+    "multipleTimeRun": "Off",
+    "multipleTime": "(07-11-2026-02:45 00 am)",
+    "Title": "Venezia 🆚 Udinese",
+    "Subtitle": "🏆 ITALIAN ⚽ SERIE A 2026/27 | Select 🅻🅸🆅🅴 🆂🅿️🅾️🆁🆃🆂 Button, Share Our Apps With Your Friends & Family.",
+    "Image": "https://raw.githubusercontent.com/samnite2290/img/gh-pages/Country/SawaridSports450300.png"
+  },
+  {
+    "Date & Time": "07-11-2026-01:40 00 am",
+    "multipleTimeRun": "Off",
+    "multipleTime": "(07-11-2026-02:45 00 am)",
+    "Title": "Toulouse 🆚 Strasbourg",
+    "Subtitle": "🏆 FRENCH ⚽ LIGUE 1 2026/27 | Select 🅻🅸🆅🅴 🆂🅿️🅾️🆁🆃🆂 Button, Share Our Apps With Your Friends & Family.",
+    "Image": "https://raw.githubusercontent.com/samnite2290/img/gh-pages/Country/SawaridSports450300.png"
+  },
+  {
+    "Date & Time": "07-11-2026-01:55 00 am",
+    "multipleTimeRun": "Off",
+    "multipleTime": "(07-11-2026-03:00 00 am)",
+    "Title": "Everton 🆚 Coventry City",
+    "Subtitle": "🏆 ENGLISH ⚽ PREMIER LEAGUE 2026/27 | Select 🅻🅸🆅🅴 🆂🅿️🅾️🆁🆃🆂 Button, Share Our Apps With Your Friends & Family.",
+    "Image": "https://raw.githubusercontent.com/samnite2290/img/gh-pages/Country/SawaridSports450300.png"
+  },
+  {
+    "Date & Time": "07-11-2026-01:55 00 am",
+    "multipleTimeRun": "Off",
+    "multipleTime": "(07-11-2026-03:00 00 am)",
+    "Title": "Sevilla 🆚 Deportivo Alavés",
+    "Subtitle": "🏆 SPANISH ⚽ LA LIGA 2026/27 | Select 🅻🅸🆅🅴 🆂🅿️🅾️🆁🆃🆂 Button, Share Our Apps With Your Friends & Family.",
+    "Image": "https://raw.githubusercontent.com/samnite2290/img/gh-pages/Country/SawaridSports450300.png"
+  },
+  {
+    "Date & Time": "07-11-2026-03:55 00 am",
+    "multipleTimeRun": "Off",
+    "multipleTime": "(07-11-2026-06:40 00 am)",
+    "Title": "New Zealand A 🆚 India A । Watch on SonyLIV",
+    "Subtitle": "🏏 INDIA A TOUR OF NEW ZEALAND 2026/27 | 3RD FOUR-DAY MATCH | FIRST-CLASS CRICKET | Select 🅻🅸🆅🅴 🆂🅿️🅾️🆁🆃🆂 Button, Share Our Apps With Your Friends & Family.",
+    "Image": "https://raw.githubusercontent.com/samnite2290/img/gh-pages/Country/SawaridSports450300.png"
+  },
+  {
+    "Date & Time": "07-11-2026-07:55 00 am",
+    "multipleTimeRun": "On",
+    "multipleTime": "(07-11-2026-11:50 00 am)",
+    "Title": "New Zealand 🆚 India । Watch on SonyLIV",
+    "Subtitle": "🏏 INDIA TOUR OF NEW ZEALAND 2026/27 | 2ND ODI | Select 🅻🅸🆅🅴 🆂🅿️🅾️🆁🆃🆂 Button, Share Our Apps With Your Friends & Family.",
+    "Image": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028191/1793758970436697_ROKO_promo_landscape_thumb.jpg"
+  },
+  {
+    "Date & Time": "07-11-2026-10:35 00 am",
+    "multipleTimeRun": "Off",
+    "multipleTime": "(07-11-2026-12:15 00 pm)",
+    "Title": "Melbourne Renegades Women 🆚 Adelaide Strikers Women",
+    "Subtitle": "🏏 AUSTRALIA WOMEN'S BIG BASH LEAGUE 2026/27 | T20 CRICKET | Select 🅻🅸🆅🅴 🆂🅿️🅾️🆁🆃🆂 Button, Share Our Apps With Your Friends & Family.",
+    "Image": "https://raw.githubusercontent.com/samnite2290/img/gh-pages/Country/SawaridSports450300.png"
+  },
+  {
+    "Date & Time": "07-11-2026-10:55 00 am",
+    "multipleTimeRun": "Off",
+    "multipleTime": "(07-11-2026-02:50 00 pm)",
+    "Title": "Afghanistan Under-19 🆚 Malaysia Under-19 । Watch on SonyLIV",
+    "Subtitle": "🏆 ACC MEN'S U19 ASIA CUP 2026 | ODI CRICKET | Select 🅻🅸🆅🅴 🆂🅿️🅾️🆁🆃🆂 Button, Share Our Apps With Your Friends & Family.",
+    "Image": "https://raw.githubusercontent.com/samnite2290/img/gh-pages/Country/SawaridSports450300.png"
+  },
+  {
+    "Date & Time": "07-11-2026-10:55 00 am",
+    "multipleTimeRun": "On",
+    "multipleTime": "(07-11-2026-02:50 00 pm)",
+    "Title": "Sri Lanka Under-19 🆚 Bangladesh Under-19 । Watch on SonyLIV",
+    "Subtitle": "🏆 ACC MEN'S U19 ASIA CUP 2026 | ODI CRICKET | Select 🅻🅸🆅🅴 🆂🅿️🅾️🆁🆃🆂 Button, Share Our Apps With Your Friends & Family.",
+    "Image": "https://raw.githubusercontent.com/samnite2290/img/gh-pages/Country/SawaridSports450300.png"
+  },
+  {
+    "Date & Time": "07-11-2026-02:05 00 pm",
+    "multipleTimeRun": "Off",
+    "multipleTime": "(07-11-2026-03:50 00 pm)",
+    "Title": "Brisbane Heat Women 🆚 Hobart Hurricanes Women",
+    "Subtitle": "🏏 AUSTRALIA WOMEN'S BIG BASH LEAGUE 2026/27 | T20 CRICKET | Select 🅻🅸🆅🅴 🆂🅿️🅾️🆁🆃🆂 Button, Share Our Apps With Your Friends & Family.",
+    "Image": "https://raw.githubusercontent.com/samnite2290/img/gh-pages/Country/SawaridSports450300.png"
+  },
+  {
+    "Date & Time": "07-11-2026-05:10 00 pm",
+    "multipleTimeRun": "Off",
+    "multipleTime": "(07-11-2026-06:55 00 pm)",
+    "Title": "Kathmandu Gurkhas 🆚 Lumbini Lions",
+    "Subtitle": "🏆 NEPAL 🏏 PREMIER LEAGUE 2026 | T20 CRICKET | Select 🅻🅸🆅🅴 🆂🅿️🅾️🆁🆃🆂 Button, Share Our Apps With Your Friends & Family.",
+    "Image": "https://raw.githubusercontent.com/samnite2290/img/gh-pages/Country/SawaridSports450300.png"
+  },
+  {
+    "Date & Time": "07-11-2026-06:25 00 pm",
+    "multipleTimeRun": "Off",
+    "multipleTime": "(07-11-2026-07:30 00 pm)",
+    "Title": "Leeds United 🆚 Tottenham Hotspur",
+    "Subtitle": "🏆 ENGLISH ⚽ PREMIER LEAGUE 2026/27 | Select 🅻🅸🆅🅴 🆂🅿️🅾️🆁🆃🆂 Button, Share Our Apps With Your Friends & Family.",
+    "Image": "https://raw.githubusercontent.com/samnite2290/img/gh-pages/Country/SawaridSports450300.png"
+  },
+  {
+    "Date & Time": "07-11-2026-06:55 00 pm",
+    "multipleTimeRun": "Off",
+    "multipleTime": "(07-11-2026-08:00 00 pm)",
+    "Title": "Málaga 🆚 Racing Santander",
+    "Subtitle": "🏆 SPANISH ⚽ LA LIGA 2026/27 | Select 🅻🅸🆅🅴 🆂🅿️🅾️🆁🆃🆂 Button, Share Our Apps With Your Friends & Family.",
+    "Image": "https://raw.githubusercontent.com/samnite2290/img/gh-pages/Country/SawaridSports450300.png"
+  },
+  {
+    "Date & Time": "07-11-2026-07:55 00 pm",
+    "multipleTimeRun": "Off",
+    "multipleTime": "(07-11-2026-09:00 00 pm)",
+    "Title": "Cagliari 🆚 Frosinone",
+    "Subtitle": "🏆 ITALIAN ⚽ SERIE A 2026/27 | Select 🅻🅸🆅🅴 🆂🅿️🅾️🆁🆃🆂 Button, Share Our Apps With Your Friends & Family.",
+    "Image": "https://raw.githubusercontent.com/samnite2290/img/gh-pages/Country/SawaridSports450300.png"
+  },
+  {
+    "Date & Time": "07-11-2026-07:55 00 pm",
+    "multipleTimeRun": "Off",
+    "multipleTime": "(07-11-2026-09:00 00 pm)",
+    "Title": "Torino 🆚 Lecce",
+    "Subtitle": "🏆 ITALIAN ⚽ SERIE A 2026/27 | Select 🅻🅸🆅🅴 🆂🅿️🅾️🆁🆃🆂 Button, Share Our Apps With Your Friends & Family.",
+    "Image": "https://raw.githubusercontent.com/samnite2290/img/gh-pages/Country/SawaridSports450300.png"
+  },
+  {
+    "Date & Time": "07-11-2026-08:25 00 pm",
+    "multipleTimeRun": "Off",
+    "multipleTime": "(07-11-2026-09:30 00 pm)",
+    "Title": "Borussia Dortmund 🆚 SV Elversberg",
+    "Subtitle": "🏆 GERMAN ⚽ BUNDESLIGA 2026/27 | Select 🅻🅸🆅🅴 🆂🅿️🅾️🆁🆃🆂 Button, Share Our Apps With Your Friends & Family.",
+    "Image": "https://raw.githubusercontent.com/samnite2290/img/gh-pages/Country/SawaridSports450300.png"
+  },
+  {
+    "Date & Time": "07-11-2026-08:25 00 pm",
+    "multipleTimeRun": "On",
+    "multipleTime": "(07-11-2026-09:30 00 pm)",
+    "Title": "Mainz 05 🆚 Bayern Munich",
+    "Subtitle": "🏆 GERMAN ⚽ BUNDESLIGA 2026/27 | Select 🅻🅸🆅🅴 🆂🅿️🅾️🆁🆃🆂 Button, Share Our Apps With Your Friends & Family.",
+    "Image": "https://raw.githubusercontent.com/samnite2290/img/gh-pages/Country/SawaridSports450300.png"
+  },
+  {
+    "Date & Time": "07-11-2026-08:25 00 pm",
+    "multipleTimeRun": "Off",
+    "multipleTime": "(07-11-2026-09:30 00 pm)",
+    "Title": "Paderborn 🆚 Eintracht Frankfurt",
+    "Subtitle": "🏆 GERMAN ⚽ BUNDESLIGA 2026/27 | Select 🅻🅸🆅🅴 🆂🅿️🅾️🆁🆃🆂 Button, Share Our Apps With Your Friends & Family.",
+    "Image": "https://raw.githubusercontent.com/samnite2290/img/gh-pages/Country/SawaridSports450300.png"
+  },
+  {
+    "Date & Time": "07-11-2026-08:25 00 pm",
+    "multipleTimeRun": "Off",
+    "multipleTime": "(07-11-2026-09:30 00 pm)",
+    "Title": "RB Leipzig 🆚 Augsburg",
+    "Subtitle": "🏆 GERMAN ⚽ BUNDESLIGA 2026/27 | Select 🅻🅸🆅🅴 🆂🅿️🅾️🆁🆃🆂 Button, Share Our Apps With Your Friends & Family.",
+    "Image": "https://raw.githubusercontent.com/samnite2290/img/gh-pages/Country/SawaridSports450300.png"
+  },
+  {
+    "Date & Time": "07-11-2026-08:55 00 pm",
+    "multipleTimeRun": "Off",
+    "multipleTime": "(07-11-2026-10:00 00 pm)",
+    "Title": "Arsenal 🆚 Hull City",
+    "Subtitle": "🏆 ENGLISH ⚽ PREMIER LEAGUE 2026/27 | Select 🅻🅸🆅🅴 🆂🅿️🅾️🆁🆃🆂 Button, Share Our Apps With Your Friends & Family.",
+    "Image": "https://raw.githubusercontent.com/samnite2290/img/gh-pages/Country/SawaridSports450300.png"
+  },
+  {
+    "Date & Time": "07-11-2026-08:55 00 pm",
+    "multipleTimeRun": "Off",
+    "multipleTime": "(07-11-2026-10:00 00 pm)",
+    "Title": "Fulham 🆚 Newcastle United",
+    "Subtitle": "🏆 ENGLISH ⚽ PREMIER LEAGUE 2026/27 | Select 🅻🅸🆅🅴 🆂🅿️🅾️🆁🆃🆂 Button, Share Our Apps With Your Friends & Family.",
+    "Image": "https://raw.githubusercontent.com/samnite2290/img/gh-pages/Country/SawaridSports450300.png"
+  },
+  {
+    "Date & Time": "07-11-2026-09:10 00 pm",
+    "multipleTimeRun": "Off",
+    "multipleTime": "(07-11-2026-10:15 00 pm)",
+    "Title": "Espanyol 🆚 Deportivo La Coruña",
+    "Subtitle": "🏆 SPANISH ⚽ LA LIGA 2026/27 | Select 🅻🅸🆅🅴 🆂🅿️🅾️🆁🆃🆂 Button, Share Our Apps With Your Friends & Family.",
+    "Image": "https://raw.githubusercontent.com/samnite2290/img/gh-pages/Country/SawaridSports450300.png"
+  },
+  {
+    "Date & Time": "07-11-2026-10:10 00 pm",
+    "multipleTimeRun": "Off",
+    "multipleTime": "(07-11-2026-11:15 00 pm)",
+    "Title": "Auxerre 🆚 Paris FC",
+    "Subtitle": "🏆 FRENCH ⚽ LIGUE 1 2026/27 | Select 🅻🅸🆅🅴 🆂🅿️🅾️🆁🆃🆂 Button, Share Our Apps With Your Friends & Family.",
+    "Image": "https://raw.githubusercontent.com/samnite2290/img/gh-pages/Country/SawaridSports450300.png"
+  },
+  {
+    "Date & Time": "07-11-2026-10:55 00 pm",
+    "multipleTimeRun": "Off",
+    "multipleTime": "(07-11-2026-12:00 00 am)",
+    "Title": "Parma 🆚 Bologna",
+    "Subtitle": "🏆 ITALIAN ⚽ SERIE A 2026/27 | Select 🅻🅸🆅🅴 🆂🅿️🅾️🆁🆃🆂 Button, Share Our Apps With Your Friends & Family.",
+    "Image": "https://raw.githubusercontent.com/samnite2290/img/gh-pages/Country/SawaridSports450300.png"
+  },
+  {
+    "Date & Time": "07-11-2026-11:25 00 pm",
+    "multipleTimeRun": "On",
+    "multipleTime": "(08-11-2026-12:30 00 am)",
+    "Title": "Nottingham Forest 🆚 Manchester City",
+    "Subtitle": "🏆 ENGLISH ⚽ PREMIER LEAGUE 2026/27 | Select 🅻🅸🆅🅴 🆂🅿️🅾️🆁🆃🆂 Button, Share Our Apps With Your Friends & Family.",
+    "Image": "https://raw.githubusercontent.com/samnite2290/img/gh-pages/Country/SawaridSports450300.png"
+  },
+  {
+    "Date & Time": "07-11-2026-11:25 00 pm",
+    "multipleTimeRun": "Off",
+    "multipleTime": "(08-11-2026-12:30 00 am)",
+    "Title": "VfB Stuttgart 🆚 Werder Bremen",
+    "Subtitle": "🏆 GERMAN ⚽ BUNDESLIGA 2026/27 | Select 🅻🅸🆅🅴 🆂🅿️🅾️🆁🆃🆂 Button, Share Our Apps With Your Friends & Family.",
+    "Image": "https://raw.githubusercontent.com/samnite2290/img/gh-pages/Country/SawaridSports450300.png"
+  },
+  {
+    "Date & Time": "07-11-2026-11:25 00 pm",
+    "multipleTimeRun": "Off",
+    "multipleTime": "(08-11-2026-12:30 00 am)",
+    "Title": "Osasuna 🆚 Athletic Club",
+    "Subtitle": "🏆 SPANISH ⚽ LA LIGA 2026/27 | Select 🅻🅸🆅🅴 🆂🅿️🅾️🆁🆃🆂 Button, Share Our Apps With Your Friends & Family.",
     "Image": "https://raw.githubusercontent.com/samnite2290/img/gh-pages/Country/SawaridSports450300.png"
   },
 
