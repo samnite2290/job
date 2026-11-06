@@ -274,16 +274,16 @@
     "Sync": "Off",
     "group_name": "OTT PLATFORMS",
     "button_name": "BD Orbit WIFI USERS",
-    "button_image_url": "https://raw.githubusercontent.com/samnite2290/img/refs/heads/gh-pages/HOME/1000627422.jpg",
-    "button_playlist_url": "https://sawarid-proxy-ksa.pages.dev/WIFI/Antaranga"
+    "button_image_url": "https://raw.githubusercontent.com/samnite2290/img/gh-pages/Country/OrbitWifi.jpeg",
+    "button_playlist_url": "https://sawarid-proxy-ksa.pages.dev/BD_Orbit_Wifi.m3u"
   },
   {
     "Auto_Update": "On",
     "Sync": "Off",
     "group_name": "OTT PLATFORMS",
     "button_name": "BD Antaranga WIFI USERS",
-    "button_image_url": "https://raw.githubusercontent.com/samnite2290/img/gh-pages/Country/OrbitWifi.jpeg",
-    "button_playlist_url": "https://sawarid-proxy-ksa.pages.dev/BD_Orbit_Wifi.m3u"
+    "button_image_url": "https://raw.githubusercontent.com/samnite2290/img/refs/heads/gh-pages/HOME/1000627422.jpg",
+    "button_playlist_url": "https://sawarid-proxy-ksa.pages.dev/WIFI/Antaranga"
   },
 
 
