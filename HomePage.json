@@ -118,6 +118,14 @@
     "button_image_url": "https://raw.githubusercontent.com/samnite2290/img/refs/heads/gh-pages/HOME/Bein%20Sports.png",
     "button_playlist_url": "https://sawarid-proxy-ksa.pages.dev/SPORTS/Bein%20Sports.m3u"
   },
+  { 
+    "Auto_Update": "On",
+    "Sync": "Off",
+    "group_name": "SPORTS",
+    "button_name": "PRIME Sports",
+    "button_image_url": "https://raw.githubusercontent.com/samnite2290/img/refs/heads/gh-pages/HOME/AmazonPrimeSports.png",
+    "button_playlist_url": "https://raw.githubusercontent.com/srhady/willow-event/refs/heads/main/primevideo_sports.m3u"
+  },
   
   { 
     "Auto_Update": "On",
