@@ -5,9 +5,25 @@
    "Auto_Update": "On",
     "Sync": "On",
     "group_name": "SPORTS",
-    "button_name": "Live Event 1",
+    "button_name": "Live Event",
     "button_image_url": "https://raw.githubusercontent.com/samnite2290/img/gh-pages/HOME/HOME-LIVE-EVENT.png",
     "button_playlist_url": "https://sawarid-proxy-ksa.pages.dev/LiveEventSports.m3u"
+  },
+  {  
+   "Auto_Update": "On",
+    "Sync": "On",
+    "group_name": "SPORTS",
+    "button_name": "FOOTBALL",
+    "button_image_url": "https://raw.githubusercontent.com/samnite2290/img/gh-pages/HOME/Football-MED.png",
+    "button_playlist_url": "https://sawarid-proxy-ksa.pages.dev/Football-Live.m3u"
+  },
+  {  
+   "Auto_Update": "On",
+    "Sync": "On",
+    "group_name": "SPORTS",
+    "button_name": "CRICKET",
+    "button_image_url": "https://raw.githubusercontent.com/samnite2290/img/gh-pages/HOME/Cricket-MED.png",
+    "button_playlist_url": "https://sawarid-proxy-ksa.pages.dev/Cricket-Live.m3u"
   },
  
 
